@@ -33,8 +33,7 @@ public class EnemyEncounter : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
         baseScale = transform.localScale;
         basePosition = transform.localPosition;
-        Choreographer.OnBeatDemo += CueBeat;
-        Metronome.OnBeatWindowOpened += DemoBeatWindowOpen;
+        Choreographer.OnBeatDemo += DemoBeat;
         Metronome.OnBeatPassed += DemoBeatPassed;
 
         if (matchAnimationTimerToTimingWindow) spriteAnimationTime = (TimingWindow * 2) / 1000;
@@ -55,8 +54,10 @@ public class EnemyEncounter : MonoBehaviour
         else if (spriteTimerActive && spriteTimer < -spriteAnimationTime) ResetSprite();
     }
 
-    private void DemoBeatWindowOpen() 
+    private void DemoBeat(int beat) 
     {
+        beatToCue = beat;
+
         foreach (NoteActionDetails noteAction in NoteActions) 
         {
             if (beatToCue != (int)noteAction.Note) continue;
@@ -75,11 +76,6 @@ public class EnemyEncounter : MonoBehaviour
 
             if (noteAction.Sound != null) audioSource.PlayOneShot(noteAction.Sound);
         }
-    }
-
-    private void CueBeat(int beat) 
-    {
-        beatToCue = beat;
     }
 
     private void SetSpriteWithTimer(Sprite sprite, float time) 

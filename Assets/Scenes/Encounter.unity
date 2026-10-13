@@ -213,7 +213,9 @@ GameObject:
   m_Component:
   - component: {fileID: 270486017}
   - component: {fileID: 270486016}
+  - component: {fileID: 270486020}
   - component: {fileID: 270486018}
+  - component: {fileID: 270486019}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -307,6 +309,147 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fdab75a26eebdb4db009844768c777d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  DefaultSprite: {fileID: -437322039120708491, guid: 761a723dc5eedc84db9c3b9937b02a1e, type: 3}
+  NoteActions:
+  - Note: 1
+    Sprite: {fileID: -4090978185585803396, guid: 761a723dc5eedc84db9c3b9937b02a1e, type: 3}
+    Sound: {fileID: 0}
+  - Note: 2
+    Sprite: {fileID: -1583959265, guid: 761a723dc5eedc84db9c3b9937b02a1e, type: 3}
+    Sound: {fileID: 0}
+  - Note: 3
+    Sprite: {fileID: -6454181427881192536, guid: 761a723dc5eedc84db9c3b9937b02a1e, type: 3}
+    Sound: {fileID: 0}
+  - Note: 4
+    Sprite: {fileID: -342488978388223297, guid: 761a723dc5eedc84db9c3b9937b02a1e, type: 3}
+    Sound: {fileID: 0}
+  spriteAnimationTime: 0.4
+  matchAnimationTimerToTimingWindow: 1
+  spriteAnimationSlideDistance: 1
+--- !u!114 &270486019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 270486015}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.InputSystem::UnityEngine.InputSystem.PlayerInput
+  m_Actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_NotificationBehavior: 2
+  m_UIInputModule: {fileID: 0}
+  m_DeviceLostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeviceRegainedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ControlsChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ActionEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 270486018}
+        m_TargetAssemblyTypeName: PlayerController, Assembly-CSharp
+        m_MethodName: OnMove
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: 351f2ccd-1f9f-44bf-9bec-d62ac5c5f408
+    m_ActionName: 'Player/Move[/Keyboard/w,/Keyboard/upArrow,/Keyboard/s,/Keyboard/downArrow,/Keyboard/a,/Keyboard/leftArrow,/Keyboard/d,/Keyboard/rightArrow]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 6b444451-8a00-4d00-a97e-f47457f736a8
+    m_ActionName: 'Player/Look[/Mouse/delta]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 6c2ab1b8-8984-453a-af3d-a3c78ae1679a
+    m_ActionName: 'Player/Attack[/Mouse/leftButton,/Keyboard/enter]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 852140f2-7766-474d-8707-702459ba45f3
+    m_ActionName: 'Player/Interact[/Keyboard/e]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 27c5f898-bc57-4ee1-8800-db469aca5fe3
+    m_ActionName: 'Player/Crouch[/Keyboard/c]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: f1ba0d36-48eb-4cd5-b651-1c94a6531f70
+    m_ActionName: 'Player/Jump[/Keyboard/space]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 641cd816-40e6-41b4-8c3d-04687c349290
+    m_ActionName: 'Player/Sprint[/Keyboard/leftShift]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: c95b2375-e6d9-4b88-9c4c-c5e76515df4b
+    m_ActionName: 'UI/Navigate[/Keyboard/w,/Keyboard/upArrow,/Keyboard/s,/Keyboard/downArrow,/Keyboard/a,/Keyboard/leftArrow,/Keyboard/d,/Keyboard/rightArrow]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 7607c7b6-cd76-4816-beef-bd0341cfe950
+    m_ActionName: 'UI/Submit[/Keyboard/enter]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 15cef263-9014-4fd5-94d9-4e4a6234a6ef
+    m_ActionName: 'UI/Cancel[/Keyboard/escape]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 32b35790-4ed0-4e9a-aa41-69ac6d629449
+    m_ActionName: 'UI/Point[/Mouse/position]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 3c7022bf-7922-4f7c-a998-c437916075ad
+    m_ActionName: 'UI/Click[/Mouse/leftButton]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 44b200b1-1557-4083-816c-b22cbdf77ddf
+    m_ActionName: 'UI/RightClick[/Mouse/rightButton]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: dad70c86-b58c-4b17-88ad-f5e53adf419e
+    m_ActionName: 'UI/MiddleClick[/Mouse/middleButton]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 0489e84a-4833-4c40-bfae-cea84b696689
+    m_ActionName: 'UI/ScrollWheel[/Mouse/scroll]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 24908448-c609-4bc3-a128-ea258674378a
+    m_ActionName: UI/TrackedDevicePosition
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 9caa3d8a-6b2f-4e8e-8bad-6ede561bd9be
+    m_ActionName: UI/TrackedDeviceOrientation
+  m_NeverAutoSwitchControlSchemes: 0
+  m_DefaultControlScheme: 
+  m_DefaultActionMap: Player
+  m_SplitScreenIndex: -1
+  m_Camera: {fileID: 0}
+--- !u!114 &270486020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 270486015}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bb8b9cd126891b47810f2ed631dd9bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  maxHealth: 5
+  DamageFlickerTime: 2
 --- !u!1 &271775868
 GameObject:
   m_ObjectHideFlags: 0
@@ -491,16 +634,16 @@ MonoBehaviour:
   DefaultSprite: {fileID: 3739918606922178988, guid: 990f56c8295c15d45ad99e4ab62cbc40, type: 3}
   NoteActions:
   - Note: 1
-    Sprite: {fileID: 2874025327791258668, guid: 990f56c8295c15d45ad99e4ab62cbc40, type: 3}
-    Sound: {fileID: 0}
-  - Note: 2
     Sprite: {fileID: 7174406893051493193, guid: 990f56c8295c15d45ad99e4ab62cbc40, type: 3}
     Sound: {fileID: 0}
+  - Note: 2
+    Sprite: {fileID: 2874025327791258668, guid: 990f56c8295c15d45ad99e4ab62cbc40, type: 3}
+    Sound: {fileID: 0}
   - Note: 3
-    Sprite: {fileID: -5610005607842546794, guid: 990f56c8295c15d45ad99e4ab62cbc40, type: 3}
+    Sprite: {fileID: 8751281259726764774, guid: 990f56c8295c15d45ad99e4ab62cbc40, type: 3}
     Sound: {fileID: 0}
   - Note: 4
-    Sprite: {fileID: 8751281259726764774, guid: 990f56c8295c15d45ad99e4ab62cbc40, type: 3}
+    Sprite: {fileID: -5610005607842546794, guid: 990f56c8295c15d45ad99e4ab62cbc40, type: 3}
     Sound: {fileID: 0}
   - Note: 7
     Sprite: {fileID: -8166685118564402328, guid: d1da741e8307ee449a5d30d3fb75ee2a, type: 3}
@@ -508,7 +651,7 @@ MonoBehaviour:
   spriteAnimationTime: 0.4
   matchAnimationTimerToTimingWindow: 1
   spriteAnimationSlideDistance: 1
-  EncounterTrack: {fileID: 11400000, guid: 523c9803279e6ac49af4262238c85e36, type: 2}
+  EncounterTrack: {fileID: 11400000, guid: e89d96efa801d1d44ab285b33318f8c1, type: 2}
   TimingWindow: 80
 --- !u!212 &275158541
 SpriteRenderer:
@@ -892,6 +1035,10 @@ PrefabInstance:
       propertyPath: Music
       value: 
       objectReference: {fileID: 671891194}
+    - target: {fileID: 7166296430610649921, guid: 06f749fc0af71504bae395f3619361b3, type: 3}
+      propertyPath: m_Pitch
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 8485790330717964221, guid: 06f749fc0af71504bae395f3619361b3, type: 3}
       propertyPath: State
       value: 1
@@ -903,6 +1050,9 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 2168688532261684175, guid: 06f749fc0af71504bae395f3619361b3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1857626486}
     - targetCorrespondingSourceObject: {fileID: 2168688532261684175, guid: 06f749fc0af71504bae395f3619361b3, type: 3}
       insertIndex: -1
       addedObject: {fileID: 271775870}
@@ -1353,6 +1503,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1857626485
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1857626486}
+  m_Layer: 0
+  m_Name: UIManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1857626486
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1857626485}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.44468, y: -1.4811699, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 643106450}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2044667074
 GameObject:
   m_ObjectHideFlags: 0
@@ -1708,14 +1889,6 @@ MonoBehaviour:
     m_ActionName: 'Player/Jump[/Keyboard/space]'
   - m_PersistentCalls:
       m_Calls: []
-    m_ActionId: 2776c80d-3c14-4091-8c56-d04ced07a2b0
-    m_ActionName: 'Player/Previous[/Keyboard/1]'
-  - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: b7230bb6-fc9b-4f52-8b25-f5e19cb2c2ba
-    m_ActionName: 'Player/Next[/Keyboard/2]'
-  - m_PersistentCalls:
-      m_Calls: []
     m_ActionId: 641cd816-40e6-41b4-8c3d-04687c349290
     m_ActionName: 'Player/Sprint[/Keyboard/leftShift]'
   - m_PersistentCalls:
@@ -1760,7 +1933,7 @@ MonoBehaviour:
     m_ActionName: UI/TrackedDeviceOrientation
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
-  m_DefaultActionMap: 
+  m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
 --- !u!1660057539 &9223372036854775807

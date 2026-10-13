@@ -17,8 +17,8 @@ public class LightingManager : MonoBehaviour
     {
         GlobalLight.intensity = 1f;
 
-        Choreographer.OnBeatDemo += EnemyLighting;
-        Choreographer.OnBeatListen += PlayerLighting;
+        Choreographer.OnSwitchToDemoState += EnemyLighting;
+        Choreographer.OnSwitchToListenState += PlayerLighting;
     }
 
     // Update is called once per frame
@@ -50,13 +50,13 @@ public class LightingManager : MonoBehaviour
         Debug.Log($"Set start battle beat to: {beat} (In LightingManager)");
     }
 
-    private void EnemyLighting(int i) 
+    private void EnemyLighting() 
     {
         PlayerLight.SetActive(false);
         EnemyLight.SetActive(true);
     }
 
-    private void PlayerLighting(int i)
+    private void PlayerLighting()
     {
         PlayerLight.SetActive(true);
         EnemyLight.SetActive(false);

@@ -4,8 +4,9 @@ using UnityEngine;
 public class Choreographer : MonoBehaviour
 {
     private int[] pattern;
-    private int NextDemoBeat;
-    private int NextListenBeat;
+    [SerializeField] private int NextDemoBeat;
+    [SerializeField] private int NextListenBeat;
+    [SerializeField] private int ActiveBeat;
     private int CurrentPatternBeat = 0;
     public ChoreographerState State = ChoreographerState.Waiting;
     public int BeatsBeforeSetting = 4;
@@ -31,16 +32,18 @@ public class Choreographer : MonoBehaviour
     public void ResetValues(int firstBeat)
     {
         pattern = new int[GameManager.Instance.Metronome.BeatsInBar];
-        NextDemoBeat = firstBeat;
+        NextDemoBeat = firstBeat + 1;
         NextListenBeat = NextDemoBeat + GameManager.Instance.Metronome.BeatsInBar;
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (GameManager.Instance.Metronome.GetActiveBeat() != -1) ActiveBeat = GameManager.Instance.Metronome.GetActiveBeat();
+
         if (State == ChoreographerState.Waiting) 
         {
-            if (GameManager.Instance.Metronome.GetActiveBeat() >= NextDemoBeat - BeatsBeforeSetting) State = ChoreographerState.Setting;
+            if (ActiveBeat >= NextDemoBeat - BeatsBeforeSetting) State = ChoreographerState.Setting;
         }
         else if (State == ChoreographerState.Setting)
         {
@@ -50,12 +53,12 @@ public class Choreographer : MonoBehaviour
         }
         else if (State == ChoreographerState.Demonstrating)
         {
-            if (GameManager.Instance.Metronome.GetActiveBeat() == NextDemoBeat)
+            if (ActiveBeat == NextDemoBeat)
             {
+                OnBeatListen.Invoke(0);
                 // Demo the beat using pattern[CurrentPatternBeat]
-                if (CurrentPatternBeat == 7) OnBeatDemo.Invoke(7);
-                else OnBeatDemo.Invoke(pattern[CurrentPatternBeat]);
-                //Debug.Log($"Demo: {pattern[CurrentPatternBeat]} (Bar {CurrentPatternBeat + 1}/{pattern.Length}");
+                OnBeatDemo.Invoke(pattern[CurrentPatternBeat]);
+                Debug.Log($"Demo: {pattern[CurrentPatternBeat]} (Bar {CurrentPatternBeat + 1}/{pattern.Length}");
 
                 NextDemoBeat++;
                 CurrentPatternBeat++;
@@ -70,7 +73,7 @@ public class Choreographer : MonoBehaviour
         }
         else if (State == ChoreographerState.Listening)
         {
-            if (GameManager.Instance.Metronome.GetActiveBeat() == NextListenBeat)
+            if (ActiveBeat == NextListenBeat)
             {
                 OnBeatDemo.Invoke(-1);
                 // Tell judge to listen for pattern[CurrentBeatPattern]
@@ -93,7 +96,7 @@ public class Choreographer : MonoBehaviour
     {
         for (int i = 0; i < pattern.Length; i++)
         {
-            int note = UnityEngine.Random.Range(1, 5);
+            int note = UnityEngine.Random.Range(1, 2);
             pattern[i] = note;
         }
 

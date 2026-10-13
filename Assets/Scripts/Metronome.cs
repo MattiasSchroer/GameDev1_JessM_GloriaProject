@@ -19,7 +19,7 @@ public class Metronome : MonoBehaviour
     private int lastBeat;
     [SerializeField] private float beatDurationMs;
     private float nextBeatPosition;
-    private int activeBeat = -1;
+    [SerializeField] private int activeBeat = -1;
     private float activeBeatStartPos;
     private float activeBeatEndPos;
     private bool beatPassed = false;
