@@ -508,7 +508,7 @@ MonoBehaviour:
   spriteAnimationTime: 0.4
   matchAnimationTimerToTimingWindow: 1
   spriteAnimationSlideDistance: 1
-  EncounterTrack: {fileID: 11400000, guid: 523c9803279e6ac49af4262238c85e36, type: 2}
+  EncounterTrack: {fileID: 11400000, guid: 3a8b20d6d0b95c24785edbebff3ed65e, type: 2}
   TimingWindow: 80
 --- !u!212 &275158541
 SpriteRenderer:
