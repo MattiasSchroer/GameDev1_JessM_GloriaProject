@@ -1,5 +1,6 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
 {
@@ -7,12 +8,17 @@ public class UIManager : MonoBehaviour
     [SerializeField] private float proximityTextDisplayTime = 0.5f;
     private float proxTextTimer = 0;
 
+    [SerializeField] private Slider playerHealthBar;
+    [SerializeField] private Slider enemyHealthBar;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         proximityText.color = new Color(0, 0, 0, 0);
 
         Judge.OnValidateInput += SetProximityText;
+        PlayerStatus.OnPlayerHealthChange += UpdatePlayerHealthBar;
+        EnemyEncounter.OnEnemyHealthChange += UpdateEnemyHealthBar;
     }
 
     // Update is called once per frame
@@ -25,6 +31,18 @@ public class UIManager : MonoBehaviour
         proxTextColor.a = Mathf.Clamp01(proxTextTimer / (proximityTextDisplayTime / 2));
 
         proximityText.color = proxTextColor;
+    }
+
+    private void UpdateEnemyHealthBar(Health health)
+    {
+        Debug.Log($"Enemy health bar value updated to {(float)health.CurrentHealth / health.MaxHealth}");
+        enemyHealthBar.value = (float)health.CurrentHealth / health.MaxHealth;
+    }
+
+    private void UpdatePlayerHealthBar(Health health) 
+    {
+        Debug.Log($"Player health bar value updated to {(float)health.CurrentHealth / health.MaxHealth}");
+        playerHealthBar.value = (float)health.CurrentHealth / health.MaxHealth;
     }
 
     private void SetProximityText(bool success) 

@@ -11,10 +11,13 @@ public class Choreographer : MonoBehaviour
     public ChoreographerState State = ChoreographerState.Waiting;
     public int BeatsBeforeSetting = 4;
 
+    [SerializeField] private bool DebugMessages = false;
+
     public static event Action<int> OnBeatDemo;
     public static event Action<int> OnBeatListen;
     public static event Action OnSwitchToDemoState;
     public static event Action OnSwitchToListenState;
+    public static event Action OnEndListenPhase;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -56,9 +59,10 @@ public class Choreographer : MonoBehaviour
             if (ActiveBeat == NextDemoBeat)
             {
                 OnBeatListen.Invoke(0);
+
                 // Demo the beat using pattern[CurrentPatternBeat]
                 OnBeatDemo.Invoke(pattern[CurrentPatternBeat]);
-                Debug.Log($"Demo: {pattern[CurrentPatternBeat]} (Bar {CurrentPatternBeat + 1}/{pattern.Length}");
+                if (DebugMessages) Debug.Log($"Demo: {pattern[CurrentPatternBeat]} (Bar {CurrentPatternBeat + 1}/{pattern.Length}");
 
                 NextDemoBeat++;
                 CurrentPatternBeat++;
@@ -76,9 +80,10 @@ public class Choreographer : MonoBehaviour
             if (ActiveBeat == NextListenBeat)
             {
                 OnBeatDemo.Invoke(-1);
+
                 // Tell judge to listen for pattern[CurrentBeatPattern]
                 OnBeatListen.Invoke(pattern[CurrentPatternBeat]);
-                //Debug.Log($"Listening for: {pattern[CurrentPatternBeat]} (Bar {CurrentPatternBeat + 1}/{pattern.Length}");
+                if (DebugMessages) Debug.Log($"Listening for: {pattern[CurrentPatternBeat]} (Bar {CurrentPatternBeat + 1}/{pattern.Length}");
 
                 NextListenBeat++;
                 CurrentPatternBeat++;
@@ -88,6 +93,7 @@ public class Choreographer : MonoBehaviour
                 NextListenBeat += GameManager.Instance.Metronome.BeatsInBar;
                 CurrentPatternBeat = 0;
                 State = ChoreographerState.Setting;
+                OnEndListenPhase?.Invoke();
             }
         }
     }
@@ -104,7 +110,7 @@ public class Choreographer : MonoBehaviour
 
         pattern[pattern.Length - 1] = 7;
 
-        Debug.Log($"Next pattern: {string.Join(", ", pattern)}");
+        if (DebugMessages) Debug.Log($"Next pattern: {string.Join(", ", pattern)}");
     }
 }
 
