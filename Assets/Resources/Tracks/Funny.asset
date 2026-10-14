@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 74dedcd54da02394a892896cb1029da0, type: 3}
-  m_Name: GloriaPopExplosion
+  m_Name: Funny
   m_EditorClassIdentifier: Assembly-CSharp::Track
-  Song: {fileID: 8300000, guid: a7bf88cf4875c39439f7786e3fc9cef0, type: 3}
-  BPM: 130
-  Offset: 0
-  GameplayStartBeat: 28
-  BeatsInBar: 4
+  Song: {fileID: 8300000, guid: 9ab0a04cfcec1bf45b9a9935b2a80fc1, type: 3}
+  BPM: 140
+  Offset: -270
+  GameplayStartBeat: 81
+  BeatsInBar: 8
   HalfBeatsEnabled: 0

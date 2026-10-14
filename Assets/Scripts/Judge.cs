@@ -7,6 +7,7 @@ public class Judge : MonoBehaviour
     [SerializeField] private int LastReceivedInput = 0;
     private bool InputReceived = false;
     public bool RanValidation = false;
+    private bool SequenceEnded = false;
     private bool SuccessfulSequence = true;
 
     public static event Action OnInputReceived;
@@ -62,13 +63,19 @@ public class Judge : MonoBehaviour
 
         OnValidateInput?.Invoke(valid);
 
+        if (SequenceEnded) 
+        {
+            OnSequenceEnd?.Invoke(SuccessfulSequence);
+            SuccessfulSequence = true;
+            SequenceEnded = false;
+        }
+
         if (NextCorrectInput != 0 && DebugMessages) Debug.Log($"Player succeeded note: {valid} (Expected {NextCorrectInput}, Received {LastReceivedInput})");
     }
 
     private void EndSequenceCheck() 
     {
-        OnSequenceEnd?.Invoke(SuccessfulSequence);
-        SuccessfulSequence = true;
+        SequenceEnded = true;
     }
 
     private void ResetState() 

@@ -50,6 +50,21 @@ public class GameManager : MonoBehaviour
         UIManager.ToggleMainMenu(false);
     }
 
+    public void StartButEvil() 
+    {
+        EnemyEncounter enemy = GameObject.FindAnyObjectByType<EnemyEncounter>();
+        Track evilTrack = Instantiate(Resources.Load<Track>("Tracks/TitleSong"));
+        evilTrack.BeatsInBar = 8;
+
+        GetEnemyDetails(evilTrack, enemy.TimingWindow);
+
+        Music.PlaySong();
+        Metronome.ResetValues();
+        Metronome.ToggleGameplay(true);
+        UIManager.ToggleGameplayUI(true);
+        UIManager.ToggleMainMenu(false);
+    }
+
     public void GetEnemyDetails(Track track, float timingWindow) 
     {
         Debug.Log("Ran get enemy details...");

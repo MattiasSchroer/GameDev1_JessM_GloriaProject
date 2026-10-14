@@ -11,6 +11,8 @@ public class Choreographer : MonoBehaviour
     public ChoreographerState State = ChoreographerState.Waiting;
     public int BeatsBeforeSetting = 4;
 
+    [SerializeField] private bool DisableBlanks = false;
+    [SerializeField] private bool LastSequenceNoteIsGo = false;
     [SerializeField] private bool DebugMessages = false;
 
     public static event Action<int> OnBeatDemo;
@@ -106,15 +108,18 @@ public class Choreographer : MonoBehaviour
 
     public void SetNextPattern()
     {
+        int minRange = 0;
+        if (DisableBlanks) minRange = 1;
+
         for (int i = 0; i < pattern.Length; i++)
         {
-            int note = UnityEngine.Random.Range(0, 5);
+            int note = UnityEngine.Random.Range(minRange, 5);
             pattern[i] = note;
         }
 
         pattern[0] = 2;
 
-        pattern[pattern.Length - 1] = 7;
+        if(LastSequenceNoteIsGo) pattern[pattern.Length - 1] = 7;
 
         if (DebugMessages) Debug.Log($"Next pattern: {string.Join(", ", pattern)}");
     }

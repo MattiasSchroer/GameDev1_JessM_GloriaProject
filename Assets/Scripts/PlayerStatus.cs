@@ -20,7 +20,7 @@ public class PlayerStatus : MonoBehaviour
         Health = new Health(maxHealth);
         Judge.OnValidateInput += TakeDamageOnFailedInput;
         spriteRenderer = GetComponent<SpriteRenderer>();
-        Choreographer.OnSwitchToDemoState += ResetInvincibility;
+        Judge.OnSequenceEnd += ResetInvincibility;
         GameManager.ResetGameState += ResetState;
     }
 
@@ -63,7 +63,7 @@ public class PlayerStatus : MonoBehaviour
         else spriteRenderer.color = Color.white;
     }
 
-    private void ResetInvincibility() 
+    private void ResetInvincibility(bool b) 
     {
         Invincibility = false;
     }
