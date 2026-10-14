@@ -532,7 +532,7 @@ MonoBehaviour:
   spriteAnimationSlideDistance: 1
   EncounterTrack: {fileID: 11400000, guid: e89d96efa801d1d44ab285b33318f8c1, type: 2}
   TimingWindow: 80
-  maxHealth: 20
+  maxHealth: 10
 --- !u!212 &275158541
 SpriteRenderer:
   serializedVersion: 2
@@ -860,7 +860,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8485790330717964221, guid: 06f749fc0af71504bae395f3619361b3, type: 3}
       propertyPath: LastSequenceNoteIsGo
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8696070997428526690, guid: 06f749fc0af71504bae395f3619361b3, type: 3}
       propertyPath: m_AnchorMax.x
