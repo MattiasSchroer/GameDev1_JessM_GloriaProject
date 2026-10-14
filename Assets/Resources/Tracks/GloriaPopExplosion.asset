@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: GloriaPopExplosion
   m_EditorClassIdentifier: Assembly-CSharp::Track
   Song: {fileID: 8300000, guid: a7bf88cf4875c39439f7786e3fc9cef0, type: 3}
-  BPM: 130
+  BPM: 117
   Offset: -280
   GameplayStartBeat: 28
   BeatsInBar: 4
