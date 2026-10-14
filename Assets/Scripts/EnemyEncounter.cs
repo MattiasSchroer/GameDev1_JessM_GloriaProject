@@ -24,18 +24,26 @@ public class EnemyEncounter : MonoBehaviour
     private bool spriteTimerActive = false;
     private Vector2 slideDirection;
 
+    [SerializeField] private int maxHealth = 10;
+    private Health Health;
+
     public static event Action<Track, float> SendEncounterDetails;
+    public static event Action<Health> OnEnemyHealthChange;
+    public static event Action OnEnemyHealthEmpty;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        Health = new Health(maxHealth);
+
         spriteRenderer = GetComponent<SpriteRenderer>();
         audioSource = GetComponent<AudioSource>();
         baseScale = transform.localScale;
         basePosition = transform.localPosition;
-        Choreographer.OnBeatDemo += CueBeat;
-        Metronome.OnBeatWindowOpened += DemoBeatWindowOpen;
+        Choreographer.OnBeatDemo += DemoBeat;
         Metronome.OnBeatPassed += DemoBeatPassed;
+        Judge.OnSequenceEnd += LoseHealthOnSuccessfulPlayerSequence;
+        GameManager.ResetGameState += ResetState;
 
         if (matchAnimationTimerToTimingWindow) spriteAnimationTime = (TimingWindow * 2) / 1000;
     }
@@ -55,8 +63,10 @@ public class EnemyEncounter : MonoBehaviour
         else if (spriteTimerActive && spriteTimer < -spriteAnimationTime) ResetSprite();
     }
 
-    private void DemoBeatWindowOpen() 
+    private void DemoBeat(int beat) 
     {
+        beatToCue = beat;
+
         foreach (NoteActionDetails noteAction in NoteActions) 
         {
             if (beatToCue != (int)noteAction.Note) continue;
@@ -75,11 +85,6 @@ public class EnemyEncounter : MonoBehaviour
 
             if (noteAction.Sound != null) audioSource.PlayOneShot(noteAction.Sound);
         }
-    }
-
-    private void CueBeat(int beat) 
-    {
-        beatToCue = beat;
     }
 
     private void SetSpriteWithTimer(Sprite sprite, float time) 
@@ -110,5 +115,27 @@ public class EnemyEncounter : MonoBehaviour
     public void BeginEncounter() 
     {
         SendEncounterDetails?.Invoke(EncounterTrack, TimingWindow);
+    }
+
+    private void TakeDamage(int damage) 
+    {
+        Health.TakeDamage(damage);
+        OnEnemyHealthChange?.Invoke(Health);
+
+        if (Health.Empty) OnEnemyHealthEmpty?.Invoke();
+    }
+
+    private void LoseHealthOnSuccessfulPlayerSequence(bool successfulSequence) 
+    {
+        if (!successfulSequence) return;
+
+        TakeDamage(1);
+    }
+
+    private void ResetState() 
+    {
+        Health.Reset();
+        OnEnemyHealthChange?.Invoke(Health);
+        spriteTimer = 0f;
     }
 }
