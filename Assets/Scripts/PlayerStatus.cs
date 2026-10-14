@@ -12,6 +12,7 @@ public class PlayerStatus : MonoBehaviour
     private bool Invincibility = false;
 
     public static event Action<Health> OnPlayerHealthChange;
+    public static event Action OnPlayerHealthEmpty;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -20,6 +21,7 @@ public class PlayerStatus : MonoBehaviour
         Judge.OnValidateInput += TakeDamageOnFailedInput;
         spriteRenderer = GetComponent<SpriteRenderer>();
         Choreographer.OnSwitchToDemoState += ResetInvincibility;
+        GameManager.ResetGameState += ResetState;
     }
 
     // Update is called once per frame
@@ -45,6 +47,12 @@ public class PlayerStatus : MonoBehaviour
         Health.TakeDamage(1);
         OnPlayerHealthChange?.Invoke(Health);
 
+        if (Health.Empty) 
+        {
+            OnPlayerHealthEmpty?.Invoke();
+            return;
+        }
+
         DamageTimer = DamageFlickerTime;
         ToggleDamageVisual(true);
     }
@@ -57,6 +65,13 @@ public class PlayerStatus : MonoBehaviour
 
     private void ResetInvincibility() 
     {
+        Invincibility = false;
+    }
+
+    private void ResetState() 
+    {
+        Health.Reset();
+        OnPlayerHealthChange?.Invoke(Health);
         Invincibility = false;
     }
 }

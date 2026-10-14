@@ -27,16 +27,22 @@ public class Choreographer : MonoBehaviour
 
     public void ResetValues() 
     {
+        State = ChoreographerState.Waiting;
         pattern = new int[GameManager.Instance.Metronome.BeatsInBar];
+        ActiveBeat = 0;
         NextDemoBeat = GameManager.Instance.Metronome.BeatsInBar + 1;
         NextListenBeat = NextDemoBeat + GameManager.Instance.Metronome.BeatsInBar;
+        CurrentPatternBeat = 0;
     }
 
     public void ResetValues(int firstBeat)
     {
+        State = ChoreographerState.Waiting;
         pattern = new int[GameManager.Instance.Metronome.BeatsInBar];
+        ActiveBeat = 0;
         NextDemoBeat = firstBeat + 1;
         NextListenBeat = NextDemoBeat + GameManager.Instance.Metronome.BeatsInBar;
+        CurrentPatternBeat = 0;
     }
 
     // Update is called once per frame
@@ -102,7 +108,7 @@ public class Choreographer : MonoBehaviour
     {
         for (int i = 0; i < pattern.Length; i++)
         {
-            int note = UnityEngine.Random.Range(1, 2);
+            int note = UnityEngine.Random.Range(0, 5);
             pattern[i] = note;
         }
 

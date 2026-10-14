@@ -29,6 +29,7 @@ public class EnemyEncounter : MonoBehaviour
 
     public static event Action<Track, float> SendEncounterDetails;
     public static event Action<Health> OnEnemyHealthChange;
+    public static event Action OnEnemyHealthEmpty;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -42,6 +43,7 @@ public class EnemyEncounter : MonoBehaviour
         Choreographer.OnBeatDemo += DemoBeat;
         Metronome.OnBeatPassed += DemoBeatPassed;
         Judge.OnSequenceEnd += LoseHealthOnSuccessfulPlayerSequence;
+        GameManager.ResetGameState += ResetState;
 
         if (matchAnimationTimerToTimingWindow) spriteAnimationTime = (TimingWindow * 2) / 1000;
     }
@@ -119,6 +121,8 @@ public class EnemyEncounter : MonoBehaviour
     {
         Health.TakeDamage(damage);
         OnEnemyHealthChange?.Invoke(Health);
+
+        if (Health.Empty) OnEnemyHealthEmpty?.Invoke();
     }
 
     private void LoseHealthOnSuccessfulPlayerSequence(bool successfulSequence) 
@@ -126,5 +130,12 @@ public class EnemyEncounter : MonoBehaviour
         if (!successfulSequence) return;
 
         TakeDamage(1);
+    }
+
+    private void ResetState() 
+    {
+        Health.Reset();
+        OnEnemyHealthChange?.Invoke(Health);
+        spriteTimer = 0f;
     }
 }

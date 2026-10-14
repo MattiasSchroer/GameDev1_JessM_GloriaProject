@@ -1,4 +1,3 @@
-using JetBrains.Annotations;
 using System;
 using UnityEngine;
 
@@ -22,6 +21,7 @@ public class Judge : MonoBehaviour
         PlayerController.OnPlayerAction += ReceiveInput;
         Metronome.OnBeatWindowClosed += ValidateLastInput;
         Choreographer.OnEndListenPhase += EndSequenceCheck;
+        GameManager.ResetGameState += ResetState;
     }
 
     public void SetNextInput(int input) 
@@ -48,7 +48,7 @@ public class Judge : MonoBehaviour
         }
     }
 
-    public void ValidateLastInput() 
+    private void ValidateLastInput() 
     {
         if (RanValidation) return;
         if (NextCorrectInput == 0 || NextCorrectInput == 7) return;
@@ -65,9 +65,18 @@ public class Judge : MonoBehaviour
         if (NextCorrectInput != 0 && DebugMessages) Debug.Log($"Player succeeded note: {valid} (Expected {NextCorrectInput}, Received {LastReceivedInput})");
     }
 
-    public void EndSequenceCheck() 
+    private void EndSequenceCheck() 
     {
         OnSequenceEnd?.Invoke(SuccessfulSequence);
         SuccessfulSequence = true;
+    }
+
+    private void ResetState() 
+    {
+        SuccessfulSequence = true;
+        LastReceivedInput = 0;
+        NextCorrectInput = 0;
+        InputReceived = false;
+        RanValidation = false;
     }
 }

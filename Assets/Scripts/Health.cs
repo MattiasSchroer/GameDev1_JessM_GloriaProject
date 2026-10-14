@@ -1,5 +1,4 @@
 using System;
-using UnityEngine;
 
 public class Health
 {
@@ -27,5 +26,11 @@ public class Health
         if (healing <= 0) return;
 
         CurrentHealth = Math.Min(CurrentHealth + healing, MaxHealth);
+    }
+
+    public void Reset() 
+    {
+        CurrentHealth = MaxHealth;
+        Empty = false;
     }
 }

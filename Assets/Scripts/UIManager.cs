@@ -10,6 +10,9 @@ public class UIManager : MonoBehaviour
 
     [SerializeField] private Slider playerHealthBar;
     [SerializeField] private Slider enemyHealthBar;
+    [SerializeField] private GameObject LossPanel;
+    [SerializeField] private GameObject WinPanel;
+    [SerializeField] private GameObject MenuPanel;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -19,6 +22,10 @@ public class UIManager : MonoBehaviour
         Judge.OnValidateInput += SetProximityText;
         PlayerStatus.OnPlayerHealthChange += UpdatePlayerHealthBar;
         EnemyEncounter.OnEnemyHealthChange += UpdateEnemyHealthBar;
+        GameManager.ResetGameState += ResetState;
+
+        ResetState();
+        ToggleGameplayUI(false);
     }
 
     // Update is called once per frame
@@ -79,5 +86,32 @@ public class UIManager : MonoBehaviour
         proximityText.text = text;
         proximityText.color = color;
         proxTextTimer = proximityTextDisplayTime;
+    }
+
+    public void ShowWinPanel() 
+    {
+        WinPanel.SetActive(true);
+    }
+
+    public void ShowLossPanel()
+    {
+        LossPanel.SetActive(true);
+    }
+
+    private void ResetState() 
+    {
+        LossPanel.SetActive(false);
+        WinPanel.SetActive(false);
+    }
+
+    public void ToggleGameplayUI(bool toggle) 
+    {
+        playerHealthBar.gameObject.SetActive(toggle);
+        enemyHealthBar.gameObject.SetActive(toggle);
+    }
+
+    public void ToggleMainMenu(bool toggle) 
+    {
+        MenuPanel.SetActive(toggle);
     }
 }
