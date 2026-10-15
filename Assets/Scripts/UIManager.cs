@@ -14,6 +14,8 @@ public class UIManager : MonoBehaviour
     [SerializeField] private GameObject WinPanel;
     [SerializeField] private GameObject MenuPanel;
 
+    [SerializeField] private bool DebugMessages = false;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -42,13 +44,13 @@ public class UIManager : MonoBehaviour
 
     private void UpdateEnemyHealthBar(Health health)
     {
-        Debug.Log($"Enemy health bar value updated to {(float)health.CurrentHealth / health.MaxHealth}");
+        if (DebugMessages) Debug.Log($"Enemy health bar value updated to {(float)health.CurrentHealth / health.MaxHealth}");
         enemyHealthBar.value = (float)health.CurrentHealth / health.MaxHealth;
     }
 
     private void UpdatePlayerHealthBar(Health health) 
     {
-        Debug.Log($"Player health bar value updated to {(float)health.CurrentHealth / health.MaxHealth}");
+        if (DebugMessages) Debug.Log($"Player health bar value updated to {(float)health.CurrentHealth / health.MaxHealth}");
         playerHealthBar.value = (float)health.CurrentHealth / health.MaxHealth;
     }
 
