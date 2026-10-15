@@ -16,7 +16,7 @@ public class Judge : MonoBehaviour
 
     [SerializeField] private bool DebugMessages = false;
 
-    public void OnEnable()
+    public void Start()
     {
         Choreographer.OnBeatListen += SetNextInput;
         PlayerController.OnPlayerAction += ReceiveInput;
@@ -63,19 +63,13 @@ public class Judge : MonoBehaviour
 
         OnValidateInput?.Invoke(valid);
 
-        if (SequenceEnded) 
-        {
-            OnSequenceEnd?.Invoke(SuccessfulSequence);
-            SuccessfulSequence = true;
-            SequenceEnded = false;
-        }
-
         if (NextCorrectInput != 0 && DebugMessages) Debug.Log($"Player succeeded note: {valid} (Expected {NextCorrectInput}, Received {LastReceivedInput})");
     }
 
     private void EndSequenceCheck() 
     {
-        SequenceEnded = true;
+        OnSequenceEnd?.Invoke(SuccessfulSequence);
+        SuccessfulSequence = true;
     }
 
     private void ResetState() 

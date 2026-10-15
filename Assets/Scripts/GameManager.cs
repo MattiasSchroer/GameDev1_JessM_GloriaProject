@@ -27,11 +27,12 @@ public class GameManager : MonoBehaviour
 
         DontDestroyOnLoad(gameObject);
 
-        EnemyEncounter.SendEncounterDetails += GetEnemyDetails;
+        
     }
 
     private void Start()
     {
+        EnemyEncounter.SendEncounterDetails += GetEnemyDetails;
         EnemyEncounter.OnEnemyHealthEmpty += WinGame;
         PlayerStatus.OnPlayerHealthEmpty += LoseGame;
 

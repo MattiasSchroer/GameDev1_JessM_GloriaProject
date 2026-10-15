@@ -29,7 +29,6 @@ public class VisualDemo : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
         baseScale = transform.localScale;
         Choreographer.OnBeatDemo += CueBeat;
-        Metronome.OnBeatPassed += DemoBeat;
     }
 
     // Update is called once per frame
@@ -88,9 +87,8 @@ public class VisualDemo : MonoBehaviour
 
     public void DemoBeat() 
     {
-        if (beatToCue == 1) audioSource.PlayOneShot(tap); 
-        //else if (beatToCue == 0) audioSource.PlayOneShot(dont);
-        else if (beatToCue == 7) audioSource.PlayOneShot(go);
+        if (beatToCue == 1 && tap != null) audioSource.PlayOneShot(tap);
+        else if (beatToCue == 7 && go != null) audioSource.PlayOneShot(go);
     }
 
     public void CueBeat(int beat) 
