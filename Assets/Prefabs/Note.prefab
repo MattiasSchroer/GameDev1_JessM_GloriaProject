@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 5696010044370378648}
   - component: {fileID: 5197595421417233498}
-  - component: {fileID: 5094662154530507629}
   - component: {fileID: 7459117766447115056}
   m_Layer: 0
   m_Name: Note
@@ -46,22 +45,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f919d1d42308504cb677d39013dc947, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  PreBeatsVisualTime: 500
-  MsTilDestruction: 300
---- !u!114 &5094662154530507629
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6507174279335777058}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3ae71f8db6eacdd4aacec52ba6be9d50, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  noteController: {fileID: 5197595421417233498}
   spriteRenderer: {fileID: 7459117766447115056}
+  PreBeatsVisualTime: 800
+  MsTilDestruction: 300
   startingScale: 4
   targetScale: 1
   maxOpacity: 0.5

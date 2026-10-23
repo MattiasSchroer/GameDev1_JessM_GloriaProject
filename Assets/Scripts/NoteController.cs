@@ -3,9 +3,19 @@ using UnityEngine;
 public class NoteController : MonoBehaviour
 {
     public float TargetHitTime { get; private set; }
-    [SerializeField] private float PreBeatsVisualTime;
+    [SerializeField] private SpriteRenderer spriteRenderer;
 
+    [Header("Timing Variables")]
+    [SerializeField] private float PreBeatsVisualTime = 500;
     [SerializeField] private float MsTilDestruction = 300;
+
+    [Header("Scale Boundaries")]
+    [SerializeField] private float startingScale = 4.0f;
+    [SerializeField] private float targetScale = 1.0f;
+
+    [Header("Fade Boundaries")]
+    [SerializeField] private float maxOpacity = 0.5f;
+    [SerializeField] private float fadeDurationProgress = 0.2f;
 
     public void Initialize(float hitTime, Note note)
     {
@@ -17,6 +27,8 @@ public class NoteController : MonoBehaviour
     {
         float timeRemaining = TargetHitTime - GameManager.Instance.Music.SongTimeInMilliseconds();
 
+        if (timeRemaining <= -MsTilDestruction) Destroy(gameObject);
+
         float progress = 1f - (timeRemaining / PreBeatsVisualTime);
 
         Debug.Log("Time remaining: " + timeRemaining + " | Progress: " + progress);
@@ -24,10 +36,26 @@ public class NoteController : MonoBehaviour
         return Mathf.Clamp01(progress);
     }
 
-    private void Update()
+    void Update()
     {
-        float timeRemaining = TargetHitTime - GameManager.Instance.Music.SongTimeInMilliseconds();
+        float currentProgress = GetProgress();
 
-        if (timeRemaining <= -MsTilDestruction) Destroy(gameObject);
+        Color currentColor = spriteRenderer.color;
+
+        if (currentProgress <= fadeDurationProgress)
+        {
+            float fadeProgress = currentProgress / fadeDurationProgress;
+            currentColor.a = Mathf.Lerp(0f, maxOpacity, fadeProgress);
+        }
+        else
+        {
+            currentColor.a = maxOpacity;
+        }
+
+        spriteRenderer.color = currentColor;
+
+        float currentScale = Mathf.Lerp(startingScale, targetScale, currentProgress);
+        transform.localScale = new Vector3(currentScale, currentScale, 1f);
     }
+
 }
