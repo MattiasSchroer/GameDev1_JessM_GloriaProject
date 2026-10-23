@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
     public Judge Judge;
     public LightingManager LightingManager;
     public UIManager UIManager;
+    public IndicatorManager IndicatorManager;
 
     public static event Action<bool> OnToggleMusic;
     public static event Action ResetGameState;

@@ -21,6 +21,8 @@ public class Choreographer : MonoBehaviour
     public static event Action OnSwitchToListenState;
     public static event Action OnEndListenPhase;
 
+    [SerializeField] private GameObject notePrefab;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -70,6 +72,9 @@ public class Choreographer : MonoBehaviour
 
                 // Demo the beat using pattern[CurrentPatternBeat]
                 OnBeatDemo.Invoke(pattern[CurrentPatternBeat]);
+                float noteHitTime = GameManager.Instance.Metronome.GetTimingOfSpecificBeatInMs(ActiveBeat+pattern.Length);
+                SpawnNote(noteHitTime, (Note)pattern[CurrentPatternBeat]);
+
                 if (DebugMessages) Debug.Log($"Demo: {pattern[CurrentPatternBeat]} (Bar {CurrentPatternBeat + 1}/{pattern.Length}");
 
                 NextDemoBeat++;
@@ -106,6 +111,15 @@ public class Choreographer : MonoBehaviour
         }
     }
 
+    public void SpawnNote(float hitTime, Note note)
+    {
+        if (note == Note.Blank || note == Note.Finish) return;
+
+        // Pass the prefab reference, position, and rotation
+        GameObject newNote = Instantiate(notePrefab);
+        newNote.GetComponent<NoteController>().Initialize(hitTime, note);
+    }
+
     public void SetNextPattern()
     {
         int minRange = 0;
@@ -117,7 +131,7 @@ public class Choreographer : MonoBehaviour
             pattern[i] = note;
         }
 
-        pattern[0] = 2;
+        //pattern[0] = 2;
 
         if(LastSequenceNoteIsGo) pattern[pattern.Length - 1] = 7;
 
