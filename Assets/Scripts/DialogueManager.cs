@@ -50,6 +50,7 @@ public class DialogueManager : MonoBehaviour
     private bool _showingText = false;
     private bool _autoContinue = false;
     private float _autoWaitTime = 99;
+    private float _charPerSecond = 5;
 
     private void Update()
     {
@@ -60,13 +61,13 @@ public class DialogueManager : MonoBehaviour
 
         if (!_showingText) return;
 
-        _textIndex = Math.Min(_currentText.Length, _textIndex + DefaultCharPerSecond * Time.deltaTime);
+        _textIndex = Math.Min(_currentText.Length, _textIndex + _charPerSecond * Time.deltaTime);
 
         string textToDisplay = _currentText.Substring(0, (int)Math.Floor(_textIndex));
 
         DisplayText(textToDisplay);
 
-        if (_autoContinue) 
+        if (_autoContinue && _textIndex >= _currentText.Length) 
         {
             _autoWaitTime -= Time.deltaTime;
 
@@ -147,11 +148,12 @@ public class DialogueManager : MonoBehaviour
 
         string speakerName = null;
         bool auto = false;
+        float speed = DefaultCharPerSecond;
 
         foreach (Match match in matches) 
         {
             string key = match.Groups[1].Value;
-            string value = "";
+            string value = null;
             if (match.Groups[2].Success) value = match.Groups[2].Value;
 
             if (key == "speaker" || key == "s")
@@ -162,13 +164,18 @@ public class DialogueManager : MonoBehaviour
             {
                 auto = true;
 
-                if (value != "") _autoWaitTime = int.Parse(value);
+                if (int.TryParse(value, out int result)) _autoWaitTime = result;
                 else _autoWaitTime = DefaultAutoWaitSeconds;
+            }
+            else if (key == "speed" || key == "spd")
+            {
+                if (int.TryParse(value, out int result)) speed = result;
             }
         }
 
         SetSpeakerSprite(speakerName);
         _autoContinue = auto;
+        _charPerSecond = speed;
 
         string cleanText = MetaRegex.Replace(text, "").Trim();
 

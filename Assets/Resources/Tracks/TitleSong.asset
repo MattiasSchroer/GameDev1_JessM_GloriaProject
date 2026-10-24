@@ -21,11 +21,16 @@ MonoBehaviour:
   Dialogue:
   - Time: 1
     Dialogue:
-    - '[auto="3"][s="gloria"]Let''s get this show on the road.'
+    - '[auto="1"][s="gloria"]Let''s get this show on the road.'
     - '[auto="2"][s="gloria"]Shall we?'
   - Time: 15
     Dialogue:
-    - '[auto="2"][s="gloria"]Great moves punk.'
-    - '[auto="4"][s="gloria"]Tbh I''m mainly just talking again to prove that I can
+    - '[auto="1"][s="gloria"]Great moves punk.'
+    - '[auto="3"][s="gloria"]Tbh I''m mainly just talking again to prove that I can
       do it twice in one song. Lol.'
-    - '[auto="5"][s="you"]ok'
+    - '[auto="4"][s="you"]ok'
+  - Time: 30
+    Dialogue:
+    - '[auto="2"][s="gloria"][spd="5"]I can also talk really really slowly...'
+    - '[auto="3"][s="gloria"][spd="100"]OR REALLY FAST LIKE THIS!!! SEE!!!'
+    - '[auto="4"][s="you"]thats awesome man'
