@@ -1,0 +1,3107 @@
+fileFormatVersion: 2
+guid: 68102ad6414a65d4584c1b46f09d1872
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9145209950674010378
+    second: Impact_Damage4_Image Frames_0
+  - first:
+      213: 655831599930664749
+    second: Impact_Damage4_Image Frames_1
+  - first:
+      213: -4025477302148523912
+    second: Impact_Damage4_Image Frames_2
+  - first:
+      213: 4000407482807713615
+    second: Impact_Damage4_Image Frames_3
+  - first:
+      213: 2975059937032758985
+    second: Impact_Damage4_Image Frames_4
+  - first:
+      213: -4936857089306569470
+    second: Impact_Damage4_Image Frames_5
+  - first:
+      213: -4490034336635630091
+    second: Impact_Damage4_Image Frames_6
+  - first:
+      213: 617274219910648121
+    second: Impact_Damage4_Image Frames_7
+  - first:
+      213: 3169852491957706155
+    second: Impact_Damage4_Image Frames_8
+  - first:
+      213: 5586600583875682093
+    second: Impact_Damage4_Image Frames_9
+  - first:
+      213: -3509547976908543316
+    second: Impact_Damage4_Image Frames_10
+  - first:
+      213: -1680124548726027357
+    second: Impact_Damage4_Image Frames_11
+  - first:
+      213: -7920092321205393908
+    second: Impact_Damage4_Image Frames_12
+  - first:
+      213: 5556231920600676903
+    second: Impact_Damage4_Image Frames_13
+  - first:
+      213: 3246780476848530648
+    second: Impact_Damage4_Image Frames_14
+  - first:
+      213: -7611688126992098975
+    second: Impact_Damage4_Image Frames_15
+  - first:
+      213: 5096842524932005972
+    second: Impact_Damage4_Image Frames_16
+  - first:
+      213: 2948459677587813438
+    second: Impact_Damage4_Image Frames_17
+  - first:
+      213: 7395494303301320109
+    second: Impact_Damage4_Image Frames_18
+  - first:
+      213: -5845836011785857889
+    second: Impact_Damage4_Image Frames_19
+  - first:
+      213: 1513941602088980960
+    second: Impact_Damage4_Image Frames_20
+  - first:
+      213: 1347750179797375038
+    second: Impact_Damage4_Image Frames_21
+  - first:
+      213: -6293044739654736569
+    second: Impact_Damage4_Image Frames_22
+  - first:
+      213: 2482424280022721195
+    second: Impact_Damage4_Image Frames_23
+  - first:
+      213: -7508471796677973098
+    second: Impact_Damage4_Image Frames_24
+  - first:
+      213: 5777981992021274370
+    second: Impact_Damage4_Image Frames_25
+  - first:
+      213: 7799574491196180804
+    second: Impact_Damage4_Image Frames_26
+  - first:
+      213: 7549496129527394155
+    second: Impact_Damage4_Image Frames_27
+  - first:
+      213: -405880434375577090
+    second: Impact_Damage4_Image Frames_28
+  - first:
+      213: -4813274550024218
+    second: Impact_Damage4_Image Frames_29
+  - first:
+      213: 7698569085140760867
+    second: Impact_Damage4_Image Frames_30
+  - first:
+      213: 4504629162451544745
+    second: Impact_Damage4_Image Frames_31
+  - first:
+      213: 5923222087333182981
+    second: Impact_Damage4_Image Frames_32
+  - first:
+      213: 539239299288270427
+    second: Impact_Damage4_Image Frames_33
+  - first:
+      213: 4277670233965391886
+    second: Impact_Damage4_Image Frames_34
+  - first:
+      213: 1902378742405663205
+    second: Impact_Damage4_Image Frames_35
+  - first:
+      213: 2811984049047927850
+    second: Impact_Damage4_Image Frames_36
+  - first:
+      213: 2627373526503118037
+    second: Impact_Damage4_Image Frames_37
+  - first:
+      213: -3571811676864585777
+    second: Impact_Damage4_Image Frames_38
+  - first:
+      213: 7540782141036048886
+    second: Impact_Damage4_Image Frames_39
+  - first:
+      213: -6376915992257530455
+    second: Impact_Damage4_Image Frames_40
+  - first:
+      213: 8359865655432254742
+    second: Impact_Damage4_Image Frames_41
+  - first:
+      213: -5915076235202652178
+    second: Impact_Damage4_Image Frames_42
+  - first:
+      213: -6942868223935452987
+    second: Impact_Damage4_Image Frames_43
+  - first:
+      213: -8543689341289269503
+    second: Impact_Damage4_Image Frames_44
+  - first:
+      213: 5051467899058721713
+    second: Impact_Damage4_Image Frames_45
+  - first:
+      213: 6027312665013828761
+    second: Impact_Damage4_Image Frames_46
+  - first:
+      213: -5002872492607044075
+    second: Impact_Damage4_Image Frames_47
+  - first:
+      213: 8930465181488704197
+    second: Impact_Damage4_Image Frames_48
+  - first:
+      213: -1456318352987873336
+    second: Impact_Damage4_Image Frames_49
+  - first:
+      213: -5007205435429211004
+    second: Impact_Damage4_Image Frames_50
+  - first:
+      213: -9039232201928539370
+    second: Impact_Damage4_Image Frames_51
+  - first:
+      213: 1861497252604714393
+    second: Impact_Damage4_Image Frames_52
+  - first:
+      213: -7145790780994993691
+    second: Impact_Damage4_Image Frames_53
+  - first:
+      213: -3599167816883875246
+    second: Impact_Damage4_Image Frames_54
+  - first:
+      213: 4450293392977322694
+    second: Impact_Damage4_Image Frames_55
+  - first:
+      213: -5743881166253187130
+    second: Impact_Damage4_Image Frames_56
+  - first:
+      213: -424376697023774064
+    second: Impact_Damage4_Image Frames_57
+  - first:
+      213: -4889930980384709361
+    second: Impact_Damage4_Image Frames_58
+  - first:
+      213: 1462447278365192280
+    second: Impact_Damage4_Image Frames_59
+  - first:
+      213: 7390344016740388730
+    second: Impact_Damage4_Image Frames_60
+  - first:
+      213: -5350858348683374439
+    second: Impact_Damage4_Image Frames_61
+  - first:
+      213: 6554638801729683683
+    second: Impact_Damage4_Image Frames_62
+  - first:
+      213: -2569584084956109371
+    second: Impact_Damage4_Image Frames_63
+  - first:
+      213: 4424111239289027245
+    second: Impact_Damage4_Image Frames_64
+  - first:
+      213: 6661578451194837880
+    second: Impact_Damage4_Image Frames_65
+  - first:
+      213: 7876288262557131223
+    second: Impact_Damage4_Image Frames_66
+  - first:
+      213: 3132470478155413717
+    second: Impact_Damage4_Image Frames_67
+  - first:
+      213: -1012902673656191838
+    second: Impact_Damage4_Image Frames_68
+  - first:
+      213: 7524358103775659470
+    second: Impact_Damage4_Image Frames_69
+  - first:
+      213: 7168509880718236197
+    second: Impact_Damage4_Image Frames_70
+  - first:
+      213: -3028068582024334638
+    second: Impact_Damage4_Image Frames_71
+  - first:
+      213: -1654580626555337163
+    second: Impact_Damage4_Image Frames_72
+  - first:
+      213: 3478579414514449280
+    second: Impact_Damage4_Image Frames_73
+  - first:
+      213: 5496169494467080797
+    second: Impact_Damage4_Image Frames_74
+  - first:
+      213: 6009839994942474995
+    second: Impact_Damage4_Image Frames_75
+  - first:
+      213: 4838596484832837799
+    second: Impact_Damage4_Image Frames_76
+  - first:
+      213: 6440376709767481834
+    second: Impact_Damage4_Image Frames_77
+  - first:
+      213: 4460636922703813000
+    second: Impact_Damage4_Image Frames_78
+  - first:
+      213: -3360596345004717016
+    second: Impact_Damage4_Image Frames_79
+  - first:
+      213: 4803444659844773256
+    second: Impact_Damage4_Image Frames_80
+  - first:
+      213: -6498888494381455291
+    second: Impact_Damage4_Image Frames_81
+  - first:
+      213: 8663757950243274269
+    second: Impact_Damage4_Image Frames_82
+  - first:
+      213: 6678347762499956873
+    second: Impact_Damage4_Image Frames_83
+  - first:
+      213: 4769767912875546966
+    second: Impact_Damage4_Image Frames_84
+  - first:
+      213: -3916839845769858758
+    second: Impact_Damage4_Image Frames_85
+  - first:
+      213: -2937436417978609159
+    second: Impact_Damage4_Image Frames_86
+  - first:
+      213: 3845729856236965364
+    second: Impact_Damage4_Image Frames_87
+  - first:
+      213: 2492915786577344676
+    second: Impact_Damage4_Image Frames_88
+  - first:
+      213: -2131533272660561379
+    second: Impact_Damage4_Image Frames_89
+  - first:
+      213: -6004974305613999616
+    second: Impact_Damage4_Image Frames_90
+  - first:
+      213: -1116501098810241586
+    second: Impact_Damage4_Image Frames_91
+  - first:
+      213: 2658988205591156541
+    second: Impact_Damage4_Image Frames_92
+  - first:
+      213: 188459525533698826
+    second: Impact_Damage4_Image Frames_93
+  - first:
+      213: 3216572897321106076
+    second: Impact_Damage4_Image Frames_94
+  - first:
+      213: 6823769815225082913
+    second: Impact_Damage4_Image Frames_95
+  - first:
+      213: 3470698248863131685
+    second: Impact_Damage4_Image Frames_96
+  - first:
+      213: 1006211592293232877
+    second: Impact_Damage4_Image Frames_97
+  - first:
+      213: 6964680534013295784
+    second: Impact_Damage4_Image Frames_98
+  - first:
+      213: -1255285464314405920
+    second: Impact_Damage4_Image Frames_99
+  - first:
+      213: -1633903260355975035
+    second: Impact_Damage4_Image Frames_100
+  - first:
+      213: 5631948265219540971
+    second: Impact_Damage4_Image Frames_101
+  - first:
+      213: -4952988145025575491
+    second: Impact_Damage4_Image Frames_102
+  - first:
+      213: -7392837442369993358
+    second: Impact_Damage4_Image Frames_103
+  - first:
+      213: 1660361837681211710
+    second: Impact_Damage4_Image Frames_104
+  - first:
+      213: 6434405914182645055
+    second: Impact_Damage4_Image Frames_105
+  - first:
+      213: 243190940390369660
+    second: Impact_Damage4_Image Frames_106
+  - first:
+      213: -3023698892270363418
+    second: Impact_Damage4_Image Frames_107
+  - first:
+      213: 3650112710941963203
+    second: Impact_Damage4_Image Frames_108
+  - first:
+      213: 9166713589586606897
+    second: Impact_Damage4_Image Frames_109
+  - first:
+      213: -577001493426280801
+    second: Impact_Damage4_Image Frames_110
+  - first:
+      213: 2922644214697856395
+    second: Impact_Damage4_Image Frames_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 174
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe35b5d000b51180800000000000000
+      internalID: -9145209950674010378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 163
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27e75a8d5bf91900800000000000000
+      internalID: 655831599930664749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 168
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8781a0ab8b1a228c0800000000000000
+      internalID: -4025477302148523912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 187
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f7199196d448730800000000000000
+      internalID: 4000407482807713615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 187
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6655c0049894920800000000000000
+      internalID: 2975059937032758985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 179
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205530542a2cc7bb0800000000000000
+      internalID: -4936857089306569470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 179
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdc68f5f8130b1c0800000000000000
+      internalID: -4490034336635630091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 178
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931d7cee1aff09800800000000000000
+      internalID: 617274219910648121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 182
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad968dfb049dfb20800000000000000
+      internalID: 3169852491957706155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 166
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f56e7c1a7978d40800000000000000
+      internalID: 5586600583875682093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 171
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaec2a95b49b4fc0800000000000000
+      internalID: -3509547976908543316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_11
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 187
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab85c6ef9ffea8e0800000000000000
+      internalID: -1680124548726027357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_12
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 183
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06e04e0ffd261290800000000000000
+      internalID: -7920092321205393908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_13
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 173
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72af61d5e73bb1d40800000000000000
+      internalID: 5556231920600676903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 162
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4ea3a34a1ee0d20800000000000000
+      internalID: 3246780476848530648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_15
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 169
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169d3991af9dd5690800000000000000
+      internalID: -7611688126992098975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_16
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 190
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4506daea54f9bb640800000000000000
+      internalID: 5096842524932005972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_17
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 192
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e343f2584780be820800000000000000
+      internalID: 2948459677587813438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_18
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 186
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad33b6c2e212a660800000000000000
+      internalID: 7395494303301320109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_19
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 183
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94515eae1b6fdea0800000000000000
+      internalID: -5845836011785857889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_20
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 181
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1133badd9920510800000000000000
+      internalID: 1513941602088980960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_21
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 185
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e389ac8d5ab24b210800000000000000
+      internalID: 1347750179797375038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_22
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 170
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7452d39b62d9aa8a0800000000000000
+      internalID: -6293044739654736569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_23
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 172
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba22f80fab7537220800000000000000
+      internalID: 2482424280022721195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_24
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 189
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b68f8beac8cc790800000000000000
+      internalID: -7508471796677973098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_25
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 184
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f280932048f2050800000000000000
+      internalID: 5777981992021274370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_26
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 174
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44942f20da7ad3c60800000000000000
+      internalID: 7799574491196180804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 164
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6faaa91bb235c860800000000000000
+      internalID: 7549496129527394155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 46
+        width: 207
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef133c735e50e5af0800000000000000
+      internalID: -405880434375577090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 169
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e74d303a56eeeff0800000000000000
+      internalID: -4813274550024218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_30
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 161
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3297e9e4bcfc6da60800000000000000
+      internalID: 7698569085140760867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 53
+        width: 211
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa2ac05b58a38e30800000000000000
+      internalID: 4504629162451544745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_32
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 172
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50efd391b13833250800000000000000
+      internalID: 5923222087333182981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_33
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 44
+        width: 215
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5602032943cb7700800000000000000
+      internalID: 539239299288270427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_34
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 166
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00f4c9e9665d5b30800000000000000
+      internalID: 4277670233965391886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_35
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 172
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e90851136b966a10800000000000000
+      internalID: 1902378742405663205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_36
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 165
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cf095189c260720800000000000000
+      internalID: 2811984049047927850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_37
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 50
+        width: 216
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4db7b4d4e467420800000000000000
+      internalID: 2627373526503118037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_38
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 159
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfd4e344306e6ec0800000000000000
+      internalID: -3571811676864585777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_39
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 153
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1301d876d36a860800000000000000
+      internalID: 7540782141036048886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_40
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 157
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a57bfef0b4a087a0800000000000000
+      internalID: -6376915992257530455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_41
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 153
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615170a6585340470800000000000000
+      internalID: 8359865655432254742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 141
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee71465e08d69eda0800000000000000
+      internalID: -5915076235202652178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_43
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 132
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8eafd922af5af90800000000000000
+      internalID: -6942868223935452987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_44
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 98
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107792d7fc7be6980800000000000000
+      internalID: -8543689341289269503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_45
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 111
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b31fa55a4b6a1640800000000000000
+      internalID: 5051467899058721713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_46
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 102
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cbc5c4fe055a350800000000000000
+      internalID: 6027312665013828761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_47
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 115
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516859d69f9329ab0800000000000000
+      internalID: -5002872492607044075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_48
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 96
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cae0a554c26feb70800000000000000
+      internalID: 8930465181488704197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_49
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 91
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf96428c2e1acbe0800000000000000
+      internalID: -1456318352987873336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_50
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 86
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48436df8f25d28ab0800000000000000
+      internalID: -5007205435429211004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_51
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 89
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61307c944323e8280800000000000000
+      internalID: -9039232201928539370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_52
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d9edb73ed55d910800000000000000
+      internalID: 1861497252604714393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_53
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1488b052d05dc90800000000000000
+      internalID: -7145790780994993691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_54
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 79
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2525e9390ff2d0ec0800000000000000
+      internalID: -3599167816883875246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_55
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 58
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c26ea2234e92cd30800000000000000
+      internalID: 4450293392977322694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_56
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 38
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf1c6df282a940b0800000000000000
+      internalID: -5743881166253187130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_57
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 55
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092c1fa74af4c1af0800000000000000
+      internalID: -424376697023774064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_58
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05edf96ea9732cb0800000000000000
+      internalID: -4889930980384709361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_59
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 58
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850b1b12d08ab4410800000000000000
+      internalID: 1462447278365192280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_60
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 62
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f8ebd3ab6cf8660800000000000000
+      internalID: 7390344016740388730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_61
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 36
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9905b439eaeedb5b0800000000000000
+      internalID: -5350858348683374439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_62
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 36
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e007102341c6fa50800000000000000
+      internalID: 6554638801729683683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_63
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 35
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5a1b393e0075cd0800000000000000
+      internalID: -2569584084956109371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_64
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 33
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daab2a07bb9956d30800000000000000
+      internalID: 4424111239289027245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_65
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 31
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b7dda8e4ea27c50800000000000000
+      internalID: 6661578451194837880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_66
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 29
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1eb46c1723e4d60800000000000000
+      internalID: 7876288262557131223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_67
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 49
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8f9d7ad45c87b20800000000000000
+      internalID: 3132470478155413717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_68
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 28
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4eda8826271f1f0800000000000000
+      internalID: -1012902673656191838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_69
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 47
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5416264d3eb6860800000000000000
+      internalID: 7524358103775659470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_70
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 26
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a961191c9ab7360800000000000000
+      internalID: 7168509880718236197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_71
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 39
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d23be40ba32af5d0800000000000000
+      internalID: -3028068582024334638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_72
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 42
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5360dedbfafb909e0800000000000000
+      internalID: -1654580626555337163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_73
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 37
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bbe151c85664030800000000000000
+      internalID: 3478579414514449280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_74
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 38
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d527c070901564c40800000000000000
+      internalID: 5496169494467080797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_75
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 36
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa4b7742ad376350800000000000000
+      internalID: 6009839994942474995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_76
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 33
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a04ae1fdd5262340800000000000000
+      internalID: 4838596484832837799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_77
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 31
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9c365be70d06950800000000000000
+      internalID: 6440376709767481834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_78
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 28
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88990c1d5ad57ed30800000000000000
+      internalID: 4460636922703813000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_79
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 48
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c848eed63cc51d0800000000000000
+      internalID: -3360596345004717016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_80
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 43
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8857b48e77349a240800000000000000
+      internalID: 4803444659844773256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_81
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 22
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5482581d85f4fc5a0800000000000000
+      internalID: -6498888494381455291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_82
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 25
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e773404f9db3870800000000000000
+      internalID: 8663757950243274269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_83
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 24
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980b55618e14eac50800000000000000
+      internalID: 6678347762499956873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_84
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 25
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659d00c35ae913240800000000000000
+      internalID: 4769767912875546966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_85
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 26
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31bace99e694a9c0800000000000000
+      internalID: -3916839845769858758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_86
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 17
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1d61c14212c37d0800000000000000
+      internalID: -2937436417978609159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_87
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 12
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd4e1fbde6ce5530800000000000000
+      internalID: 3845729856236965364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_88
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 22
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8f7e923bd989220800000000000000
+      internalID: 2492915786577344676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_89
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 23
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12342828c54b62e0800000000000000
+      internalID: -2131533272660561379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_90
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 28
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002978c4fab0aaca0800000000000000
+      internalID: -6004974305613999616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_91
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 18
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd05168a246180f0800000000000000
+      internalID: -1116501098810241586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_92
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 12
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37d6306faf96e420800000000000000
+      internalID: 2658988205591156541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_93
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 20
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b89f1a0fa8d9200800000000000000
+      internalID: 188459525533698826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_94
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 19
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a39fa020093ac20800000000000000
+      internalID: 3216572897321106076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_95
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 22
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12426893e76e2be50800000000000000
+      internalID: 6823769815225082913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_96
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 10
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528ae063ba56a2030800000000000000
+      internalID: 3470698248863131685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_97
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 15
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0b48fac18c6fd00800000000000000
+      internalID: 1006211592293232877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_98
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 16
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acb0f39b0487a060800000000000000
+      internalID: 6964680534013295784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_99
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 18
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb14df5584549ee0800000000000000
+      internalID: -1255285464314405920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_100
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 21
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588212934a53359e0800000000000000
+      internalID: -1633903260355975035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_101
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 12
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7c9cd9b13b82e40800000000000000
+      internalID: 5631948265219540971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_102
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 9
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5970f2683734bb0800000000000000
+      internalID: -4952988145025575491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_103
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 20
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275445dd38d576990800000000000000
+      internalID: -7392837442369993358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_104
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 22
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e397a9d5b4aca0710800000000000000
+      internalID: 1660361837681211710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_105
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 28
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f357787861a9b4950800000000000000
+      internalID: 6434405914182645055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_106
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 17
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79af8e2fdcff5300800000000000000
+      internalID: 243190940390369660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_107
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 11
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec9b72b0e9a906d0800000000000000
+      internalID: -3023698892270363418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_108
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 18
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c375d5eb2ec7a230800000000000000
+      internalID: 3650112710941963203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_109
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 15
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b3e014175b63f70800000000000000
+      internalID: 9166713589586606897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_110
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96e475e2341ef7f0800000000000000
+      internalID: -577001493426280801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage4_Image Frames_111
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 24
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d8aedad615f8820800000000000000
+      internalID: 2922644214697856395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Impact_Damage4_Image Frames_0: -9145209950674010378
+      Impact_Damage4_Image Frames_1: 655831599930664749
+      Impact_Damage4_Image Frames_10: -3509547976908543316
+      Impact_Damage4_Image Frames_100: -1633903260355975035
+      Impact_Damage4_Image Frames_101: 5631948265219540971
+      Impact_Damage4_Image Frames_102: -4952988145025575491
+      Impact_Damage4_Image Frames_103: -7392837442369993358
+      Impact_Damage4_Image Frames_104: 1660361837681211710
+      Impact_Damage4_Image Frames_105: 6434405914182645055
+      Impact_Damage4_Image Frames_106: 243190940390369660
+      Impact_Damage4_Image Frames_107: -3023698892270363418
+      Impact_Damage4_Image Frames_108: 3650112710941963203
+      Impact_Damage4_Image Frames_109: 9166713589586606897
+      Impact_Damage4_Image Frames_11: -1680124548726027357
+      Impact_Damage4_Image Frames_110: -577001493426280801
+      Impact_Damage4_Image Frames_111: 2922644214697856395
+      Impact_Damage4_Image Frames_12: -7920092321205393908
+      Impact_Damage4_Image Frames_13: 5556231920600676903
+      Impact_Damage4_Image Frames_14: 3246780476848530648
+      Impact_Damage4_Image Frames_15: -7611688126992098975
+      Impact_Damage4_Image Frames_16: 5096842524932005972
+      Impact_Damage4_Image Frames_17: 2948459677587813438
+      Impact_Damage4_Image Frames_18: 7395494303301320109
+      Impact_Damage4_Image Frames_19: -5845836011785857889
+      Impact_Damage4_Image Frames_2: -4025477302148523912
+      Impact_Damage4_Image Frames_20: 1513941602088980960
+      Impact_Damage4_Image Frames_21: 1347750179797375038
+      Impact_Damage4_Image Frames_22: -6293044739654736569
+      Impact_Damage4_Image Frames_23: 2482424280022721195
+      Impact_Damage4_Image Frames_24: -7508471796677973098
+      Impact_Damage4_Image Frames_25: 5777981992021274370
+      Impact_Damage4_Image Frames_26: 7799574491196180804
+      Impact_Damage4_Image Frames_27: 7549496129527394155
+      Impact_Damage4_Image Frames_28: -405880434375577090
+      Impact_Damage4_Image Frames_29: -4813274550024218
+      Impact_Damage4_Image Frames_3: 4000407482807713615
+      Impact_Damage4_Image Frames_30: 7698569085140760867
+      Impact_Damage4_Image Frames_31: 4504629162451544745
+      Impact_Damage4_Image Frames_32: 5923222087333182981
+      Impact_Damage4_Image Frames_33: 539239299288270427
+      Impact_Damage4_Image Frames_34: 4277670233965391886
+      Impact_Damage4_Image Frames_35: 1902378742405663205
+      Impact_Damage4_Image Frames_36: 2811984049047927850
+      Impact_Damage4_Image Frames_37: 2627373526503118037
+      Impact_Damage4_Image Frames_38: -3571811676864585777
+      Impact_Damage4_Image Frames_39: 7540782141036048886
+      Impact_Damage4_Image Frames_4: 2975059937032758985
+      Impact_Damage4_Image Frames_40: -6376915992257530455
+      Impact_Damage4_Image Frames_41: 8359865655432254742
+      Impact_Damage4_Image Frames_42: -5915076235202652178
+      Impact_Damage4_Image Frames_43: -6942868223935452987
+      Impact_Damage4_Image Frames_44: -8543689341289269503
+      Impact_Damage4_Image Frames_45: 5051467899058721713
+      Impact_Damage4_Image Frames_46: 6027312665013828761
+      Impact_Damage4_Image Frames_47: -5002872492607044075
+      Impact_Damage4_Image Frames_48: 8930465181488704197
+      Impact_Damage4_Image Frames_49: -1456318352987873336
+      Impact_Damage4_Image Frames_5: -4936857089306569470
+      Impact_Damage4_Image Frames_50: -5007205435429211004
+      Impact_Damage4_Image Frames_51: -9039232201928539370
+      Impact_Damage4_Image Frames_52: 1861497252604714393
+      Impact_Damage4_Image Frames_53: -7145790780994993691
+      Impact_Damage4_Image Frames_54: -3599167816883875246
+      Impact_Damage4_Image Frames_55: 4450293392977322694
+      Impact_Damage4_Image Frames_56: -5743881166253187130
+      Impact_Damage4_Image Frames_57: -424376697023774064
+      Impact_Damage4_Image Frames_58: -4889930980384709361
+      Impact_Damage4_Image Frames_59: 1462447278365192280
+      Impact_Damage4_Image Frames_6: -4490034336635630091
+      Impact_Damage4_Image Frames_60: 7390344016740388730
+      Impact_Damage4_Image Frames_61: -5350858348683374439
+      Impact_Damage4_Image Frames_62: 6554638801729683683
+      Impact_Damage4_Image Frames_63: -2569584084956109371
+      Impact_Damage4_Image Frames_64: 4424111239289027245
+      Impact_Damage4_Image Frames_65: 6661578451194837880
+      Impact_Damage4_Image Frames_66: 7876288262557131223
+      Impact_Damage4_Image Frames_67: 3132470478155413717
+      Impact_Damage4_Image Frames_68: -1012902673656191838
+      Impact_Damage4_Image Frames_69: 7524358103775659470
+      Impact_Damage4_Image Frames_7: 617274219910648121
+      Impact_Damage4_Image Frames_70: 7168509880718236197
+      Impact_Damage4_Image Frames_71: -3028068582024334638
+      Impact_Damage4_Image Frames_72: -1654580626555337163
+      Impact_Damage4_Image Frames_73: 3478579414514449280
+      Impact_Damage4_Image Frames_74: 5496169494467080797
+      Impact_Damage4_Image Frames_75: 6009839994942474995
+      Impact_Damage4_Image Frames_76: 4838596484832837799
+      Impact_Damage4_Image Frames_77: 6440376709767481834
+      Impact_Damage4_Image Frames_78: 4460636922703813000
+      Impact_Damage4_Image Frames_79: -3360596345004717016
+      Impact_Damage4_Image Frames_8: 3169852491957706155
+      Impact_Damage4_Image Frames_80: 4803444659844773256
+      Impact_Damage4_Image Frames_81: -6498888494381455291
+      Impact_Damage4_Image Frames_82: 8663757950243274269
+      Impact_Damage4_Image Frames_83: 6678347762499956873
+      Impact_Damage4_Image Frames_84: 4769767912875546966
+      Impact_Damage4_Image Frames_85: -3916839845769858758
+      Impact_Damage4_Image Frames_86: -2937436417978609159
+      Impact_Damage4_Image Frames_87: 3845729856236965364
+      Impact_Damage4_Image Frames_88: 2492915786577344676
+      Impact_Damage4_Image Frames_89: -2131533272660561379
+      Impact_Damage4_Image Frames_9: 5586600583875682093
+      Impact_Damage4_Image Frames_90: -6004974305613999616
+      Impact_Damage4_Image Frames_91: -1116501098810241586
+      Impact_Damage4_Image Frames_92: 2658988205591156541
+      Impact_Damage4_Image Frames_93: 188459525533698826
+      Impact_Damage4_Image Frames_94: 3216572897321106076
+      Impact_Damage4_Image Frames_95: 6823769815225082913
+      Impact_Damage4_Image Frames_96: 3470698248863131685
+      Impact_Damage4_Image Frames_97: 1006211592293232877
+      Impact_Damage4_Image Frames_98: 6964680534013295784
+      Impact_Damage4_Image Frames_99: -1255285464314405920
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

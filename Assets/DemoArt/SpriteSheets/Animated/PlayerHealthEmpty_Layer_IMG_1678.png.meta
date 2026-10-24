@@ -1,0 +1,5265 @@
+fileFormatVersion: 2
+guid: aa2bbba02be94b24fbee4da337a7a014
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7045008655947584893
+    second: PlayerHealthEmpty_Layer_IMG_1678_0
+  - first:
+      213: -7038197297556633460
+    second: PlayerHealthEmpty_Layer_IMG_1678_1
+  - first:
+      213: -1027173863852263594
+    second: PlayerHealthEmpty_Layer_IMG_1678_2
+  - first:
+      213: 8400734328951063763
+    second: PlayerHealthEmpty_Layer_IMG_1678_3
+  - first:
+      213: -7334481199175897385
+    second: PlayerHealthEmpty_Layer_IMG_1678_4
+  - first:
+      213: 5068700070678330244
+    second: PlayerHealthEmpty_Layer_IMG_1678_5
+  - first:
+      213: 411781511045751411
+    second: PlayerHealthEmpty_Layer_IMG_1678_6
+  - first:
+      213: -8712126334672677886
+    second: PlayerHealthEmpty_Layer_IMG_1678_7
+  - first:
+      213: 7014575940837630884
+    second: PlayerHealthEmpty_Layer_IMG_1678_8
+  - first:
+      213: 8496452138104000784
+    second: PlayerHealthEmpty_Layer_IMG_1678_9
+  - first:
+      213: 1597020248936588740
+    second: PlayerHealthEmpty_Layer_IMG_1678_10
+  - first:
+      213: -3337341656164694441
+    second: PlayerHealthEmpty_Layer_IMG_1678_11
+  - first:
+      213: 4766594930131834218
+    second: PlayerHealthEmpty_Layer_IMG_1678_12
+  - first:
+      213: 9206474201833471622
+    second: PlayerHealthEmpty_Layer_IMG_1678_13
+  - first:
+      213: -7499310139564703396
+    second: PlayerHealthEmpty_Layer_IMG_1678_14
+  - first:
+      213: 3834010468513262908
+    second: PlayerHealthEmpty_Layer_IMG_1678_15
+  - first:
+      213: 1622689113236386220
+    second: PlayerHealthEmpty_Layer_IMG_1678_16
+  - first:
+      213: -7773577280644709739
+    second: PlayerHealthEmpty_Layer_IMG_1678_17
+  - first:
+      213: -493136033403272263
+    second: PlayerHealthEmpty_Layer_IMG_1678_18
+  - first:
+      213: -7175108006552174500
+    second: PlayerHealthEmpty_Layer_IMG_1678_19
+  - first:
+      213: 3174358046697592983
+    second: PlayerHealthEmpty_Layer_IMG_1678_20
+  - first:
+      213: -7246651066750554161
+    second: PlayerHealthEmpty_Layer_IMG_1678_21
+  - first:
+      213: 2881508730615687251
+    second: PlayerHealthEmpty_Layer_IMG_1678_22
+  - first:
+      213: -4012013834664563702
+    second: PlayerHealthEmpty_Layer_IMG_1678_23
+  - first:
+      213: -8121716213083484681
+    second: PlayerHealthEmpty_Layer_IMG_1678_24
+  - first:
+      213: 8817156772807846469
+    second: PlayerHealthEmpty_Layer_IMG_1678_25
+  - first:
+      213: 2420015686540769332
+    second: PlayerHealthEmpty_Layer_IMG_1678_26
+  - first:
+      213: -1423883478599605406
+    second: PlayerHealthEmpty_Layer_IMG_1678_27
+  - first:
+      213: 4106967049212597570
+    second: PlayerHealthEmpty_Layer_IMG_1678_28
+  - first:
+      213: -2536726674283195265
+    second: PlayerHealthEmpty_Layer_IMG_1678_29
+  - first:
+      213: 3123398786092782822
+    second: PlayerHealthEmpty_Layer_IMG_1678_30
+  - first:
+      213: -1083363395348898904
+    second: PlayerHealthEmpty_Layer_IMG_1678_31
+  - first:
+      213: 1387836168029016825
+    second: PlayerHealthEmpty_Layer_IMG_1678_32
+  - first:
+      213: 727089710168912863
+    second: PlayerHealthEmpty_Layer_IMG_1678_33
+  - first:
+      213: -5107226990976779286
+    second: PlayerHealthEmpty_Layer_IMG_1678_34
+  - first:
+      213: -5348542530090281834
+    second: PlayerHealthEmpty_Layer_IMG_1678_35
+  - first:
+      213: 6981524769696888775
+    second: PlayerHealthEmpty_Layer_IMG_1678_36
+  - first:
+      213: -5940860906340689354
+    second: PlayerHealthEmpty_Layer_IMG_1678_37
+  - first:
+      213: -921338943879779519
+    second: PlayerHealthEmpty_Layer_IMG_1678_38
+  - first:
+      213: -5262753709412895613
+    second: PlayerHealthEmpty_Layer_IMG_1678_39
+  - first:
+      213: -9027166680772216094
+    second: PlayerHealthEmpty_Layer_IMG_1678_40
+  - first:
+      213: 2333551872910067657
+    second: PlayerHealthEmpty_Layer_IMG_1678_41
+  - first:
+      213: -8759714400462895572
+    second: PlayerHealthEmpty_Layer_IMG_1678_42
+  - first:
+      213: -2797579712964312567
+    second: PlayerHealthEmpty_Layer_IMG_1678_43
+  - first:
+      213: 9046939247294995520
+    second: PlayerHealthEmpty_Layer_IMG_1678_44
+  - first:
+      213: 4529874836696158293
+    second: PlayerHealthEmpty_Layer_IMG_1678_45
+  - first:
+      213: 2258819814598264789
+    second: PlayerHealthEmpty_Layer_IMG_1678_46
+  - first:
+      213: 5102025514803521836
+    second: PlayerHealthEmpty_Layer_IMG_1678_47
+  - first:
+      213: 1399099677858862542
+    second: PlayerHealthEmpty_Layer_IMG_1678_48
+  - first:
+      213: -8025819754694334266
+    second: PlayerHealthEmpty_Layer_IMG_1678_49
+  - first:
+      213: 3289362721074775752
+    second: PlayerHealthEmpty_Layer_IMG_1678_50
+  - first:
+      213: -6623820393740812911
+    second: PlayerHealthEmpty_Layer_IMG_1678_51
+  - first:
+      213: -3154270384315020522
+    second: PlayerHealthEmpty_Layer_IMG_1678_52
+  - first:
+      213: -7509347471492996836
+    second: PlayerHealthEmpty_Layer_IMG_1678_53
+  - first:
+      213: -4998443709179942580
+    second: PlayerHealthEmpty_Layer_IMG_1678_54
+  - first:
+      213: -8139637250788874896
+    second: PlayerHealthEmpty_Layer_IMG_1678_55
+  - first:
+      213: -8769504150135166864
+    second: PlayerHealthEmpty_Layer_IMG_1678_56
+  - first:
+      213: -1251595629765835748
+    second: PlayerHealthEmpty_Layer_IMG_1678_57
+  - first:
+      213: 6829042158760781657
+    second: PlayerHealthEmpty_Layer_IMG_1678_58
+  - first:
+      213: -7565030712106680220
+    second: PlayerHealthEmpty_Layer_IMG_1678_59
+  - first:
+      213: 227851218581460993
+    second: PlayerHealthEmpty_Layer_IMG_1678_60
+  - first:
+      213: 1915092415833993177
+    second: PlayerHealthEmpty_Layer_IMG_1678_61
+  - first:
+      213: 4562894168801356522
+    second: PlayerHealthEmpty_Layer_IMG_1678_62
+  - first:
+      213: -806482720471953976
+    second: PlayerHealthEmpty_Layer_IMG_1678_63
+  - first:
+      213: 8077772463478299202
+    second: PlayerHealthEmpty_Layer_IMG_1678_64
+  - first:
+      213: 7504683085112990725
+    second: PlayerHealthEmpty_Layer_IMG_1678_65
+  - first:
+      213: 3865555718132476354
+    second: PlayerHealthEmpty_Layer_IMG_1678_66
+  - first:
+      213: 6405856416197148710
+    second: PlayerHealthEmpty_Layer_IMG_1678_67
+  - first:
+      213: -8079263480468985448
+    second: PlayerHealthEmpty_Layer_IMG_1678_68
+  - first:
+      213: 5534990952578738631
+    second: PlayerHealthEmpty_Layer_IMG_1678_69
+  - first:
+      213: -1850613546966231861
+    second: PlayerHealthEmpty_Layer_IMG_1678_70
+  - first:
+      213: 5053486963574132618
+    second: PlayerHealthEmpty_Layer_IMG_1678_71
+  - first:
+      213: -7837621736612674747
+    second: PlayerHealthEmpty_Layer_IMG_1678_72
+  - first:
+      213: -2826395282357824851
+    second: PlayerHealthEmpty_Layer_IMG_1678_73
+  - first:
+      213: -6042564489386314182
+    second: PlayerHealthEmpty_Layer_IMG_1678_74
+  - first:
+      213: -4244070609535215410
+    second: PlayerHealthEmpty_Layer_IMG_1678_75
+  - first:
+      213: -3089918811702099811
+    second: PlayerHealthEmpty_Layer_IMG_1678_76
+  - first:
+      213: -3528057569263972401
+    second: PlayerHealthEmpty_Layer_IMG_1678_77
+  - first:
+      213: 4539711928234108038
+    second: PlayerHealthEmpty_Layer_IMG_1678_78
+  - first:
+      213: -378238408642568423
+    second: PlayerHealthEmpty_Layer_IMG_1678_79
+  - first:
+      213: 1180613618593705997
+    second: PlayerHealthEmpty_Layer_IMG_1678_80
+  - first:
+      213: 67704364783112769
+    second: PlayerHealthEmpty_Layer_IMG_1678_81
+  - first:
+      213: -5250187565840132275
+    second: PlayerHealthEmpty_Layer_IMG_1678_82
+  - first:
+      213: 3365787551338440088
+    second: PlayerHealthEmpty_Layer_IMG_1678_83
+  - first:
+      213: 3725788171010973309
+    second: PlayerHealthEmpty_Layer_IMG_1678_84
+  - first:
+      213: -1522101243375511464
+    second: PlayerHealthEmpty_Layer_IMG_1678_85
+  - first:
+      213: -3396216991179556021
+    second: PlayerHealthEmpty_Layer_IMG_1678_86
+  - first:
+      213: 1557204624395858431
+    second: PlayerHealthEmpty_Layer_IMG_1678_87
+  - first:
+      213: 7343810719564319354
+    second: PlayerHealthEmpty_Layer_IMG_1678_88
+  - first:
+      213: -8507556581755910214
+    second: PlayerHealthEmpty_Layer_IMG_1678_89
+  - first:
+      213: 8448804654270133530
+    second: PlayerHealthEmpty_Layer_IMG_1678_90
+  - first:
+      213: -435189117584771324
+    second: PlayerHealthEmpty_Layer_IMG_1678_91
+  - first:
+      213: -2717199608349478744
+    second: PlayerHealthEmpty_Layer_IMG_1678_92
+  - first:
+      213: 8686542851085647160
+    second: PlayerHealthEmpty_Layer_IMG_1678_93
+  - first:
+      213: -6250928939629330376
+    second: PlayerHealthEmpty_Layer_IMG_1678_94
+  - first:
+      213: -6608696000845243752
+    second: PlayerHealthEmpty_Layer_IMG_1678_95
+  - first:
+      213: -8153309668281354505
+    second: PlayerHealthEmpty_Layer_IMG_1678_96
+  - first:
+      213: 5365186719432217139
+    second: PlayerHealthEmpty_Layer_IMG_1678_97
+  - first:
+      213: 650396009804895581
+    second: PlayerHealthEmpty_Layer_IMG_1678_98
+  - first:
+      213: 7967058032091512965
+    second: PlayerHealthEmpty_Layer_IMG_1678_99
+  - first:
+      213: -66785213724082739
+    second: PlayerHealthEmpty_Layer_IMG_1678_100
+  - first:
+      213: 5237207039213849280
+    second: PlayerHealthEmpty_Layer_IMG_1678_101
+  - first:
+      213: 9003379904467824657
+    second: PlayerHealthEmpty_Layer_IMG_1678_102
+  - first:
+      213: -3174578503957037446
+    second: PlayerHealthEmpty_Layer_IMG_1678_103
+  - first:
+      213: -1039876588290472155
+    second: PlayerHealthEmpty_Layer_IMG_1678_104
+  - first:
+      213: 8920179131840049240
+    second: PlayerHealthEmpty_Layer_IMG_1678_105
+  - first:
+      213: -582618002475589153
+    second: PlayerHealthEmpty_Layer_IMG_1678_106
+  - first:
+      213: 5773711583609560208
+    second: PlayerHealthEmpty_Layer_IMG_1678_107
+  - first:
+      213: -5207113462415153868
+    second: PlayerHealthEmpty_Layer_IMG_1678_108
+  - first:
+      213: -2776691077819149014
+    second: PlayerHealthEmpty_Layer_IMG_1678_109
+  - first:
+      213: -1032768332439688569
+    second: PlayerHealthEmpty_Layer_IMG_1678_110
+  - first:
+      213: 3442946562259296614
+    second: PlayerHealthEmpty_Layer_IMG_1678_111
+  - first:
+      213: -6900210081874039772
+    second: PlayerHealthEmpty_Layer_IMG_1678_112
+  - first:
+      213: 763668142810866791
+    second: PlayerHealthEmpty_Layer_IMG_1678_113
+  - first:
+      213: -3084513524479229121
+    second: PlayerHealthEmpty_Layer_IMG_1678_114
+  - first:
+      213: 1599124519971461
+    second: PlayerHealthEmpty_Layer_IMG_1678_115
+  - first:
+      213: 6006509366407067324
+    second: PlayerHealthEmpty_Layer_IMG_1678_116
+  - first:
+      213: -3872469665631943742
+    second: PlayerHealthEmpty_Layer_IMG_1678_117
+  - first:
+      213: 1358720210234924662
+    second: PlayerHealthEmpty_Layer_IMG_1678_118
+  - first:
+      213: 4442442184593897885
+    second: PlayerHealthEmpty_Layer_IMG_1678_119
+  - first:
+      213: 3562983255110055531
+    second: PlayerHealthEmpty_Layer_IMG_1678_120
+  - first:
+      213: 9114899005479821291
+    second: PlayerHealthEmpty_Layer_IMG_1678_121
+  - first:
+      213: 2053948616121627269
+    second: PlayerHealthEmpty_Layer_IMG_1678_122
+  - first:
+      213: -2608173521980466762
+    second: PlayerHealthEmpty_Layer_IMG_1678_123
+  - first:
+      213: -6204959981141714546
+    second: PlayerHealthEmpty_Layer_IMG_1678_124
+  - first:
+      213: 4479038963777650412
+    second: PlayerHealthEmpty_Layer_IMG_1678_125
+  - first:
+      213: 6497374583425390395
+    second: PlayerHealthEmpty_Layer_IMG_1678_126
+  - first:
+      213: -7855260155623815243
+    second: PlayerHealthEmpty_Layer_IMG_1678_127
+  - first:
+      213: 1239397438948526234
+    second: PlayerHealthEmpty_Layer_IMG_1678_128
+  - first:
+      213: -1106104230443691235
+    second: PlayerHealthEmpty_Layer_IMG_1678_129
+  - first:
+      213: 8765728772448474921
+    second: PlayerHealthEmpty_Layer_IMG_1678_130
+  - first:
+      213: -3430327803770863252
+    second: PlayerHealthEmpty_Layer_IMG_1678_131
+  - first:
+      213: -1836230833989679242
+    second: PlayerHealthEmpty_Layer_IMG_1678_132
+  - first:
+      213: 2775222581386470690
+    second: PlayerHealthEmpty_Layer_IMG_1678_133
+  - first:
+      213: -5952890441979545162
+    second: PlayerHealthEmpty_Layer_IMG_1678_134
+  - first:
+      213: -1083911846971955841
+    second: PlayerHealthEmpty_Layer_IMG_1678_135
+  - first:
+      213: 1473705133006388112
+    second: PlayerHealthEmpty_Layer_IMG_1678_136
+  - first:
+      213: -7356852757710660137
+    second: PlayerHealthEmpty_Layer_IMG_1678_137
+  - first:
+      213: -1234456890222985223
+    second: PlayerHealthEmpty_Layer_IMG_1678_138
+  - first:
+      213: 8574264028087069238
+    second: PlayerHealthEmpty_Layer_IMG_1678_139
+  - first:
+      213: -7933872935792728511
+    second: PlayerHealthEmpty_Layer_IMG_1678_140
+  - first:
+      213: -4160263611329656653
+    second: PlayerHealthEmpty_Layer_IMG_1678_141
+  - first:
+      213: -726717327921216712
+    second: PlayerHealthEmpty_Layer_IMG_1678_142
+  - first:
+      213: 6394779823929319409
+    second: PlayerHealthEmpty_Layer_IMG_1678_143
+  - first:
+      213: 196539750403458762
+    second: PlayerHealthEmpty_Layer_IMG_1678_144
+  - first:
+      213: -3751762346294903096
+    second: PlayerHealthEmpty_Layer_IMG_1678_145
+  - first:
+      213: -1546608338862263997
+    second: PlayerHealthEmpty_Layer_IMG_1678_146
+  - first:
+      213: 1782087792016411279
+    second: PlayerHealthEmpty_Layer_IMG_1678_147
+  - first:
+      213: -8330501241044570614
+    second: PlayerHealthEmpty_Layer_IMG_1678_148
+  - first:
+      213: 1368379301821130868
+    second: PlayerHealthEmpty_Layer_IMG_1678_149
+  - first:
+      213: -4282409193974977248
+    second: PlayerHealthEmpty_Layer_IMG_1678_150
+  - first:
+      213: 752940047313638988
+    second: PlayerHealthEmpty_Layer_IMG_1678_151
+  - first:
+      213: 6030540387273100626
+    second: PlayerHealthEmpty_Layer_IMG_1678_152
+  - first:
+      213: 5794373337484492252
+    second: PlayerHealthEmpty_Layer_IMG_1678_153
+  - first:
+      213: 5472625819117870055
+    second: PlayerHealthEmpty_Layer_IMG_1678_154
+  - first:
+      213: -6497587458885010212
+    second: PlayerHealthEmpty_Layer_IMG_1678_155
+  - first:
+      213: 4729898090264652981
+    second: PlayerHealthEmpty_Layer_IMG_1678_156
+  - first:
+      213: 4882561933849866448
+    second: PlayerHealthEmpty_Layer_IMG_1678_157
+  - first:
+      213: -5719900049165045306
+    second: PlayerHealthEmpty_Layer_IMG_1678_158
+  - first:
+      213: -2583001417762119756
+    second: PlayerHealthEmpty_Layer_IMG_1678_159
+  - first:
+      213: 8999798549428422490
+    second: PlayerHealthEmpty_Layer_IMG_1678_160
+  - first:
+      213: -1385136981729473740
+    second: PlayerHealthEmpty_Layer_IMG_1678_161
+  - first:
+      213: -996906963606470350
+    second: PlayerHealthEmpty_Layer_IMG_1678_162
+  - first:
+      213: -2948384041923579140
+    second: PlayerHealthEmpty_Layer_IMG_1678_163
+  - first:
+      213: -1838926060541381285
+    second: PlayerHealthEmpty_Layer_IMG_1678_164
+  - first:
+      213: 527249072301570146
+    second: PlayerHealthEmpty_Layer_IMG_1678_165
+  - first:
+      213: -8379922302969153911
+    second: PlayerHealthEmpty_Layer_IMG_1678_166
+  - first:
+      213: -4198111232127380907
+    second: PlayerHealthEmpty_Layer_IMG_1678_167
+  - first:
+      213: 6285460841722789677
+    second: PlayerHealthEmpty_Layer_IMG_1678_168
+  - first:
+      213: -7955603388762846531
+    second: PlayerHealthEmpty_Layer_IMG_1678_169
+  - first:
+      213: 4754769573503105187
+    second: PlayerHealthEmpty_Layer_IMG_1678_170
+  - first:
+      213: 400624604293144101
+    second: PlayerHealthEmpty_Layer_IMG_1678_171
+  - first:
+      213: 2541605550470528006
+    second: PlayerHealthEmpty_Layer_IMG_1678_172
+  - first:
+      213: -5358427176252725279
+    second: PlayerHealthEmpty_Layer_IMG_1678_173
+  - first:
+      213: 5629532984685467999
+    second: PlayerHealthEmpty_Layer_IMG_1678_174
+  - first:
+      213: -3206245261685772372
+    second: PlayerHealthEmpty_Layer_IMG_1678_175
+  - first:
+      213: -8781837870090974391
+    second: PlayerHealthEmpty_Layer_IMG_1678_176
+  - first:
+      213: -8755935381947424379
+    second: PlayerHealthEmpty_Layer_IMG_1678_177
+  - first:
+      213: -7545137386269520323
+    second: PlayerHealthEmpty_Layer_IMG_1678_178
+  - first:
+      213: 7566635068244069037
+    second: PlayerHealthEmpty_Layer_IMG_1678_179
+  - first:
+      213: 2250980369103661864
+    second: PlayerHealthEmpty_Layer_IMG_1678_180
+  - first:
+      213: -5193447660350848435
+    second: PlayerHealthEmpty_Layer_IMG_1678_181
+  - first:
+      213: 6432750811548295677
+    second: PlayerHealthEmpty_Layer_IMG_1678_182
+  - first:
+      213: -4222258217204225893
+    second: PlayerHealthEmpty_Layer_IMG_1678_183
+  - first:
+      213: 372926386184808057
+    second: PlayerHealthEmpty_Layer_IMG_1678_184
+  - first:
+      213: -1814941295454623089
+    second: PlayerHealthEmpty_Layer_IMG_1678_185
+  - first:
+      213: 9220889095322943245
+    second: PlayerHealthEmpty_Layer_IMG_1678_186
+  - first:
+      213: -7732499390266057603
+    second: PlayerHealthEmpty_Layer_IMG_1678_187
+  - first:
+      213: 1747627474507167440
+    second: PlayerHealthEmpty_Layer_IMG_1678_188
+  - first:
+      213: 8431408912988785639
+    second: PlayerHealthEmpty_Layer_IMG_1678_189
+  - first:
+      213: 8463177962694022071
+    second: PlayerHealthEmpty_Layer_IMG_1678_190
+  - first:
+      213: 2470172405388451496
+    second: PlayerHealthEmpty_Layer_IMG_1678_191
+  - first:
+      213: -2562763559020898562
+    second: PlayerHealthEmpty_Layer_IMG_1678_192
+  - first:
+      213: -6979950274098075060
+    second: PlayerHealthEmpty_Layer_IMG_1678_193
+  - first:
+      213: -7728683620222723421
+    second: PlayerHealthEmpty_Layer_IMG_1678_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2800
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75de49eb06e4c160800000000000000
+      internalID: 7045008655947584893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2800
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88c50c09dc435e90800000000000000
+      internalID: -7038197297556633460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2800
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657358220debeb1f0800000000000000
+      internalID: -1027173863852263594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2800
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4ce89fc57659470800000000000000
+      internalID: 8400734328951063763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2800
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dee6578530b63a90800000000000000
+      internalID: -7334481199175897385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2800
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b77c1fbd3a75640800000000000000
+      internalID: 5068700070678330244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_6
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2800
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372a4f24a11f6b500800000000000000
+      internalID: 411781511045751411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2708
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2045287e14f481780800000000000000
+      internalID: -8712126334672677886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2708
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3e0a347a7c85160800000000000000
+      internalID: 7014575940837630884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2708
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0111cc6143679e570800000000000000
+      internalID: 8496452138104000784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2708
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5a8fc7471c92610800000000000000
+      internalID: 1597020248936588740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2708
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756803a12716fa1d0800000000000000
+      internalID: -3337341656164694441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_12
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2708
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a659fae95d8562240800000000000000
+      internalID: 4766594930131834218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_13
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2708
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ef4123287f3cf70800000000000000
+      internalID: 9206474201833471622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2616
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51c2ce39291de790800000000000000
+      internalID: -7499310139564703396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2616
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dacd82534253530800000000000000
+      internalID: 3834010468513262908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2616
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1395fa623f48610800000000000000
+      internalID: 1622689113236386220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_17
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2616
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592002146a4be1490800000000000000
+      internalID: -7773577280644709739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_18
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2616
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b38d0fe3670829f0800000000000000
+      internalID: -493136033403272263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_19
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2616
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50856c8845ec6c90800000000000000
+      internalID: -7175108006552174500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_20
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2616
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798105333d59d0c20800000000000000
+      internalID: 3174358046697592983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2524
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfa02bcf39be6b90800000000000000
+      internalID: -7246651066750554161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2524
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358e8817cec2df720800000000000000
+      internalID: 2881508730615687251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2524
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cadd68ca67258c0800000000000000
+      internalID: -4012013834664563702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_24
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2524
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdc0a8822ed94f80800000000000000
+      internalID: -8121716213083484681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_25
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2524
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a242c9e55dc5a70800000000000000
+      internalID: 8817156772807846469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_26
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2524
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438b223f17f959120800000000000000
+      internalID: 2420015686540769332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_27
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2524
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263e58035895d3ce0800000000000000
+      internalID: -1423883478599605406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2430
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2451d8885c0eef830800000000000000
+      internalID: 4106967049212597570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2430
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f749717a78cbbccd0800000000000000
+      internalID: -2536726674283195265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2430
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e452f0c5aa885b20800000000000000
+      internalID: 3123398786092782822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2430
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab51995bbe17f0f0800000000000000
+      internalID: -1083363395348898904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2430
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f21fc944a5924310800000000000000
+      internalID: 1387836168029016825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_33
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2430
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3b5763d34271a00800000000000000
+      internalID: 727089710168912863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_34
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2430
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebba876c1c7f19b0800000000000000
+      internalID: -5107226990976779286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2317
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69456eb18e826c5b0800000000000000
+      internalID: -5348542530090281834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2317
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7bf50d9cb53e060800000000000000
+      internalID: 6981524769696888775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_37
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2317
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ade815b72dd8da0800000000000000
+      internalID: -5940860906340689354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2317
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bef4cac1fb633f0800000000000000
+      internalID: -921338943879779519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_39
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2317
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38433127261f6f6b0800000000000000
+      internalID: -5262753709412895613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2317
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea74585bbf09b280800000000000000
+      internalID: -9027166680772216094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_41
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2317
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c780c19011726020800000000000000
+      internalID: 2333551872910067657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2225
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26098ae92e3f6680800000000000000
+      internalID: -8759714400462895572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_43
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2225
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9024ce1c2100d29d0800000000000000
+      internalID: -2797579712964312567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_44
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2225
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cde8b005f2d8d70800000000000000
+      internalID: 9046939247294995520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_45
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2225
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5505146e9295dde30800000000000000
+      internalID: 4529874836696158293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_46
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2225
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d74eb457a0f85f10800000000000000
+      internalID: 2258819814598264789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_47
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2225
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29e7dc8c290ec640800000000000000
+      internalID: 5102025514803521836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_48
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2225
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec514288eb99a6310800000000000000
+      internalID: 1399099677858862542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2133
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8a12aa47f8e9090800000000000000
+      internalID: -8025819754694334266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_50
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2133
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6031f87f926ad20800000000000000
+      internalID: 3289362721074775752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2133
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d371742767314a0800000000000000
+      internalID: -6623820393740812911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_52
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2133
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b4e592cc7c934d0800000000000000
+      internalID: -3154270384315020522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_53
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2133
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11aeaac24079c790800000000000000
+      internalID: -7509347471492996836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_54
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2133
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c492b8cede5f1aab0800000000000000
+      internalID: -4998443709179942580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_55
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2133
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075213acb033a0f80800000000000000
+      internalID: -8139637250788874896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2041
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07821e230767c4680800000000000000
+      internalID: -8769504150135166864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_57
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2041
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14406de76071aee0800000000000000
+      internalID: -1251595629765835748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2041
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9576a1d59a1a5ce50800000000000000
+      internalID: 6829042158760781657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_59
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2041
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46006f906ac930790800000000000000
+      internalID: -7565030712106680220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_60
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2041
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1081031e97d792300800000000000000
+      internalID: 227851218581460993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_61
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2041
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df64d5d766c39a10800000000000000
+      internalID: 1915092415833993177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_62
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2041
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea2b1f3218a25f30800000000000000
+      internalID: 4562894168801356522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_63
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1947
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd47c81d3ccec4f0800000000000000
+      internalID: -806482720471953976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_64
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1947
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a5e06f1430a1070800000000000000
+      internalID: 8077772463478299202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_65
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1947
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cda00218df52860800000000000000
+      internalID: 7504683085112990725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_66
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1947
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c924cee17635a530800000000000000
+      internalID: 3865555718132476354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_67
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1947
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6208699887c26e850800000000000000
+      internalID: 6405856416197148710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_68
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1947
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8992cd79ba0b0ef80800000000000000
+      internalID: -8079263480468985448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_69
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1947
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9e47b12fc30dc40800000000000000
+      internalID: 5534990952578738631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1834
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc45d84b8cc4156e0800000000000000
+      internalID: -1850613546966231861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1834
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f47ec6e97912640800000000000000
+      internalID: 5053486963574132618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_72
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1834
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54342595e8c2b3390800000000000000
+      internalID: -7837621736612674747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_73
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1834
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2d8303770a6c8d0800000000000000
+      internalID: -2826395282357824851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_74
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1834
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a363dbd9c9f742ca0800000000000000
+      internalID: -6042564489386314182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_75
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1834
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec85af444480a15c0800000000000000
+      internalID: -4244070609535215410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_76
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1834
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9003bb36376e15d0800000000000000
+      internalID: -3089918811702099811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_77
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1742
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf84ec4552d90fc0800000000000000
+      internalID: -3528057569263972401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_78
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1742
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6846ff042fb400f30800000000000000
+      internalID: 4539711928234108038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_79
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1742
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f537cdb2a30caf0800000000000000
+      internalID: -378238408642568423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_80
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1742
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d003449b4d1626010800000000000000
+      internalID: 1180613618593705997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_81
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1742
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14214a4d2c880f000800000000000000
+      internalID: 67704364783112769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_82
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1742
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d471dedb9369327b0800000000000000
+      internalID: -5250187565840132275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_83
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1742
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895a5faf1fda5be20800000000000000
+      internalID: 3365787551338440088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1650
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e1679f998a4b330800000000000000
+      internalID: 3725788171010973309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_85
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1650
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8581c6ccbf860eae0800000000000000
+      internalID: -1522101243375511464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_86
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1650
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bb894f3a63ed0d0800000000000000
+      internalID: -3396216991179556021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_87
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1650
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1f5bffa5d4c9510800000000000000
+      internalID: 1557204624395858431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_88
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1650
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a4655b0f47ae560800000000000000
+      internalID: 7343810719564319354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_89
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1650
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab707e52d561fe980800000000000000
+      internalID: -8507556581755910214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_90
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1650
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a153072c11f204570800000000000000
+      internalID: 8448804654270133530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_91
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1558
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4077e34adc5e5f9f0800000000000000
+      internalID: -435189117584771324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_92
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1558
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0bf704a519a4ad0800000000000000
+      internalID: -2717199608349478744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_93
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1558
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d3b2523bccc8870800000000000000
+      internalID: 8686542851085647160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_94
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1558
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8304f2d8f3d3049a0800000000000000
+      internalID: -6250928939629330376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_95
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1558
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a131960023944a0800000000000000
+      internalID: -6608696000845243752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_96
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1558
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6f4560e00a9de80800000000000000
+      internalID: -8153309668281354505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_97
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1558
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332966535e8f47a40800000000000000
+      internalID: 5365186719432217139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_98
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1464
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5590c799bba60900800000000000000
+      internalID: 650396009804895581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_99
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1464
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580ccb3a11da09e60800000000000000
+      internalID: 7967058032091512965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_100
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1464
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd3ab3b33bb21ff0800000000000000
+      internalID: -66785213724082739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_101
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1464
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca4483ed0c4ea840800000000000000
+      internalID: 5237207039213849280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_102
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1464
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110f1b7325e62fc70800000000000000
+      internalID: 9003379904467824657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_103
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1464
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ebc089ba1a1f3d0800000000000000
+      internalID: -3174578503957037446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_104
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1464
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52783b0a0cd9191f0800000000000000
+      internalID: -1039876588290472155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_105
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1351
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850bd26c8a7dacb70800000000000000
+      internalID: 8920179131840049240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_106
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1351
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1e1ba73002ae7f0800000000000000
+      internalID: -582618002475589153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_107
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1351
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c1b984818502050800000000000000
+      internalID: 5773711583609560208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_108
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1351
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4352797f4ed9cb7b0800000000000000
+      internalID: -5207113462415153868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_109
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1351
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25d79f1d263779d0800000000000000
+      internalID: -2776691077819149014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_110
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1351
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ae8a96caedaa1f0800000000000000
+      internalID: -1032768332439688569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_111
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1351
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6612e1828adc7cf20800000000000000
+      internalID: 3442946562259296614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_112
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1259
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c245a4d778d30a0800000000000000
+      internalID: -6900210081874039772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_113
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1259
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764268a3128199a00800000000000000
+      internalID: 763668142810866791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_114
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1259
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33078cba4b9135d0800000000000000
+      internalID: -3084513524479229121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_115
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1259
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ae6f0356ea50000800000000000000
+      internalID: 1599124519971461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_116
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1259
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6ffb4e1786b5350800000000000000
+      internalID: 6006509366407067324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_117
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1259
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c348883b59324ac0800000000000000
+      internalID: -3872469665631943742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_118
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1259
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e523815d42bd210800000000000000
+      internalID: 1358720210234924662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_119
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1167
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99fdeb31a9b6ad30800000000000000
+      internalID: 4442442184593897885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_120
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1167
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66ff7d9462427130800000000000000
+      internalID: 3562983255110055531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_121
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1167
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef9f294a50ae7e70800000000000000
+      internalID: 9114899005479821291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_122
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1167
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582b5d25267118c10800000000000000
+      internalID: 2053948616121627269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_123
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1167
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b956cd1008edcbd0800000000000000
+      internalID: -2608173521980466762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_124
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1167
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89988eb5cd83e9a0800000000000000
+      internalID: -6204959981141714546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_125
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1167
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceeb913e43eb82e30800000000000000
+      internalID: 4479038963777650412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_126
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1075
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37d8b152cf4b2a50800000000000000
+      internalID: 6497374583425390395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_127
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1075
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b743c5e1828cf290800000000000000
+      internalID: -7855260155623815243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_128
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1075
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a984e047769333110800000000000000
+      internalID: 1239397438948526234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_129
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1075
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13d8d3101456a0f0800000000000000
+      internalID: -1106104230443691235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_130
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1075
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927563f20ef16a970800000000000000
+      internalID: 8765728772448474921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_131
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1075
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61871189070560d0800000000000000
+      internalID: -3430327803770863252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_132
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1075
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6770d6609c56486e0800000000000000
+      internalID: -1836230833989679242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_133
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 981
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225ee28eb32938620800000000000000
+      internalID: 2775222581386470690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_134
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 981
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9bdfacea5136da0800000000000000
+      internalID: -5952890441979545162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_135
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 981
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7526610beb25f0f0800000000000000
+      internalID: -1083911846971955841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_136
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 981
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bf38ca207a37410800000000000000
+      internalID: 1473705133006388112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_137
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 981
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd9dc7256537e990800000000000000
+      internalID: -7356852757710660137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_138
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 981
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffb9bfaff35edee0800000000000000
+      internalID: -1234456890222985223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_139
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 981
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a2a8484b7edf670800000000000000
+      internalID: 8574264028087069238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_140
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 868
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1462df0b99835e190800000000000000
+      internalID: -7933872935792728511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_141
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 868
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b846ba9946c346c0800000000000000
+      internalID: -4160263611329656653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_142
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 868
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8338229c07e2ae5f0800000000000000
+      internalID: -726717327921216712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_143
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 868
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff542e6e52deb850800000000000000
+      internalID: 6394779823929319409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_144
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 868
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6ca079cdf3ab200800000000000000
+      internalID: 196539750403458762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_145
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 868
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cef76316001febc0800000000000000
+      internalID: -3751762346294903096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_146
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 868
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341357bf8e7598ae0800000000000000
+      internalID: -1546608338862263997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_147
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 776
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ac2b9a76f3bb810800000000000000
+      internalID: 1782087792016411279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_148
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 776
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e6696124d146c80800000000000000
+      internalID: -8330501241044570614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_149
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 776
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478ab0b99b57df210800000000000000
+      internalID: 1368379301821130868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_150
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 776
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d214af683d194c0800000000000000
+      internalID: -4282409193974977248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_151
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 776
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c469b49dbfaf27a00800000000000000
+      internalID: 752940047313638988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_152
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 776
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d4f03f788c0b350800000000000000
+      internalID: 6030540387273100626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_153
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 776
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddf1ccb9dfb96050800000000000000
+      internalID: 5794373337484492252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_154
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 684
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebd621ff2ca2fb40800000000000000
+      internalID: 5472625819117870055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_155
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 684
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc3020c1aee3d5a0800000000000000
+      internalID: -6497587458885010212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_156
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 684
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bce506c049f3a140800000000000000
+      internalID: 4729898090264652981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_157
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 684
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d037fcb53852c340800000000000000
+      internalID: 4882561933849866448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_158
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 684
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c137cae535de90b0800000000000000
+      internalID: -5719900049165045306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_159
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 684
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf55f755e5572cd0800000000000000
+      internalID: -2583001417762119756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_160
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 684
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57c1c40915b5ec70800000000000000
+      internalID: 8999798549428422490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_161
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 592
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b02cef04107cce0800000000000000
+      internalID: -1385136981729473740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_162
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 592
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2318f1006664a22f0800000000000000
+      internalID: -996906963606470350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_163
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 592
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2f6b7c55c3517d0800000000000000
+      internalID: -2948384041923579140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_164
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 592
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55f831bd72da76e0800000000000000
+      internalID: -1838926060541381285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_165
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 592
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26870bedc3a215700800000000000000
+      internalID: 527249072301570146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_166
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 592
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986762e601984bb80800000000000000
+      internalID: -8379922302969153911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_167
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 592
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5525871b3105db5c0800000000000000
+      internalID: -4198111232127380907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_168
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 498
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fb38075517a3750800000000000000
+      internalID: 6285460841722789677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_169
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 498
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba85e65ed4089190800000000000000
+      internalID: -7955603388762846531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_170
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 498
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8fc793cb55cf140800000000000000
+      internalID: 4754769573503105187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_171
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 498
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e9c2b74fd4f8500800000000000000
+      internalID: 400624604293144101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_172
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 498
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cf4fa38c8954320800000000000000
+      internalID: 2541605550470528006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_173
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 498
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e728a49fda03a5b0800000000000000
+      internalID: -5358427176252725279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_174
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 498
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59958b4c6e102e40800000000000000
+      internalID: 5629532984685467999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_175
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 385
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafa0720ce02183d0800000000000000
+      internalID: -3206245261685772372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_176
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 385
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b872e3cf4a02680800000000000000
+      internalID: -8781837870090974391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_177
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 385
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581efba392bac7680800000000000000
+      internalID: -8755935381947424379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_178
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 385
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ec2e5e5894a4790800000000000000
+      internalID: -7545137386269520323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_179
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 293
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa83bb3186120960800000000000000
+      internalID: 7566635068244069037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_180
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 293
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b2dc038b61d3f10800000000000000
+      internalID: 2250980369103661864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_181
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 293
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4244357eda2de7b0800000000000000
+      internalID: -5193447660350848435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_182
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 293
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df121fae7c8b54950800000000000000
+      internalID: 6432750811548295677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_183
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 201
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98619d95868765c0800000000000000
+      internalID: -4222258217204225893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_184
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 201
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9766ae78296ec2500800000000000000
+      internalID: 372926386184808057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_185
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 201
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a6d3cf18800d6e0800000000000000
+      internalID: -1814941295454623089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_186
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 201
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f3fff17cd27ff70800000000000000
+      internalID: 9220889095322943245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_187
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 109
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c5449e5c4a0b490800000000000000
+      internalID: -7732499390266057603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_188
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 109
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d676b1cde1d04810800000000000000
+      internalID: 1747627474507167440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_189
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 109
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb42ce1cb1620570800000000000000
+      internalID: 8431408912988785639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_190
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 109
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b39a49648f337570800000000000000
+      internalID: 8463177962694022071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_191
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 15
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae962517b0d74220800000000000000
+      internalID: 2470172405388451496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_192
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 15
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef65e350f1c3f6cd0800000000000000
+      internalID: -2562763559020898562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_193
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 15
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a6e72053c322f90800000000000000
+      internalID: -6979950274098075060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHealthEmpty_Layer_IMG_1678_194
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 15
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa9e3b12333eb490800000000000000
+      internalID: -7728683620222723421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayerHealthEmpty_Layer_IMG_1678_0: 7045008655947584893
+      PlayerHealthEmpty_Layer_IMG_1678_1: -7038197297556633460
+      PlayerHealthEmpty_Layer_IMG_1678_10: 1597020248936588740
+      PlayerHealthEmpty_Layer_IMG_1678_100: -66785213724082739
+      PlayerHealthEmpty_Layer_IMG_1678_101: 5237207039213849280
+      PlayerHealthEmpty_Layer_IMG_1678_102: 9003379904467824657
+      PlayerHealthEmpty_Layer_IMG_1678_103: -3174578503957037446
+      PlayerHealthEmpty_Layer_IMG_1678_104: -1039876588290472155
+      PlayerHealthEmpty_Layer_IMG_1678_105: 8920179131840049240
+      PlayerHealthEmpty_Layer_IMG_1678_106: -582618002475589153
+      PlayerHealthEmpty_Layer_IMG_1678_107: 5773711583609560208
+      PlayerHealthEmpty_Layer_IMG_1678_108: -5207113462415153868
+      PlayerHealthEmpty_Layer_IMG_1678_109: -2776691077819149014
+      PlayerHealthEmpty_Layer_IMG_1678_11: -3337341656164694441
+      PlayerHealthEmpty_Layer_IMG_1678_110: -1032768332439688569
+      PlayerHealthEmpty_Layer_IMG_1678_111: 3442946562259296614
+      PlayerHealthEmpty_Layer_IMG_1678_112: -6900210081874039772
+      PlayerHealthEmpty_Layer_IMG_1678_113: 763668142810866791
+      PlayerHealthEmpty_Layer_IMG_1678_114: -3084513524479229121
+      PlayerHealthEmpty_Layer_IMG_1678_115: 1599124519971461
+      PlayerHealthEmpty_Layer_IMG_1678_116: 6006509366407067324
+      PlayerHealthEmpty_Layer_IMG_1678_117: -3872469665631943742
+      PlayerHealthEmpty_Layer_IMG_1678_118: 1358720210234924662
+      PlayerHealthEmpty_Layer_IMG_1678_119: 4442442184593897885
+      PlayerHealthEmpty_Layer_IMG_1678_12: 4766594930131834218
+      PlayerHealthEmpty_Layer_IMG_1678_120: 3562983255110055531
+      PlayerHealthEmpty_Layer_IMG_1678_121: 9114899005479821291
+      PlayerHealthEmpty_Layer_IMG_1678_122: 2053948616121627269
+      PlayerHealthEmpty_Layer_IMG_1678_123: -2608173521980466762
+      PlayerHealthEmpty_Layer_IMG_1678_124: -6204959981141714546
+      PlayerHealthEmpty_Layer_IMG_1678_125: 4479038963777650412
+      PlayerHealthEmpty_Layer_IMG_1678_126: 6497374583425390395
+      PlayerHealthEmpty_Layer_IMG_1678_127: -7855260155623815243
+      PlayerHealthEmpty_Layer_IMG_1678_128: 1239397438948526234
+      PlayerHealthEmpty_Layer_IMG_1678_129: -1106104230443691235
+      PlayerHealthEmpty_Layer_IMG_1678_13: 9206474201833471622
+      PlayerHealthEmpty_Layer_IMG_1678_130: 8765728772448474921
+      PlayerHealthEmpty_Layer_IMG_1678_131: -3430327803770863252
+      PlayerHealthEmpty_Layer_IMG_1678_132: -1836230833989679242
+      PlayerHealthEmpty_Layer_IMG_1678_133: 2775222581386470690
+      PlayerHealthEmpty_Layer_IMG_1678_134: -5952890441979545162
+      PlayerHealthEmpty_Layer_IMG_1678_135: -1083911846971955841
+      PlayerHealthEmpty_Layer_IMG_1678_136: 1473705133006388112
+      PlayerHealthEmpty_Layer_IMG_1678_137: -7356852757710660137
+      PlayerHealthEmpty_Layer_IMG_1678_138: -1234456890222985223
+      PlayerHealthEmpty_Layer_IMG_1678_139: 8574264028087069238
+      PlayerHealthEmpty_Layer_IMG_1678_14: -7499310139564703396
+      PlayerHealthEmpty_Layer_IMG_1678_140: -7933872935792728511
+      PlayerHealthEmpty_Layer_IMG_1678_141: -4160263611329656653
+      PlayerHealthEmpty_Layer_IMG_1678_142: -726717327921216712
+      PlayerHealthEmpty_Layer_IMG_1678_143: 6394779823929319409
+      PlayerHealthEmpty_Layer_IMG_1678_144: 196539750403458762
+      PlayerHealthEmpty_Layer_IMG_1678_145: -3751762346294903096
+      PlayerHealthEmpty_Layer_IMG_1678_146: -1546608338862263997
+      PlayerHealthEmpty_Layer_IMG_1678_147: 1782087792016411279
+      PlayerHealthEmpty_Layer_IMG_1678_148: -8330501241044570614
+      PlayerHealthEmpty_Layer_IMG_1678_149: 1368379301821130868
+      PlayerHealthEmpty_Layer_IMG_1678_15: 3834010468513262908
+      PlayerHealthEmpty_Layer_IMG_1678_150: -4282409193974977248
+      PlayerHealthEmpty_Layer_IMG_1678_151: 752940047313638988
+      PlayerHealthEmpty_Layer_IMG_1678_152: 6030540387273100626
+      PlayerHealthEmpty_Layer_IMG_1678_153: 5794373337484492252
+      PlayerHealthEmpty_Layer_IMG_1678_154: 5472625819117870055
+      PlayerHealthEmpty_Layer_IMG_1678_155: -6497587458885010212
+      PlayerHealthEmpty_Layer_IMG_1678_156: 4729898090264652981
+      PlayerHealthEmpty_Layer_IMG_1678_157: 4882561933849866448
+      PlayerHealthEmpty_Layer_IMG_1678_158: -5719900049165045306
+      PlayerHealthEmpty_Layer_IMG_1678_159: -2583001417762119756
+      PlayerHealthEmpty_Layer_IMG_1678_16: 1622689113236386220
+      PlayerHealthEmpty_Layer_IMG_1678_160: 8999798549428422490
+      PlayerHealthEmpty_Layer_IMG_1678_161: -1385136981729473740
+      PlayerHealthEmpty_Layer_IMG_1678_162: -996906963606470350
+      PlayerHealthEmpty_Layer_IMG_1678_163: -2948384041923579140
+      PlayerHealthEmpty_Layer_IMG_1678_164: -1838926060541381285
+      PlayerHealthEmpty_Layer_IMG_1678_165: 527249072301570146
+      PlayerHealthEmpty_Layer_IMG_1678_166: -8379922302969153911
+      PlayerHealthEmpty_Layer_IMG_1678_167: -4198111232127380907
+      PlayerHealthEmpty_Layer_IMG_1678_168: 6285460841722789677
+      PlayerHealthEmpty_Layer_IMG_1678_169: -7955603388762846531
+      PlayerHealthEmpty_Layer_IMG_1678_17: -7773577280644709739
+      PlayerHealthEmpty_Layer_IMG_1678_170: 4754769573503105187
+      PlayerHealthEmpty_Layer_IMG_1678_171: 400624604293144101
+      PlayerHealthEmpty_Layer_IMG_1678_172: 2541605550470528006
+      PlayerHealthEmpty_Layer_IMG_1678_173: -5358427176252725279
+      PlayerHealthEmpty_Layer_IMG_1678_174: 5629532984685467999
+      PlayerHealthEmpty_Layer_IMG_1678_175: -3206245261685772372
+      PlayerHealthEmpty_Layer_IMG_1678_176: -8781837870090974391
+      PlayerHealthEmpty_Layer_IMG_1678_177: -8755935381947424379
+      PlayerHealthEmpty_Layer_IMG_1678_178: -7545137386269520323
+      PlayerHealthEmpty_Layer_IMG_1678_179: 7566635068244069037
+      PlayerHealthEmpty_Layer_IMG_1678_18: -493136033403272263
+      PlayerHealthEmpty_Layer_IMG_1678_180: 2250980369103661864
+      PlayerHealthEmpty_Layer_IMG_1678_181: -5193447660350848435
+      PlayerHealthEmpty_Layer_IMG_1678_182: 6432750811548295677
+      PlayerHealthEmpty_Layer_IMG_1678_183: -4222258217204225893
+      PlayerHealthEmpty_Layer_IMG_1678_184: 372926386184808057
+      PlayerHealthEmpty_Layer_IMG_1678_185: -1814941295454623089
+      PlayerHealthEmpty_Layer_IMG_1678_186: 9220889095322943245
+      PlayerHealthEmpty_Layer_IMG_1678_187: -7732499390266057603
+      PlayerHealthEmpty_Layer_IMG_1678_188: 1747627474507167440
+      PlayerHealthEmpty_Layer_IMG_1678_189: 8431408912988785639
+      PlayerHealthEmpty_Layer_IMG_1678_19: -7175108006552174500
+      PlayerHealthEmpty_Layer_IMG_1678_190: 8463177962694022071
+      PlayerHealthEmpty_Layer_IMG_1678_191: 2470172405388451496
+      PlayerHealthEmpty_Layer_IMG_1678_192: -2562763559020898562
+      PlayerHealthEmpty_Layer_IMG_1678_193: -6979950274098075060
+      PlayerHealthEmpty_Layer_IMG_1678_194: -7728683620222723421
+      PlayerHealthEmpty_Layer_IMG_1678_2: -1027173863852263594
+      PlayerHealthEmpty_Layer_IMG_1678_20: 3174358046697592983
+      PlayerHealthEmpty_Layer_IMG_1678_21: -7246651066750554161
+      PlayerHealthEmpty_Layer_IMG_1678_22: 2881508730615687251
+      PlayerHealthEmpty_Layer_IMG_1678_23: -4012013834664563702
+      PlayerHealthEmpty_Layer_IMG_1678_24: -8121716213083484681
+      PlayerHealthEmpty_Layer_IMG_1678_25: 8817156772807846469
+      PlayerHealthEmpty_Layer_IMG_1678_26: 2420015686540769332
+      PlayerHealthEmpty_Layer_IMG_1678_27: -1423883478599605406
+      PlayerHealthEmpty_Layer_IMG_1678_28: 4106967049212597570
+      PlayerHealthEmpty_Layer_IMG_1678_29: -2536726674283195265
+      PlayerHealthEmpty_Layer_IMG_1678_3: 8400734328951063763
+      PlayerHealthEmpty_Layer_IMG_1678_30: 3123398786092782822
+      PlayerHealthEmpty_Layer_IMG_1678_31: -1083363395348898904
+      PlayerHealthEmpty_Layer_IMG_1678_32: 1387836168029016825
+      PlayerHealthEmpty_Layer_IMG_1678_33: 727089710168912863
+      PlayerHealthEmpty_Layer_IMG_1678_34: -5107226990976779286
+      PlayerHealthEmpty_Layer_IMG_1678_35: -5348542530090281834
+      PlayerHealthEmpty_Layer_IMG_1678_36: 6981524769696888775
+      PlayerHealthEmpty_Layer_IMG_1678_37: -5940860906340689354
+      PlayerHealthEmpty_Layer_IMG_1678_38: -921338943879779519
+      PlayerHealthEmpty_Layer_IMG_1678_39: -5262753709412895613
+      PlayerHealthEmpty_Layer_IMG_1678_4: -7334481199175897385
+      PlayerHealthEmpty_Layer_IMG_1678_40: -9027166680772216094
+      PlayerHealthEmpty_Layer_IMG_1678_41: 2333551872910067657
+      PlayerHealthEmpty_Layer_IMG_1678_42: -8759714400462895572
+      PlayerHealthEmpty_Layer_IMG_1678_43: -2797579712964312567
+      PlayerHealthEmpty_Layer_IMG_1678_44: 9046939247294995520
+      PlayerHealthEmpty_Layer_IMG_1678_45: 4529874836696158293
+      PlayerHealthEmpty_Layer_IMG_1678_46: 2258819814598264789
+      PlayerHealthEmpty_Layer_IMG_1678_47: 5102025514803521836
+      PlayerHealthEmpty_Layer_IMG_1678_48: 1399099677858862542
+      PlayerHealthEmpty_Layer_IMG_1678_49: -8025819754694334266
+      PlayerHealthEmpty_Layer_IMG_1678_5: 5068700070678330244
+      PlayerHealthEmpty_Layer_IMG_1678_50: 3289362721074775752
+      PlayerHealthEmpty_Layer_IMG_1678_51: -6623820393740812911
+      PlayerHealthEmpty_Layer_IMG_1678_52: -3154270384315020522
+      PlayerHealthEmpty_Layer_IMG_1678_53: -7509347471492996836
+      PlayerHealthEmpty_Layer_IMG_1678_54: -4998443709179942580
+      PlayerHealthEmpty_Layer_IMG_1678_55: -8139637250788874896
+      PlayerHealthEmpty_Layer_IMG_1678_56: -8769504150135166864
+      PlayerHealthEmpty_Layer_IMG_1678_57: -1251595629765835748
+      PlayerHealthEmpty_Layer_IMG_1678_58: 6829042158760781657
+      PlayerHealthEmpty_Layer_IMG_1678_59: -7565030712106680220
+      PlayerHealthEmpty_Layer_IMG_1678_6: 411781511045751411
+      PlayerHealthEmpty_Layer_IMG_1678_60: 227851218581460993
+      PlayerHealthEmpty_Layer_IMG_1678_61: 1915092415833993177
+      PlayerHealthEmpty_Layer_IMG_1678_62: 4562894168801356522
+      PlayerHealthEmpty_Layer_IMG_1678_63: -806482720471953976
+      PlayerHealthEmpty_Layer_IMG_1678_64: 8077772463478299202
+      PlayerHealthEmpty_Layer_IMG_1678_65: 7504683085112990725
+      PlayerHealthEmpty_Layer_IMG_1678_66: 3865555718132476354
+      PlayerHealthEmpty_Layer_IMG_1678_67: 6405856416197148710
+      PlayerHealthEmpty_Layer_IMG_1678_68: -8079263480468985448
+      PlayerHealthEmpty_Layer_IMG_1678_69: 5534990952578738631
+      PlayerHealthEmpty_Layer_IMG_1678_7: -8712126334672677886
+      PlayerHealthEmpty_Layer_IMG_1678_70: -1850613546966231861
+      PlayerHealthEmpty_Layer_IMG_1678_71: 5053486963574132618
+      PlayerHealthEmpty_Layer_IMG_1678_72: -7837621736612674747
+      PlayerHealthEmpty_Layer_IMG_1678_73: -2826395282357824851
+      PlayerHealthEmpty_Layer_IMG_1678_74: -6042564489386314182
+      PlayerHealthEmpty_Layer_IMG_1678_75: -4244070609535215410
+      PlayerHealthEmpty_Layer_IMG_1678_76: -3089918811702099811
+      PlayerHealthEmpty_Layer_IMG_1678_77: -3528057569263972401
+      PlayerHealthEmpty_Layer_IMG_1678_78: 4539711928234108038
+      PlayerHealthEmpty_Layer_IMG_1678_79: -378238408642568423
+      PlayerHealthEmpty_Layer_IMG_1678_8: 7014575940837630884
+      PlayerHealthEmpty_Layer_IMG_1678_80: 1180613618593705997
+      PlayerHealthEmpty_Layer_IMG_1678_81: 67704364783112769
+      PlayerHealthEmpty_Layer_IMG_1678_82: -5250187565840132275
+      PlayerHealthEmpty_Layer_IMG_1678_83: 3365787551338440088
+      PlayerHealthEmpty_Layer_IMG_1678_84: 3725788171010973309
+      PlayerHealthEmpty_Layer_IMG_1678_85: -1522101243375511464
+      PlayerHealthEmpty_Layer_IMG_1678_86: -3396216991179556021
+      PlayerHealthEmpty_Layer_IMG_1678_87: 1557204624395858431
+      PlayerHealthEmpty_Layer_IMG_1678_88: 7343810719564319354
+      PlayerHealthEmpty_Layer_IMG_1678_89: -8507556581755910214
+      PlayerHealthEmpty_Layer_IMG_1678_9: 8496452138104000784
+      PlayerHealthEmpty_Layer_IMG_1678_90: 8448804654270133530
+      PlayerHealthEmpty_Layer_IMG_1678_91: -435189117584771324
+      PlayerHealthEmpty_Layer_IMG_1678_92: -2717199608349478744
+      PlayerHealthEmpty_Layer_IMG_1678_93: 8686542851085647160
+      PlayerHealthEmpty_Layer_IMG_1678_94: -6250928939629330376
+      PlayerHealthEmpty_Layer_IMG_1678_95: -6608696000845243752
+      PlayerHealthEmpty_Layer_IMG_1678_96: -8153309668281354505
+      PlayerHealthEmpty_Layer_IMG_1678_97: 5365186719432217139
+      PlayerHealthEmpty_Layer_IMG_1678_98: 650396009804895581
+      PlayerHealthEmpty_Layer_IMG_1678_99: 7967058032091512965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

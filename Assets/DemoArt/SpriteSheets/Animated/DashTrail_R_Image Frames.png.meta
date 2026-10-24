@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: f23873ff721368a408865a788a3b264b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8296331245103063924
+    second: DashTrail_R_Image Frames_0
+  - first:
+      213: -2431460769473506245
+    second: DashTrail_R_Image Frames_1
+  - first:
+      213: 8653240345674526778
+    second: DashTrail_R_Image Frames_2
+  - first:
+      213: 2172283945417447116
+    second: DashTrail_R_Image Frames_3
+  - first:
+      213: -6755307073738135457
+    second: DashTrail_R_Image Frames_4
+  - first:
+      213: -8824697947267863574
+    second: DashTrail_R_Image Frames_5
+  - first:
+      213: -3857199794692244135
+    second: DashTrail_R_Image Frames_6
+  - first:
+      213: -8235707800733456093
+    second: DashTrail_R_Image Frames_7
+  - first:
+      213: 6991979126975483133
+    second: DashTrail_R_Image Frames_8
+  - first:
+      213: -3189893480840737783
+    second: DashTrail_R_Image Frames_9
+  - first:
+      213: 123604366118622017
+    second: DashTrail_R_Image Frames_10
+  - first:
+      213: 561805705777965328
+    second: DashTrail_R_Image Frames_11
+  - first:
+      213: 5393917028369125427
+    second: DashTrail_R_Image Frames_12
+  - first:
+      213: -4152354739111839697
+    second: DashTrail_R_Image Frames_13
+  - first:
+      213: 5740414280389786088
+    second: DashTrail_R_Image Frames_14
+  - first:
+      213: -8097152838986982720
+    second: DashTrail_R_Image Frames_15
+  - first:
+      213: 348218196551630779
+    second: DashTrail_R_Image Frames_16
+  - first:
+      213: -8364547380152652701
+    second: DashTrail_R_Image Frames_17
+  - first:
+      213: 7482268464746836988
+    second: DashTrail_R_Image Frames_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 224
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473a753cf4d722370800000000000000
+      internalID: 8296331245103063924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 189
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34db360057b14ed0800000000000000
+      internalID: -2431460769473506245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 224
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3032006f3c761870800000000000000
+      internalID: 8653240345674526778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 189
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc614e53db0852e10800000000000000
+      internalID: 2172283945417447116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 224
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58a721f1045042a0800000000000000
+      internalID: -6755307073738135457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 189
+        width: 107
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebeaf2e8ff588580800000000000000
+      internalID: -8824697947267863574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 129
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95db8a91939787ac0800000000000000
+      internalID: -3857199794692244135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 94
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3296e5fc363e4bd80800000000000000
+      internalID: -8235707800733456093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcc15c88ff780160800000000000000
+      internalID: 6991979126975483133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 94
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c472ba7c83bb3d0800000000000000
+      internalID: -3189893480840737783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 129
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143103f148127b100800000000000000
+      internalID: 123604366118622017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 94
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019eea5105febc700800000000000000
+      internalID: 561805705777965328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 34
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3305fd785fa0bda40800000000000000
+      internalID: 5393917028369125427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2834d96d5fdf56c0800000000000000
+      internalID: -4152354739111839697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 34
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9763ebf5c0aaf40800000000000000
+      internalID: 5740414280389786088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca922cb46221af80800000000000000
+      internalID: -8097152838986982720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 28
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf79c5da9e15d400800000000000000
+      internalID: 348218196551630779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2
+        width: 107
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ca31b99782beb80800000000000000
+      internalID: -8364547380152652701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashTrail_R_Image Frames_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 17
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3b753a68b56d760800000000000000
+      internalID: 7482268464746836988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DashTrail_R_Image Frames_0: 8296331245103063924
+      DashTrail_R_Image Frames_1: -2431460769473506245
+      DashTrail_R_Image Frames_10: 123604366118622017
+      DashTrail_R_Image Frames_11: 561805705777965328
+      DashTrail_R_Image Frames_12: 5393917028369125427
+      DashTrail_R_Image Frames_13: -4152354739111839697
+      DashTrail_R_Image Frames_14: 5740414280389786088
+      DashTrail_R_Image Frames_15: -8097152838986982720
+      DashTrail_R_Image Frames_16: 348218196551630779
+      DashTrail_R_Image Frames_17: -8364547380152652701
+      DashTrail_R_Image Frames_18: 7482268464746836988
+      DashTrail_R_Image Frames_2: 8653240345674526778
+      DashTrail_R_Image Frames_3: 2172283945417447116
+      DashTrail_R_Image Frames_4: -6755307073738135457
+      DashTrail_R_Image Frames_5: -8824697947267863574
+      DashTrail_R_Image Frames_6: -3857199794692244135
+      DashTrail_R_Image Frames_7: -8235707800733456093
+      DashTrail_R_Image Frames_8: 6991979126975483133
+      DashTrail_R_Image Frames_9: -3189893480840737783
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

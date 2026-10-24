@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 93a1ffa59ccb1f642a5d9fb4263345e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7857739528398849199
+    second: Impact_Damage3_0
+  - first:
+      213: 4285905848179711515
+    second: Impact_Damage3_1
+  - first:
+      213: 844562049324274497
+    second: Impact_Damage3_2
+  - first:
+      213: 335604003473393948
+    second: Impact_Damage3_3
+  - first:
+      213: 6362708248118644716
+    second: Impact_Damage3_4
+  - first:
+      213: -2460601121028751409
+    second: Impact_Damage3_5
+  - first:
+      213: 5002900034031547150
+    second: Impact_Damage3_6
+  - first:
+      213: 8879742484968892213
+    second: Impact_Damage3_7
+  - first:
+      213: 3029082902533289443
+    second: Impact_Damage3_8
+  - first:
+      213: 4172392710467696212
+    second: Impact_Damage3_9
+  - first:
+      213: 3054414077087511874
+    second: Impact_Damage3_10
+  - first:
+      213: 2639474920475760091
+    second: Impact_Damage3_11
+  - first:
+      213: 658240722189335575
+    second: Impact_Damage3_12
+  - first:
+      213: -7458069292967740345
+    second: Impact_Damage3_13
+  - first:
+      213: 2014757934994368929
+    second: Impact_Damage3_14
+  - first:
+      213: 1494738481522068092
+    second: Impact_Damage3_15
+  - first:
+      213: -7110047753634000740
+    second: Impact_Damage3_16
+  - first:
+      213: 3205560499055893596
+    second: Impact_Damage3_17
+  - first:
+      213: -9151568613336179144
+    second: Impact_Damage3_18
+  - first:
+      213: -1980717650729665707
+    second: Impact_Damage3_19
+  - first:
+      213: -6848122308255147470
+    second: Impact_Damage3_20
+  - first:
+      213: 4240056785368522085
+    second: Impact_Damage3_21
+  - first:
+      213: -2503497943433796552
+    second: Impact_Damage3_22
+  - first:
+      213: 2170626565414528716
+    second: Impact_Damage3_23
+  - first:
+      213: -3829414180481127270
+    second: Impact_Damage3_24
+  - first:
+      213: -2279378289468425839
+    second: Impact_Damage3_25
+  - first:
+      213: 7126629398550504757
+    second: Impact_Damage3_26
+  - first:
+      213: 6397935586824534274
+    second: Impact_Damage3_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Impact_Damage3_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 171
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bbd30f783b3f290800000000000000
+      internalID: -7857739528398849199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 169
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e558549a89a7b30800000000000000
+      internalID: 4285905848179711515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 173
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143dfbc85bc78bb00800000000000000
+      internalID: 844562049324274497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 158
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c190b34201e48a400800000000000000
+      internalID: 335604003473393948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef4f8ac071ec4850800000000000000
+      internalID: 6362708248118644716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 177
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf372731503addd0800000000000000
+      internalID: -2460601121028751409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 172
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e037d3f031fdd6540800000000000000
+      internalID: 5002900034031547150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 162
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537e3814ebe2b3b70800000000000000
+      internalID: 8879742484968892213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 153
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5b4b0e9d6790a20800000000000000
+      internalID: 3029082902533289443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 38
+        width: 216
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4563bda501157e930800000000000000
+      internalID: 4172392710467696212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 141
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245f0cd8b65736a20800000000000000
+      internalID: 3054414077087511874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd59284a47c41a420800000000000000
+      internalID: 2639474920475760091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 77
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cbac6037a822900800000000000000
+      internalID: 658240722189335575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cb86a1e7d9f7890800000000000000
+      internalID: -7458069292967740345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 50
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a92dbfcaabd5fb10800000000000000
+      internalID: 2014757934994368929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 26
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aca3fbab06eb410800000000000000
+      internalID: 1494738481522068092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 24
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90d49c1d39045d90800000000000000
+      internalID: -7110047753634000740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 21
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c10444a407c7c20800000000000000
+      internalID: 3205560499055893596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 19
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e9b7055d81ff080800000000000000
+      internalID: -9151568613336179144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 16
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b79eb7ac31384e0800000000000000
+      internalID: -1980717650729665707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 36
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a16062b0596f0a0800000000000000
+      internalID: -6848122308255147470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d10677e25b7da30800000000000000
+      internalID: 4240056785368522085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_22
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 5
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83425b172e9c14dd0800000000000000
+      internalID: -2503497943433796552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc62f8b5c5d9f1e10800000000000000
+      internalID: 2170626565414528716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 6
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c249a87103bdac0800000000000000
+      internalID: -3829414180481127270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1993f7bb5850e50e0800000000000000
+      internalID: -2279378289468425839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 7
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5356572fdafd6e260800000000000000
+      internalID: 7126629398550504757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact_Damage3_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 12
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209b18cb4880ac850800000000000000
+      internalID: 6397935586824534274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Impact_Damage3_0: -7857739528398849199
+      Impact_Damage3_1: 4285905848179711515
+      Impact_Damage3_10: 3054414077087511874
+      Impact_Damage3_11: 2639474920475760091
+      Impact_Damage3_12: 658240722189335575
+      Impact_Damage3_13: -7458069292967740345
+      Impact_Damage3_14: 2014757934994368929
+      Impact_Damage3_15: 1494738481522068092
+      Impact_Damage3_16: -7110047753634000740
+      Impact_Damage3_17: 3205560499055893596
+      Impact_Damage3_18: -9151568613336179144
+      Impact_Damage3_19: -1980717650729665707
+      Impact_Damage3_2: 844562049324274497
+      Impact_Damage3_20: -6848122308255147470
+      Impact_Damage3_21: 4240056785368522085
+      Impact_Damage3_22: -2503497943433796552
+      Impact_Damage3_23: 2170626565414528716
+      Impact_Damage3_24: -3829414180481127270
+      Impact_Damage3_25: -2279378289468425839
+      Impact_Damage3_26: 7126629398550504757
+      Impact_Damage3_27: 6397935586824534274
+      Impact_Damage3_3: 335604003473393948
+      Impact_Damage3_4: 6362708248118644716
+      Impact_Damage3_5: -2460601121028751409
+      Impact_Damage3_6: 5002900034031547150
+      Impact_Damage3_7: 8879742484968892213
+      Impact_Damage3_8: 3029082902533289443
+      Impact_Damage3_9: 4172392710467696212
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

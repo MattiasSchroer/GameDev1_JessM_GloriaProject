@@ -1,0 +1,5629 @@
+fileFormatVersion: 2
+guid: ffa4e12ca497e1949bc0f7788cb4f73e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4702664373285256911
+    second: Ground_Attack_IMG_1720_0
+  - first:
+      213: -3131980858897732683
+    second: Ground_Attack_IMG_1720_1
+  - first:
+      213: 8204215650927239276
+    second: Ground_Attack_IMG_1720_2
+  - first:
+      213: 1543111631835866145
+    second: Ground_Attack_IMG_1720_3
+  - first:
+      213: 5553704582605967854
+    second: Ground_Attack_IMG_1720_4
+  - first:
+      213: -7389895717878987896
+    second: Ground_Attack_IMG_1720_5
+  - first:
+      213: 3415551124394186258
+    second: Ground_Attack_IMG_1720_6
+  - first:
+      213: 7100692474209939276
+    second: Ground_Attack_IMG_1720_7
+  - first:
+      213: -7181822031425209407
+    second: Ground_Attack_IMG_1720_8
+  - first:
+      213: 3992987990896643520
+    second: Ground_Attack_IMG_1720_9
+  - first:
+      213: -6378287967849415590
+    second: Ground_Attack_IMG_1720_10
+  - first:
+      213: 5524979221985008246
+    second: Ground_Attack_IMG_1720_11
+  - first:
+      213: -82461456101689163
+    second: Ground_Attack_IMG_1720_12
+  - first:
+      213: -787186901239373191
+    second: Ground_Attack_IMG_1720_13
+  - first:
+      213: -2237844962238564656
+    second: Ground_Attack_IMG_1720_14
+  - first:
+      213: -3990394966198472501
+    second: Ground_Attack_IMG_1720_15
+  - first:
+      213: 8297263469007270573
+    second: Ground_Attack_IMG_1720_16
+  - first:
+      213: -8176748924832699837
+    second: Ground_Attack_IMG_1720_17
+  - first:
+      213: -3481687722018034240
+    second: Ground_Attack_IMG_1720_18
+  - first:
+      213: 7594077032935206015
+    second: Ground_Attack_IMG_1720_19
+  - first:
+      213: 8804744278479296966
+    second: Ground_Attack_IMG_1720_20
+  - first:
+      213: -424543507621426709
+    second: Ground_Attack_IMG_1720_21
+  - first:
+      213: -8304224348859815610
+    second: Ground_Attack_IMG_1720_22
+  - first:
+      213: 4656931431156265111
+    second: Ground_Attack_IMG_1720_23
+  - first:
+      213: 5427650738463066353
+    second: Ground_Attack_IMG_1720_24
+  - first:
+      213: 8391254943689134984
+    second: Ground_Attack_IMG_1720_25
+  - first:
+      213: -7214559854902740425
+    second: Ground_Attack_IMG_1720_26
+  - first:
+      213: 6040477721255955897
+    second: Ground_Attack_IMG_1720_27
+  - first:
+      213: 2332483376077841719
+    second: Ground_Attack_IMG_1720_28
+  - first:
+      213: 85822009154121907
+    second: Ground_Attack_IMG_1720_29
+  - first:
+      213: 1809494663772820018
+    second: Ground_Attack_IMG_1720_30
+  - first:
+      213: 4183641639728643447
+    second: Ground_Attack_IMG_1720_31
+  - first:
+      213: 1770760465813463232
+    second: Ground_Attack_IMG_1720_32
+  - first:
+      213: -1104612639194700888
+    second: Ground_Attack_IMG_1720_33
+  - first:
+      213: -5059100207346025274
+    second: Ground_Attack_IMG_1720_34
+  - first:
+      213: 2830389852631975559
+    second: Ground_Attack_IMG_1720_35
+  - first:
+      213: 5160229551396701048
+    second: Ground_Attack_IMG_1720_36
+  - first:
+      213: -1711570383172514985
+    second: Ground_Attack_IMG_1720_37
+  - first:
+      213: 6783401830961917377
+    second: Ground_Attack_IMG_1720_38
+  - first:
+      213: 3285408639478328530
+    second: Ground_Attack_IMG_1720_39
+  - first:
+      213: -366005230943356988
+    second: Ground_Attack_IMG_1720_40
+  - first:
+      213: -864866264376502080
+    second: Ground_Attack_IMG_1720_41
+  - first:
+      213: -9035815895955080231
+    second: Ground_Attack_IMG_1720_42
+  - first:
+      213: 3799662500949422798
+    second: Ground_Attack_IMG_1720_43
+  - first:
+      213: -3868140270137144959
+    second: Ground_Attack_IMG_1720_44
+  - first:
+      213: 5438324407159969957
+    second: Ground_Attack_IMG_1720_45
+  - first:
+      213: 3949268737263667288
+    second: Ground_Attack_IMG_1720_46
+  - first:
+      213: 2242494906604737150
+    second: Ground_Attack_IMG_1720_47
+  - first:
+      213: -4885512571106644882
+    second: Ground_Attack_IMG_1720_48
+  - first:
+      213: -3770051729620249416
+    second: Ground_Attack_IMG_1720_49
+  - first:
+      213: -3572878452686096805
+    second: Ground_Attack_IMG_1720_50
+  - first:
+      213: -8840133949292812833
+    second: Ground_Attack_IMG_1720_51
+  - first:
+      213: 8957835342688590489
+    second: Ground_Attack_IMG_1720_52
+  - first:
+      213: -1417067690487760711
+    second: Ground_Attack_IMG_1720_53
+  - first:
+      213: -3517569704793646846
+    second: Ground_Attack_IMG_1720_54
+  - first:
+      213: -3750643958794385576
+    second: Ground_Attack_IMG_1720_55
+  - first:
+      213: -4482555673054299128
+    second: Ground_Attack_IMG_1720_56
+  - first:
+      213: -1140352910229713257
+    second: Ground_Attack_IMG_1720_57
+  - first:
+      213: -5796794287841989609
+    second: Ground_Attack_IMG_1720_58
+  - first:
+      213: 5977866414027078323
+    second: Ground_Attack_IMG_1720_59
+  - first:
+      213: -259670354612704833
+    second: Ground_Attack_IMG_1720_60
+  - first:
+      213: 5800104569971755308
+    second: Ground_Attack_IMG_1720_61
+  - first:
+      213: 2659040555004299421
+    second: Ground_Attack_IMG_1720_62
+  - first:
+      213: 5943112485520362269
+    second: Ground_Attack_IMG_1720_63
+  - first:
+      213: -359593332888048228
+    second: Ground_Attack_IMG_1720_64
+  - first:
+      213: -6382292283491725135
+    second: Ground_Attack_IMG_1720_65
+  - first:
+      213: -2297093923320243090
+    second: Ground_Attack_IMG_1720_66
+  - first:
+      213: -7682301837853830267
+    second: Ground_Attack_IMG_1720_67
+  - first:
+      213: 3233592563865385451
+    second: Ground_Attack_IMG_1720_68
+  - first:
+      213: -6696323341986809153
+    second: Ground_Attack_IMG_1720_69
+  - first:
+      213: -5291759993972494231
+    second: Ground_Attack_IMG_1720_70
+  - first:
+      213: 7487419809622135983
+    second: Ground_Attack_IMG_1720_71
+  - first:
+      213: 5343403712893920059
+    second: Ground_Attack_IMG_1720_72
+  - first:
+      213: -1556419690268151181
+    second: Ground_Attack_IMG_1720_73
+  - first:
+      213: 5806510866663342339
+    second: Ground_Attack_IMG_1720_74
+  - first:
+      213: -5800289644406557160
+    second: Ground_Attack_IMG_1720_75
+  - first:
+      213: -5120671653356875010
+    second: Ground_Attack_IMG_1720_76
+  - first:
+      213: -3361575035969995476
+    second: Ground_Attack_IMG_1720_77
+  - first:
+      213: 3224674184142919463
+    second: Ground_Attack_IMG_1720_78
+  - first:
+      213: -1762375941060260982
+    second: Ground_Attack_IMG_1720_79
+  - first:
+      213: 2579437418529444048
+    second: Ground_Attack_IMG_1720_80
+  - first:
+      213: 125027866352673016
+    second: Ground_Attack_IMG_1720_81
+  - first:
+      213: -1844940670218867591
+    second: Ground_Attack_IMG_1720_82
+  - first:
+      213: 8596964138482363971
+    second: Ground_Attack_IMG_1720_83
+  - first:
+      213: 5379608351064179288
+    second: Ground_Attack_IMG_1720_84
+  - first:
+      213: 7353553602981204571
+    second: Ground_Attack_IMG_1720_85
+  - first:
+      213: 2726683751765400423
+    second: Ground_Attack_IMG_1720_86
+  - first:
+      213: 7925149175458348784
+    second: Ground_Attack_IMG_1720_87
+  - first:
+      213: -5140582560139205380
+    second: Ground_Attack_IMG_1720_88
+  - first:
+      213: 1650610138213872347
+    second: Ground_Attack_IMG_1720_89
+  - first:
+      213: -5633935282725097129
+    second: Ground_Attack_IMG_1720_90
+  - first:
+      213: 5297532607622375483
+    second: Ground_Attack_IMG_1720_91
+  - first:
+      213: 3560199014868601781
+    second: Ground_Attack_IMG_1720_92
+  - first:
+      213: -1664430373408324484
+    second: Ground_Attack_IMG_1720_93
+  - first:
+      213: 7487292415332864399
+    second: Ground_Attack_IMG_1720_94
+  - first:
+      213: -1532364658820401039
+    second: Ground_Attack_IMG_1720_95
+  - first:
+      213: 8257484293528277398
+    second: Ground_Attack_IMG_1720_96
+  - first:
+      213: 6687992050841920462
+    second: Ground_Attack_IMG_1720_97
+  - first:
+      213: 2260137351222750711
+    second: Ground_Attack_IMG_1720_98
+  - first:
+      213: 8607064219825781506
+    second: Ground_Attack_IMG_1720_99
+  - first:
+      213: 4848809785377532618
+    second: Ground_Attack_IMG_1720_100
+  - first:
+      213: 7108525176292929780
+    second: Ground_Attack_IMG_1720_101
+  - first:
+      213: -2954663446775135034
+    second: Ground_Attack_IMG_1720_102
+  - first:
+      213: 5816039659615928822
+    second: Ground_Attack_IMG_1720_103
+  - first:
+      213: 2503324653480926034
+    second: Ground_Attack_IMG_1720_104
+  - first:
+      213: -7960563307795643707
+    second: Ground_Attack_IMG_1720_105
+  - first:
+      213: 2243434384026604597
+    second: Ground_Attack_IMG_1720_106
+  - first:
+      213: 7440246824232039881
+    second: Ground_Attack_IMG_1720_107
+  - first:
+      213: 1326250726806393579
+    second: Ground_Attack_IMG_1720_108
+  - first:
+      213: -3641475930082339096
+    second: Ground_Attack_IMG_1720_109
+  - first:
+      213: 6231578954984207267
+    second: Ground_Attack_IMG_1720_110
+  - first:
+      213: -1989655062042068842
+    second: Ground_Attack_IMG_1720_111
+  - first:
+      213: -1379976835294606442
+    second: Ground_Attack_IMG_1720_112
+  - first:
+      213: 3021740144105652000
+    second: Ground_Attack_IMG_1720_113
+  - first:
+      213: 4437262684306829445
+    second: Ground_Attack_IMG_1720_114
+  - first:
+      213: 5310269053757281571
+    second: Ground_Attack_IMG_1720_115
+  - first:
+      213: -7754095884567971658
+    second: Ground_Attack_IMG_1720_116
+  - first:
+      213: 1069003929495807709
+    second: Ground_Attack_IMG_1720_117
+  - first:
+      213: -208807508858210972
+    second: Ground_Attack_IMG_1720_118
+  - first:
+      213: -8684638720278390904
+    second: Ground_Attack_IMG_1720_119
+  - first:
+      213: -5666195345946493406
+    second: Ground_Attack_IMG_1720_120
+  - first:
+      213: 3214128396242776881
+    second: Ground_Attack_IMG_1720_121
+  - first:
+      213: -1617823656179360966
+    second: Ground_Attack_IMG_1720_122
+  - first:
+      213: -8510223274642364852
+    second: Ground_Attack_IMG_1720_123
+  - first:
+      213: -9055568145669062611
+    second: Ground_Attack_IMG_1720_124
+  - first:
+      213: -2434041306157827052
+    second: Ground_Attack_IMG_1720_125
+  - first:
+      213: -2719315468903323587
+    second: Ground_Attack_IMG_1720_126
+  - first:
+      213: 1218403866606927176
+    second: Ground_Attack_IMG_1720_127
+  - first:
+      213: 2135350613863566395
+    second: Ground_Attack_IMG_1720_128
+  - first:
+      213: 6881326860307166962
+    second: Ground_Attack_IMG_1720_129
+  - first:
+      213: -8723682415121543276
+    second: Ground_Attack_IMG_1720_130
+  - first:
+      213: 7057511613037590311
+    second: Ground_Attack_IMG_1720_131
+  - first:
+      213: -6391978421017860395
+    second: Ground_Attack_IMG_1720_132
+  - first:
+      213: 894922430047196989
+    second: Ground_Attack_IMG_1720_133
+  - first:
+      213: 2125256193923237266
+    second: Ground_Attack_IMG_1720_134
+  - first:
+      213: 4752468519263771478
+    second: Ground_Attack_IMG_1720_135
+  - first:
+      213: 8270621051719135616
+    second: Ground_Attack_IMG_1720_136
+  - first:
+      213: 3441730620990128811
+    second: Ground_Attack_IMG_1720_137
+  - first:
+      213: -4949799297571954227
+    second: Ground_Attack_IMG_1720_138
+  - first:
+      213: 1652320232315514271
+    second: Ground_Attack_IMG_1720_139
+  - first:
+      213: -4185556560437462189
+    second: Ground_Attack_IMG_1720_140
+  - first:
+      213: -5969422356107264868
+    second: Ground_Attack_IMG_1720_141
+  - first:
+      213: 2557723958973279067
+    second: Ground_Attack_IMG_1720_142
+  - first:
+      213: 8835633199104484910
+    second: Ground_Attack_IMG_1720_143
+  - first:
+      213: -899727608860515848
+    second: Ground_Attack_IMG_1720_144
+  - first:
+      213: 7581199725130212467
+    second: Ground_Attack_IMG_1720_145
+  - first:
+      213: -7225839968344540880
+    second: Ground_Attack_IMG_1720_146
+  - first:
+      213: -2169139689106464477
+    second: Ground_Attack_IMG_1720_147
+  - first:
+      213: -4582881937185391701
+    second: Ground_Attack_IMG_1720_148
+  - first:
+      213: 4119490460634038558
+    second: Ground_Attack_IMG_1720_149
+  - first:
+      213: -1895082367831755837
+    second: Ground_Attack_IMG_1720_150
+  - first:
+      213: 64963829201593326
+    second: Ground_Attack_IMG_1720_151
+  - first:
+      213: -6621281321554835078
+    second: Ground_Attack_IMG_1720_152
+  - first:
+      213: -8972595589082783547
+    second: Ground_Attack_IMG_1720_153
+  - first:
+      213: -8197952767279874509
+    second: Ground_Attack_IMG_1720_154
+  - first:
+      213: -2725570096836515193
+    second: Ground_Attack_IMG_1720_155
+  - first:
+      213: 399619027520400010
+    second: Ground_Attack_IMG_1720_156
+  - first:
+      213: 4783100414919359473
+    second: Ground_Attack_IMG_1720_157
+  - first:
+      213: -6371862478051348505
+    second: Ground_Attack_IMG_1720_158
+  - first:
+      213: 8851097155635321111
+    second: Ground_Attack_IMG_1720_159
+  - first:
+      213: -6748333350986205517
+    second: Ground_Attack_IMG_1720_160
+  - first:
+      213: 8115431471600444928
+    second: Ground_Attack_IMG_1720_161
+  - first:
+      213: 6208026908807239038
+    second: Ground_Attack_IMG_1720_162
+  - first:
+      213: 3737827342354239041
+    second: Ground_Attack_IMG_1720_163
+  - first:
+      213: 7253360565201631429
+    second: Ground_Attack_IMG_1720_164
+  - first:
+      213: 1858970099744781946
+    second: Ground_Attack_IMG_1720_165
+  - first:
+      213: 3182382842018219117
+    second: Ground_Attack_IMG_1720_166
+  - first:
+      213: -4982558749197377269
+    second: Ground_Attack_IMG_1720_167
+  - first:
+      213: 1890018219916631419
+    second: Ground_Attack_IMG_1720_168
+  - first:
+      213: 4047395043079340842
+    second: Ground_Attack_IMG_1720_169
+  - first:
+      213: -427054658611867529
+    second: Ground_Attack_IMG_1720_170
+  - first:
+      213: 4427028542529896666
+    second: Ground_Attack_IMG_1720_171
+  - first:
+      213: 2273669992481333174
+    second: Ground_Attack_IMG_1720_172
+  - first:
+      213: -1040350621559835108
+    second: Ground_Attack_IMG_1720_173
+  - first:
+      213: -6026295119092785690
+    second: Ground_Attack_IMG_1720_174
+  - first:
+      213: -2020703578293109209
+    second: Ground_Attack_IMG_1720_175
+  - first:
+      213: -2239769222608972966
+    second: Ground_Attack_IMG_1720_176
+  - first:
+      213: -8724419735454529814
+    second: Ground_Attack_IMG_1720_177
+  - first:
+      213: 667540367288689523
+    second: Ground_Attack_IMG_1720_178
+  - first:
+      213: 2526892427647591384
+    second: Ground_Attack_IMG_1720_179
+  - first:
+      213: 6628906438579564596
+    second: Ground_Attack_IMG_1720_180
+  - first:
+      213: 4883827349142425522
+    second: Ground_Attack_IMG_1720_181
+  - first:
+      213: 2316998653471917506
+    second: Ground_Attack_IMG_1720_182
+  - first:
+      213: 5634112807204036988
+    second: Ground_Attack_IMG_1720_183
+  - first:
+      213: 1433275358308317284
+    second: Ground_Attack_IMG_1720_184
+  - first:
+      213: 8598434275513312383
+    second: Ground_Attack_IMG_1720_185
+  - first:
+      213: -2000594259946963863
+    second: Ground_Attack_IMG_1720_186
+  - first:
+      213: -2152632171777950419
+    second: Ground_Attack_IMG_1720_187
+  - first:
+      213: 2536513689582402646
+    second: Ground_Attack_IMG_1720_188
+  - first:
+      213: 8322062232354122974
+    second: Ground_Attack_IMG_1720_189
+  - first:
+      213: -509316115302603657
+    second: Ground_Attack_IMG_1720_190
+  - first:
+      213: 5085614801051857667
+    second: Ground_Attack_IMG_1720_191
+  - first:
+      213: 6265020860299771502
+    second: Ground_Attack_IMG_1720_192
+  - first:
+      213: -7072310197868555208
+    second: Ground_Attack_IMG_1720_193
+  - first:
+      213: -1208847842876031677
+    second: Ground_Attack_IMG_1720_194
+  - first:
+      213: 6445802552642052020
+    second: Ground_Attack_IMG_1720_195
+  - first:
+      213: -7239334930588024780
+    second: Ground_Attack_IMG_1720_196
+  - first:
+      213: 6986862279662062311
+    second: Ground_Attack_IMG_1720_197
+  - first:
+      213: -8055801134953143389
+    second: Ground_Attack_IMG_1720_198
+  - first:
+      213: -1655467200071431193
+    second: Ground_Attack_IMG_1720_199
+  - first:
+      213: -1873667044652340296
+    second: Ground_Attack_IMG_1720_200
+  - first:
+      213: -6446102429695030571
+    second: Ground_Attack_IMG_1720_201
+  - first:
+      213: -4955421287111640002
+    second: Ground_Attack_IMG_1720_202
+  - first:
+      213: 864247698354238156
+    second: Ground_Attack_IMG_1720_203
+  - first:
+      213: -1613768184931365420
+    second: Ground_Attack_IMG_1720_204
+  - first:
+      213: 3392768070462629243
+    second: Ground_Attack_IMG_1720_205
+  - first:
+      213: 4163021183876512591
+    second: Ground_Attack_IMG_1720_206
+  - first:
+      213: 1388794498023771303
+    second: Ground_Attack_IMG_1720_207
+  - first:
+      213: -960682837708387974
+    second: Ground_Attack_IMG_1720_208
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 461
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce7d8be458334140800000000000000
+      internalID: 4702664373285256911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 451
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbe316b008f884d0800000000000000
+      internalID: -3131980858897732683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 461
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60e73eaaaa3bd170800000000000000
+      internalID: 8204215650927239276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_3
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 451
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124a9587adb3a6510800000000000000
+      internalID: 1543111631835866145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_4
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 461
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee110b1a4e8b21d40800000000000000
+      internalID: 5553704582605967854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_5
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 451
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88384a87ff0d17990800000000000000
+      internalID: -7389895717878987896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_6
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 461
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21693b9b6a9766f20800000000000000
+      internalID: 3415551124394186258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_7
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 451
+        width: 79
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fa2982f2aba8260800000000000000
+      internalID: 7100692474209939276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 444
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb73d0d9ea055c90800000000000000
+      internalID: -7181822031425209407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 406
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd8bc50c61f96730800000000000000
+      internalID: 3992987990896643520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 445
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cff2903e4cb77a0800000000000000
+      internalID: -6378287967849415590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 407
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a94dd645bacac40800000000000000
+      internalID: 5524979221985008246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 442
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8b5691eb90bdef0800000000000000
+      internalID: -82461456101689163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 444
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97269cb1fa95315f0800000000000000
+      internalID: -787186901239373191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 406
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d67f5b0dd391f0e0800000000000000
+      internalID: -2237844962238564656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 445
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0bb369be44f98c0800000000000000
+      internalID: -3990394966198472501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_16
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 407
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2f00e0a2dc52370800000000000000
+      internalID: 8297263469007270573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_17
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 442
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a2ac5dc2a568e80800000000000000
+      internalID: -8176748924832699837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_18
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 444
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cda64ea67f8eafc0800000000000000
+      internalID: -3481687722018034240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_19
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 406
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c2e0983d4936960800000000000000
+      internalID: 7594077032935206015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_20
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 445
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c959e0954cb03a70800000000000000
+      internalID: 8804744278479296966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_21
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 407
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9c68cdde7bb1af0800000000000000
+      internalID: -424543507621426709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_22
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 442
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649af0fc3f771cc80800000000000000
+      internalID: -8304224348859815610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_23
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 444
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790bb61967eb0a040800000000000000
+      internalID: 4656931431156265111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_24
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 406
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f84af6f693e25b40800000000000000
+      internalID: 5427650738463066353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_25
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 445
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883d45a99e9b37470800000000000000
+      internalID: 8391254943689134984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_26
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 407
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a7abd490cb0eb90800000000000000
+      internalID: -7214559854902740425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_27
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 442
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd4f11db7614d350800000000000000
+      internalID: 6040477721255955897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 395
+        width: 115
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735af93c545ae5020800000000000000
+      internalID: 2332483376077841719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 426
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0ba81a9a6e03100800000000000000
+      internalID: 85822009154121907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 391
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232d4214fcd9c1910800000000000000
+      internalID: 1809494663772820018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_31
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 395
+        width: 115
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dfe8bc7e74f0a30800000000000000
+      internalID: 4183641639728643447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_32
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 426
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0ed130341039810800000000000000
+      internalID: 1770760465813463232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_33
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 391
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3a46a38a0aba0f0800000000000000
+      internalID: -1104612639194700888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_34
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 395
+        width: 115
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccf80a6a277ac9b0800000000000000
+      internalID: -5059100207346025274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_35
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 426
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786cffd2390974720800000000000000
+      internalID: 2830389852631975559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_36
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 391
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873497adf61dc9740800000000000000
+      internalID: 5160229551396701048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_37
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 395
+        width: 115
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b4ce60ec74f38e0800000000000000
+      internalID: -1711570383172514985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_38
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 426
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd2837760c732e50800000000000000
+      internalID: 6783401830961917377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_39
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 391
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcea1230cd189d20800000000000000
+      internalID: 3285408639478328530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7bfaf7e20bbeaf0800000000000000
+      internalID: -366005230943356988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 395
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c89e9df6b06ff3f0800000000000000
+      internalID: -864866264376502080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 394
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbf4c101555a9280800000000000000
+      internalID: -9035815895955080231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_43
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 414
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec27673c9ec1bb430800000000000000
+      internalID: 3799662500949422798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_44
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 406
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18987192bea915ac0800000000000000
+      internalID: -3868140270137144959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_45
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 416
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a85b1e1c3fc87b40800000000000000
+      internalID: 5438324407159969957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_46
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 417
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858082f0efe9ec630800000000000000
+      internalID: 3949268737263667288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_47
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 361
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e725cce7c31fe1f10800000000000000
+      internalID: 2242494906604737150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_48
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 412
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cab7d733c233cb0800000000000000
+      internalID: -4885512571106644882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 394
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4532f2de51eabc0800000000000000
+      internalID: -3770051729620249416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_50
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 414
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b567ff92af59a6ec0800000000000000
+      internalID: -3572878452686096805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_51
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 406
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5e7899209815580800000000000000
+      internalID: -8840133949292812833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_52
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 416
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a946598cf905c70800000000000000
+      internalID: 8957835342688590489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_53
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 417
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b83bc58170955ce0800000000000000
+      internalID: -1417067690487760711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_54
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 361
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20959198df41f2fc0800000000000000
+      internalID: -3517569704793646846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_55
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 412
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8578815f03903fbc0800000000000000
+      internalID: -3750643958794385576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_56
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 394
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cbfad6d53cac1c0800000000000000
+      internalID: -4482555673054299128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_57
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 414
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ecc2be117ac20f0800000000000000
+      internalID: -1140352910229713257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_58
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 406
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c2a25de46ad8fa0800000000000000
+      internalID: -5796794287841989609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_59
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 416
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba72dad4d5a5f250800000000000000
+      internalID: 5977866414027078323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_60
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 417
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb92c923037756cf0800000000000000
+      internalID: -259670354612704833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_61
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 361
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c294949406c1e7050800000000000000
+      internalID: 5800104569971755308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_62
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 412
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98836ceb4fc6e420800000000000000
+      internalID: 2659040555004299421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_63
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 394
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b41af415d2a7250800000000000000
+      internalID: 5943112485520362269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_64
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 414
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9deb99d4c7720bf0800000000000000
+      internalID: -359593332888048228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_65
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 406
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b052c5abfa8d67a0800000000000000
+      internalID: -6382292283491725135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_66
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 416
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cd9cc4f351f10e0800000000000000
+      internalID: -2297093923320243090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_67
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 361
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58354695e2bf26590800000000000000
+      internalID: -7682301837853830267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_68
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 262
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be97a85fd4700ec20800000000000000
+      internalID: 3233592563865385451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_69
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 248
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba38bb2661e113a0800000000000000
+      internalID: -6696323341986809153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_70
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 257
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96075aa8254ef86b0800000000000000
+      internalID: -5291759993972494231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_71
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 262
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa410c495a8a8e760800000000000000
+      internalID: 7487419809622135983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_72
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 248
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33ab86cd55972a40800000000000000
+      internalID: 5343403712893920059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_73
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 257
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372b428b98c766ae0800000000000000
+      internalID: -1556419690268151181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_74
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 262
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3010ae77eded49050800000000000000
+      internalID: 5806510866663342339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_75
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 248
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81635c6bc4b318fa0800000000000000
+      internalID: -5800289644406557160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_76
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 257
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef250420348bfe8b0800000000000000
+      internalID: -5120671653356875010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_77
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 262
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dff2fa0594951d0800000000000000
+      internalID: -3361575035969995476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_78
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 248
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727163ed51850cc20800000000000000
+      internalID: 3224674184142919463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_79
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 257
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b88684b68ca87e0800000000000000
+      internalID: -1762375941060260982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 245
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d05ccb6aa00cc320800000000000000
+      internalID: 2579437418529444048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_81
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 208
+        width: 111
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0e9f89e203cb100800000000000000
+      internalID: 125027866352673016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 212
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ceeef3c347566e0800000000000000
+      internalID: -1844940670218867591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_83
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 248
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e6305d55d8e4770800000000000000
+      internalID: 8596964138482363971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_84
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 245
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852c7ebfa4538aa40800000000000000
+      internalID: 5379608351064179288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_85
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 208
+        width: 111
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b521d768a021d0660800000000000000
+      internalID: 7353553602981204571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_86
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 212
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b5ec6fc6027d520800000000000000
+      internalID: 2726683751765400423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_87
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 248
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0febc239f29cbfd60800000000000000
+      internalID: 7925149175458348784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_88
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 245
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4a554c56bf8a8b0800000000000000
+      internalID: -5140582560139205380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_89
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 208
+        width: 111
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd275e6ec2528e610800000000000000
+      internalID: 1650610138213872347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_90
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 212
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75171a1d5bd30d1b0800000000000000
+      internalID: -5633935282725097129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_91
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 248
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38616fc6dd948940800000000000000
+      internalID: 5297532607622375483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_92
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 245
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb40fa242e586130800000000000000
+      internalID: 3560199014868601781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_93
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 208
+        width: 111
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7440a7d461c6e8e0800000000000000
+      internalID: -1664430373408324484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_94
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 212
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81546948c438e760800000000000000
+      internalID: 7487292415332864399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_95
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 248
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178b5ac2672fbbae0800000000000000
+      internalID: -1532364658820401039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_96
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 229
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691de16073a789270800000000000000
+      internalID: 8257484293528277398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_97
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 196
+        width: 88
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3a113f55580dc50800000000000000
+      internalID: 6687992050841920462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_98
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 224
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd693b32fe9d5f10800000000000000
+      internalID: 2260137351222750711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_99
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 229
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bb0b54e4f627770800000000000000
+      internalID: 8607064219825781506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_100
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 196
+        width: 88
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaadd84fce6a4340800000000000000
+      internalID: 4848809785377532618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_101
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 224
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f07cd93cfd86a260800000000000000
+      internalID: 7108525176292929780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_102
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 229
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c40328ef3deef6d0800000000000000
+      internalID: -2954663446775135034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_103
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 196
+        width: 88
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1cdf67149b6b050800000000000000
+      internalID: 5816039659615928822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_104
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 224
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b553852889db220800000000000000
+      internalID: 2503324653480926034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_105
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 229
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c205d239d5668190800000000000000
+      internalID: -7960563307795643707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_106
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 161
+        width: 158
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5349dc0afa7422f10800000000000000
+      internalID: 2243434384026604597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_107
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 224
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c534970111114760800000000000000
+      internalID: 7440246824232039881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2166e520ac76210800000000000000
+      internalID: 1326250726806393579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_109
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 197
+        width: 115
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e69e495fe0e67dc0800000000000000
+      internalID: -3641475930082339096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_110
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 217
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a332a11b040b7650800000000000000
+      internalID: 6231578954984207267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_111
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 220
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698bc6143435364e0800000000000000
+      internalID: -1989655062042068842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_112
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 212
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b4ff5316659dce0800000000000000
+      internalID: -1379976835294606442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_113
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 197
+        width: 115
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f74f4b6a06fe920800000000000000
+      internalID: 3021740144105652000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_114
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 217
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5807439d6e2549d30800000000000000
+      internalID: 4437262684306829445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_115
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 220
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325d3f2c19dd1b940800000000000000
+      internalID: 5310269053757281571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_116
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 212
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8f10e30eae36490800000000000000
+      internalID: -7754095884567971658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_117
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 197
+        width: 115
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd62819f86dd5de00800000000000000
+      internalID: 1069003929495807709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_118
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 217
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46572105daa2a1df0800000000000000
+      internalID: -208807508858210972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_119
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 220
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887143bd817f97780800000000000000
+      internalID: -8684638720278390904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_120
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 212
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e33e88a51ad51b0800000000000000
+      internalID: -5666195345946493406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_121
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 197
+        width: 115
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133fb884fb0ea9c20800000000000000
+      internalID: 3214128396242776881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_122
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 217
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b9430d4f55c89e0800000000000000
+      internalID: -1617823656179360966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_123
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 220
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c462ea3550d95e980800000000000000
+      internalID: -8510223274642364852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_124
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 210
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d208d0effb8245280800000000000000
+      internalID: -9055568145669062611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_125
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 199
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cb5d1045c883ed0800000000000000
+      internalID: -2434041306157827052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_126
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 210
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38eac31dfc034ad0800000000000000
+      internalID: -2719315468903323587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_127
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 199
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d711e7cd3a8e010800000000000000
+      internalID: 1218403866606927176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_128
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 210
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c004ad11a42ad10800000000000000
+      internalID: 2135350613863566395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_129
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 199
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f676f312526f7f50800000000000000
+      internalID: 6881326860307166962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_130
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 210
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fcb5140114fe680800000000000000
+      internalID: -8723682415121543276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_131
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 199
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727bc457b6151f160800000000000000
+      internalID: 7057511613037590311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_132
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 196
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6a4430e712b47a0800000000000000
+      internalID: -6391978421017860395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_133
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 197
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d371e7865376b6c00800000000000000
+      internalID: 894922430047196989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_134
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 165
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2954e7f8f3d6e7d10800000000000000
+      internalID: 2125256193923237266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_135
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 197
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b91f840f824f140800000000000000
+      internalID: 4752468519263771478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_136
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 161
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0813693e60627c270800000000000000
+      internalID: 8270621051719135616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_137
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 197
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba283b4c3cb73cf20800000000000000
+      internalID: 3441730620990128811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_138
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 161
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1eeb693c7ce4bb0800000000000000
+      internalID: -4949799297571954227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_139
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 197
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d6b563f783ee610800000000000000
+      internalID: 1652320232315514271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_140
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 66
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bb1dbfb7ae9e5c0800000000000000
+      internalID: -4185556560437462189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_141
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 61
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c73f59ef9582da0800000000000000
+      internalID: -5969422356107264868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_142
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 69
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bab18a36cde7320800000000000000
+      internalID: 2557723958973279067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_143
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 59
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e266546d4997e9a70800000000000000
+      internalID: 8835633199104484910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_144
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 69
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1e147b1868383f0800000000000000
+      internalID: -899727608860515848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_145
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 59
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374ecababf4d53960800000000000000
+      internalID: 7581199725130212467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_146
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 69
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039f00b35d8a8bb90800000000000000
+      internalID: -7225839968344540880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_147
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 59
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321ab9202faa5e1e0800000000000000
+      internalID: -2169139689106464477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_148
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 49
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babb286c8255660c0800000000000000
+      internalID: -4582881937185391701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_149
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 12
+        width: 111
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11c3b97fbe5b2930800000000000000
+      internalID: 4119490460634038558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_150
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 52
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3384580a053b5e0800000000000000
+      internalID: -1895082367831755837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_151
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 16
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee36fca224cc6e000800000000000000
+      internalID: 64963829201593326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_152
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 52
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a798bc618bb7c14a0800000000000000
+      internalID: -6621281321554835078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_153
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 52
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0eb7fb9dfea7380800000000000000
+      internalID: -8972595589082783547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_154
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 14
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e3adc84650b3e80800000000000000
+      internalID: -8197952767279874509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_155
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 53
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ae1a70074dc2ad0800000000000000
+      internalID: -2725570096836515193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_156
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 15
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a27d4636bbb8500800000000000000
+      internalID: 399619027520400010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_157
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 50
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbba444c7cf06240800000000000000
+      internalID: 4783100414919359473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_158
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 52
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efeb16f5d89297a0800000000000000
+      internalID: -6371862478051348505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_159
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 14
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7191d1ac7f965da70800000000000000
+      internalID: 8851097155635321111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_160
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 53
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6bb8c429a1952a0800000000000000
+      internalID: -6748333350986205517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_161
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 15
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00625cf0dedcf9070800000000000000
+      internalID: 8115431471600444928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_162
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 50
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75958ff497572650800000000000000
+      internalID: 6208026908807239038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_163
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 52
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e44ccf92e6fd330800000000000000
+      internalID: 3737827342354239041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_164
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 14
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c87bac010d19a460800000000000000
+      internalID: 7253360565201631429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_165
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 53
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a763c5bd4736cc910800000000000000
+      internalID: 1858970099744781946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_166
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 15
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d644bc575581a2c20800000000000000
+      internalID: 3182382842018219117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_167
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 50
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01639167356adab0800000000000000
+      internalID: -4982558749197377269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_168
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 33
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d9529ae81ba3a10800000000000000
+      internalID: 1890018219916631419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_169
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 88
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23cb60095c3b2830800000000000000
+      internalID: 4047395043079340842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_170
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 28
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77093c5fc0cc21af0800000000000000
+      internalID: -427054658611867529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_171
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 3
+        width: 115
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad082080107ff6d30800000000000000
+      internalID: 4427028542529896666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_172
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 34
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf905ecfc2bd8f10800000000000000
+      internalID: 2273669992481333174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_173
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 0
+        width: 88
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16b1182f9eef81f0800000000000000
+      internalID: -1040350621559835108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_174
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3
+        width: 115
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edddc2948c4e5ca0800000000000000
+      internalID: -6026295119092785690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_175
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 34
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e7a7b3dc405f3e0800000000000000
+      internalID: -2020703578293109209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_176
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 88
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a531a8342cdbae0e0800000000000000
+      internalID: -2239769222608972966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_177
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 3
+        width: 115
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae643dc7972ace680800000000000000
+      internalID: -8724419735454529814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_178
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 34
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373e9716d64934900800000000000000
+      internalID: 667540367288689523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_179
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 0
+        width: 88
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d32f8f5643511320800000000000000
+      internalID: 2526892427647591384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430b5d0d84b9efb50800000000000000
+      internalID: 6628906438579564596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_181
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 115
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfc8f13917d6c340800000000000000
+      internalID: 4883827349142425522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_182
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 21
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c58045dff1a72020800000000000000
+      internalID: 2316998653471917506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_183
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 24
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7120e15fb3603e40800000000000000
+      internalID: 5634112807204036988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_184
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 20
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468b945385404e310800000000000000
+      internalID: 1433275358308317284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_185
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 22
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74a388ca66c35770800000000000000
+      internalID: 8598434275513312383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_186
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 24
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cfc24ce167c34e0800000000000000
+      internalID: -2000594259946963863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_187
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 25
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2df815e1705022e0800000000000000
+      internalID: -2152632171777950419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_188
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 20
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c797bf2c1833320800000000000000
+      internalID: 2536513689582402646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_189
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 22
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc69261287ed7370800000000000000
+      internalID: 8322062232354122974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_190
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 24
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774a10d01bb8ee8f0800000000000000
+      internalID: -509316115302603657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_191
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 25
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3033a2187bbb39640800000000000000
+      internalID: 5085614801051857667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_192
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 20
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e74986743d1f650800000000000000
+      internalID: 6265020860299771502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_193
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 22
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8341ca2885b1add90800000000000000
+      internalID: -7072310197868555208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_194
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 24
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d70e9aa4f493fe0800000000000000
+      internalID: -1208847842876031677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_195
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 25
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf19823547147950800000000000000
+      internalID: 6445802552642052020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_196
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 14
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430493c7c37b88b90800000000000000
+      internalID: -7239334930588024780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_197
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea45d1b93256f060800000000000000
+      internalID: 6986862279662062311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_198
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 14
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3ede99c8b043090800000000000000
+      internalID: -8055801134953143389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_199
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 14
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb8e624a599609e0800000000000000
+      internalID: -1655467200071431193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_200
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 14
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb242000c56ff5e0800000000000000
+      internalID: -1873667044652340296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_201
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dace3c3ef7da86a0800000000000000
+      internalID: -6446102429695030571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_202
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c3d45289eca3bb0800000000000000
+      internalID: -4955421287111640002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_203
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc27a52e3bc6efb00800000000000000
+      internalID: 864247698354238156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_204
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddc65bc26eba99e0800000000000000
+      internalID: -1613768184931365420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_205
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 3
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75663d9598851f20800000000000000
+      internalID: 3392768070462629243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_206
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bb269c5b506c930800000000000000
+      internalID: 4163021183876512591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_207
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 3
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac49b0ec3df54310800000000000000
+      internalID: 1388794498023771303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Attack_IMG_1720_208
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79c39c8c08faa2f0800000000000000
+      internalID: -960682837708387974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ground_Attack_IMG_1720_0: 4702664373285256911
+      Ground_Attack_IMG_1720_1: -3131980858897732683
+      Ground_Attack_IMG_1720_10: -6378287967849415590
+      Ground_Attack_IMG_1720_100: 4848809785377532618
+      Ground_Attack_IMG_1720_101: 7108525176292929780
+      Ground_Attack_IMG_1720_102: -2954663446775135034
+      Ground_Attack_IMG_1720_103: 5816039659615928822
+      Ground_Attack_IMG_1720_104: 2503324653480926034
+      Ground_Attack_IMG_1720_105: -7960563307795643707
+      Ground_Attack_IMG_1720_106: 2243434384026604597
+      Ground_Attack_IMG_1720_107: 7440246824232039881
+      Ground_Attack_IMG_1720_108: 1326250726806393579
+      Ground_Attack_IMG_1720_109: -3641475930082339096
+      Ground_Attack_IMG_1720_11: 5524979221985008246
+      Ground_Attack_IMG_1720_110: 6231578954984207267
+      Ground_Attack_IMG_1720_111: -1989655062042068842
+      Ground_Attack_IMG_1720_112: -1379976835294606442
+      Ground_Attack_IMG_1720_113: 3021740144105652000
+      Ground_Attack_IMG_1720_114: 4437262684306829445
+      Ground_Attack_IMG_1720_115: 5310269053757281571
+      Ground_Attack_IMG_1720_116: -7754095884567971658
+      Ground_Attack_IMG_1720_117: 1069003929495807709
+      Ground_Attack_IMG_1720_118: -208807508858210972
+      Ground_Attack_IMG_1720_119: -8684638720278390904
+      Ground_Attack_IMG_1720_12: -82461456101689163
+      Ground_Attack_IMG_1720_120: -5666195345946493406
+      Ground_Attack_IMG_1720_121: 3214128396242776881
+      Ground_Attack_IMG_1720_122: -1617823656179360966
+      Ground_Attack_IMG_1720_123: -8510223274642364852
+      Ground_Attack_IMG_1720_124: -9055568145669062611
+      Ground_Attack_IMG_1720_125: -2434041306157827052
+      Ground_Attack_IMG_1720_126: -2719315468903323587
+      Ground_Attack_IMG_1720_127: 1218403866606927176
+      Ground_Attack_IMG_1720_128: 2135350613863566395
+      Ground_Attack_IMG_1720_129: 6881326860307166962
+      Ground_Attack_IMG_1720_13: -787186901239373191
+      Ground_Attack_IMG_1720_130: -8723682415121543276
+      Ground_Attack_IMG_1720_131: 7057511613037590311
+      Ground_Attack_IMG_1720_132: -6391978421017860395
+      Ground_Attack_IMG_1720_133: 894922430047196989
+      Ground_Attack_IMG_1720_134: 2125256193923237266
+      Ground_Attack_IMG_1720_135: 4752468519263771478
+      Ground_Attack_IMG_1720_136: 8270621051719135616
+      Ground_Attack_IMG_1720_137: 3441730620990128811
+      Ground_Attack_IMG_1720_138: -4949799297571954227
+      Ground_Attack_IMG_1720_139: 1652320232315514271
+      Ground_Attack_IMG_1720_14: -2237844962238564656
+      Ground_Attack_IMG_1720_140: -4185556560437462189
+      Ground_Attack_IMG_1720_141: -5969422356107264868
+      Ground_Attack_IMG_1720_142: 2557723958973279067
+      Ground_Attack_IMG_1720_143: 8835633199104484910
+      Ground_Attack_IMG_1720_144: -899727608860515848
+      Ground_Attack_IMG_1720_145: 7581199725130212467
+      Ground_Attack_IMG_1720_146: -7225839968344540880
+      Ground_Attack_IMG_1720_147: -2169139689106464477
+      Ground_Attack_IMG_1720_148: -4582881937185391701
+      Ground_Attack_IMG_1720_149: 4119490460634038558
+      Ground_Attack_IMG_1720_15: -3990394966198472501
+      Ground_Attack_IMG_1720_150: -1895082367831755837
+      Ground_Attack_IMG_1720_151: 64963829201593326
+      Ground_Attack_IMG_1720_152: -6621281321554835078
+      Ground_Attack_IMG_1720_153: -8972595589082783547
+      Ground_Attack_IMG_1720_154: -8197952767279874509
+      Ground_Attack_IMG_1720_155: -2725570096836515193
+      Ground_Attack_IMG_1720_156: 399619027520400010
+      Ground_Attack_IMG_1720_157: 4783100414919359473
+      Ground_Attack_IMG_1720_158: -6371862478051348505
+      Ground_Attack_IMG_1720_159: 8851097155635321111
+      Ground_Attack_IMG_1720_16: 8297263469007270573
+      Ground_Attack_IMG_1720_160: -6748333350986205517
+      Ground_Attack_IMG_1720_161: 8115431471600444928
+      Ground_Attack_IMG_1720_162: 6208026908807239038
+      Ground_Attack_IMG_1720_163: 3737827342354239041
+      Ground_Attack_IMG_1720_164: 7253360565201631429
+      Ground_Attack_IMG_1720_165: 1858970099744781946
+      Ground_Attack_IMG_1720_166: 3182382842018219117
+      Ground_Attack_IMG_1720_167: -4982558749197377269
+      Ground_Attack_IMG_1720_168: 1890018219916631419
+      Ground_Attack_IMG_1720_169: 4047395043079340842
+      Ground_Attack_IMG_1720_17: -8176748924832699837
+      Ground_Attack_IMG_1720_170: -427054658611867529
+      Ground_Attack_IMG_1720_171: 4427028542529896666
+      Ground_Attack_IMG_1720_172: 2273669992481333174
+      Ground_Attack_IMG_1720_173: -1040350621559835108
+      Ground_Attack_IMG_1720_174: -6026295119092785690
+      Ground_Attack_IMG_1720_175: -2020703578293109209
+      Ground_Attack_IMG_1720_176: -2239769222608972966
+      Ground_Attack_IMG_1720_177: -8724419735454529814
+      Ground_Attack_IMG_1720_178: 667540367288689523
+      Ground_Attack_IMG_1720_179: 2526892427647591384
+      Ground_Attack_IMG_1720_18: -3481687722018034240
+      Ground_Attack_IMG_1720_180: 6628906438579564596
+      Ground_Attack_IMG_1720_181: 4883827349142425522
+      Ground_Attack_IMG_1720_182: 2316998653471917506
+      Ground_Attack_IMG_1720_183: 5634112807204036988
+      Ground_Attack_IMG_1720_184: 1433275358308317284
+      Ground_Attack_IMG_1720_185: 8598434275513312383
+      Ground_Attack_IMG_1720_186: -2000594259946963863
+      Ground_Attack_IMG_1720_187: -2152632171777950419
+      Ground_Attack_IMG_1720_188: 2536513689582402646
+      Ground_Attack_IMG_1720_189: 8322062232354122974
+      Ground_Attack_IMG_1720_19: 7594077032935206015
+      Ground_Attack_IMG_1720_190: -509316115302603657
+      Ground_Attack_IMG_1720_191: 5085614801051857667
+      Ground_Attack_IMG_1720_192: 6265020860299771502
+      Ground_Attack_IMG_1720_193: -7072310197868555208
+      Ground_Attack_IMG_1720_194: -1208847842876031677
+      Ground_Attack_IMG_1720_195: 6445802552642052020
+      Ground_Attack_IMG_1720_196: -7239334930588024780
+      Ground_Attack_IMG_1720_197: 6986862279662062311
+      Ground_Attack_IMG_1720_198: -8055801134953143389
+      Ground_Attack_IMG_1720_199: -1655467200071431193
+      Ground_Attack_IMG_1720_2: 8204215650927239276
+      Ground_Attack_IMG_1720_20: 8804744278479296966
+      Ground_Attack_IMG_1720_200: -1873667044652340296
+      Ground_Attack_IMG_1720_201: -6446102429695030571
+      Ground_Attack_IMG_1720_202: -4955421287111640002
+      Ground_Attack_IMG_1720_203: 864247698354238156
+      Ground_Attack_IMG_1720_204: -1613768184931365420
+      Ground_Attack_IMG_1720_205: 3392768070462629243
+      Ground_Attack_IMG_1720_206: 4163021183876512591
+      Ground_Attack_IMG_1720_207: 1388794498023771303
+      Ground_Attack_IMG_1720_208: -960682837708387974
+      Ground_Attack_IMG_1720_21: -424543507621426709
+      Ground_Attack_IMG_1720_22: -8304224348859815610
+      Ground_Attack_IMG_1720_23: 4656931431156265111
+      Ground_Attack_IMG_1720_24: 5427650738463066353
+      Ground_Attack_IMG_1720_25: 8391254943689134984
+      Ground_Attack_IMG_1720_26: -7214559854902740425
+      Ground_Attack_IMG_1720_27: 6040477721255955897
+      Ground_Attack_IMG_1720_28: 2332483376077841719
+      Ground_Attack_IMG_1720_29: 85822009154121907
+      Ground_Attack_IMG_1720_3: 1543111631835866145
+      Ground_Attack_IMG_1720_30: 1809494663772820018
+      Ground_Attack_IMG_1720_31: 4183641639728643447
+      Ground_Attack_IMG_1720_32: 1770760465813463232
+      Ground_Attack_IMG_1720_33: -1104612639194700888
+      Ground_Attack_IMG_1720_34: -5059100207346025274
+      Ground_Attack_IMG_1720_35: 2830389852631975559
+      Ground_Attack_IMG_1720_36: 5160229551396701048
+      Ground_Attack_IMG_1720_37: -1711570383172514985
+      Ground_Attack_IMG_1720_38: 6783401830961917377
+      Ground_Attack_IMG_1720_39: 3285408639478328530
+      Ground_Attack_IMG_1720_4: 5553704582605967854
+      Ground_Attack_IMG_1720_40: -366005230943356988
+      Ground_Attack_IMG_1720_41: -864866264376502080
+      Ground_Attack_IMG_1720_42: -9035815895955080231
+      Ground_Attack_IMG_1720_43: 3799662500949422798
+      Ground_Attack_IMG_1720_44: -3868140270137144959
+      Ground_Attack_IMG_1720_45: 5438324407159969957
+      Ground_Attack_IMG_1720_46: 3949268737263667288
+      Ground_Attack_IMG_1720_47: 2242494906604737150
+      Ground_Attack_IMG_1720_48: -4885512571106644882
+      Ground_Attack_IMG_1720_49: -3770051729620249416
+      Ground_Attack_IMG_1720_5: -7389895717878987896
+      Ground_Attack_IMG_1720_50: -3572878452686096805
+      Ground_Attack_IMG_1720_51: -8840133949292812833
+      Ground_Attack_IMG_1720_52: 8957835342688590489
+      Ground_Attack_IMG_1720_53: -1417067690487760711
+      Ground_Attack_IMG_1720_54: -3517569704793646846
+      Ground_Attack_IMG_1720_55: -3750643958794385576
+      Ground_Attack_IMG_1720_56: -4482555673054299128
+      Ground_Attack_IMG_1720_57: -1140352910229713257
+      Ground_Attack_IMG_1720_58: -5796794287841989609
+      Ground_Attack_IMG_1720_59: 5977866414027078323
+      Ground_Attack_IMG_1720_6: 3415551124394186258
+      Ground_Attack_IMG_1720_60: -259670354612704833
+      Ground_Attack_IMG_1720_61: 5800104569971755308
+      Ground_Attack_IMG_1720_62: 2659040555004299421
+      Ground_Attack_IMG_1720_63: 5943112485520362269
+      Ground_Attack_IMG_1720_64: -359593332888048228
+      Ground_Attack_IMG_1720_65: -6382292283491725135
+      Ground_Attack_IMG_1720_66: -2297093923320243090
+      Ground_Attack_IMG_1720_67: -7682301837853830267
+      Ground_Attack_IMG_1720_68: 3233592563865385451
+      Ground_Attack_IMG_1720_69: -6696323341986809153
+      Ground_Attack_IMG_1720_7: 7100692474209939276
+      Ground_Attack_IMG_1720_70: -5291759993972494231
+      Ground_Attack_IMG_1720_71: 7487419809622135983
+      Ground_Attack_IMG_1720_72: 5343403712893920059
+      Ground_Attack_IMG_1720_73: -1556419690268151181
+      Ground_Attack_IMG_1720_74: 5806510866663342339
+      Ground_Attack_IMG_1720_75: -5800289644406557160
+      Ground_Attack_IMG_1720_76: -5120671653356875010
+      Ground_Attack_IMG_1720_77: -3361575035969995476
+      Ground_Attack_IMG_1720_78: 3224674184142919463
+      Ground_Attack_IMG_1720_79: -1762375941060260982
+      Ground_Attack_IMG_1720_8: -7181822031425209407
+      Ground_Attack_IMG_1720_80: 2579437418529444048
+      Ground_Attack_IMG_1720_81: 125027866352673016
+      Ground_Attack_IMG_1720_82: -1844940670218867591
+      Ground_Attack_IMG_1720_83: 8596964138482363971
+      Ground_Attack_IMG_1720_84: 5379608351064179288
+      Ground_Attack_IMG_1720_85: 7353553602981204571
+      Ground_Attack_IMG_1720_86: 2726683751765400423
+      Ground_Attack_IMG_1720_87: 7925149175458348784
+      Ground_Attack_IMG_1720_88: -5140582560139205380
+      Ground_Attack_IMG_1720_89: 1650610138213872347
+      Ground_Attack_IMG_1720_9: 3992987990896643520
+      Ground_Attack_IMG_1720_90: -5633935282725097129
+      Ground_Attack_IMG_1720_91: 5297532607622375483
+      Ground_Attack_IMG_1720_92: 3560199014868601781
+      Ground_Attack_IMG_1720_93: -1664430373408324484
+      Ground_Attack_IMG_1720_94: 7487292415332864399
+      Ground_Attack_IMG_1720_95: -1532364658820401039
+      Ground_Attack_IMG_1720_96: 8257484293528277398
+      Ground_Attack_IMG_1720_97: 6687992050841920462
+      Ground_Attack_IMG_1720_98: 2260137351222750711
+      Ground_Attack_IMG_1720_99: 8607064219825781506
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
