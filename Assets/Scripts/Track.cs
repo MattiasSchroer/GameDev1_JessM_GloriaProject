@@ -1,3 +1,5 @@
+using NUnit.Framework;
+using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "Track", menuName = "Scriptable Objects/Track")]
@@ -9,4 +11,6 @@ public class Track : ScriptableObject
     public int GameplayStartBeat = 0;
     public int BeatsInBar = 8;
     public bool HalfBeatsEnabled = false;
+
+    public List<TimedDialogue> Dialogue;
 }

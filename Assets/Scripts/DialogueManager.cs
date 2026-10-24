@@ -1,0 +1,205 @@
+using System;
+using System.Collections.Generic;
+using System.Runtime.InteropServices;
+using System.Text.RegularExpressions;
+using TMPro;
+using UnityEngine;
+using UnityEngine.UI;
+
+[Serializable]
+public struct SpeakerSprite
+{
+    public string Name;
+    public Sprite Sprite;
+}
+
+[Serializable]
+public struct TimedDialogue 
+{
+    public float Time;
+    public List<string> Dialogue;
+}
+
+[Serializable]
+public struct VoicedDialogue
+{
+    public string Text;
+    public AudioClip Audio;
+}
+
+public class DialogueManager : MonoBehaviour
+{
+    private static readonly Regex MetaRegex = new Regex(@"\[([a-zA-Z0-9]+)(?:=""(.*?)"")?\]");
+
+    private Queue<string> DialogueQueue = new Queue<string>();
+    private List<TimedDialogue> TimedDialogueSections = new List<TimedDialogue>();
+
+    [Header("Object References")]
+    [SerializeField] private GameObject DialogueCanvas;
+    [SerializeField] private Image SpeakerImage;
+    [SerializeField] private TextMeshProUGUI DialogueText;
+
+    [Header("Text Settings")]
+    [SerializeField] private float DefaultCharPerSecond = 15;
+    [SerializeField] private float DefaultAutoWaitSeconds = 5;
+
+    [SerializeField] private List<SpeakerSprite> SpeakerSprites;
+
+    private string _currentText;
+    private float _textIndex;
+    private bool _showingText = false;
+    private bool _autoContinue = false;
+    private float _autoWaitTime = 99;
+
+    private void Update()
+    {
+        CheckIfTimedDialogueShouldStart();
+
+        if (_showingText && !DialogueCanvas.activeInHierarchy) DialogueCanvas.SetActive(true);
+        else if (!_showingText && DialogueCanvas.activeInHierarchy) DialogueCanvas.SetActive(false);
+
+        if (!_showingText) return;
+
+        _textIndex = Math.Min(_currentText.Length, _textIndex + DefaultCharPerSecond * Time.deltaTime);
+
+        string textToDisplay = _currentText.Substring(0, (int)Math.Floor(_textIndex));
+
+        DisplayText(textToDisplay);
+
+        if (_autoContinue) 
+        {
+            _autoWaitTime -= Time.deltaTime;
+
+            if (_autoWaitTime <= 0)
+            {
+                ProgressDialogue();
+            }
+        }
+    }
+
+    public void DialogueBoxClick() 
+    {
+        if (_textIndex >= _currentText.Length)
+        {
+            ProgressDialogue();
+        }
+        else 
+        {
+            _textIndex = _currentText.Length;
+        }
+    }
+
+    public void InitiateDialogue(List<string> dialogue) 
+    {
+        foreach (string line in dialogue) 
+        {
+            DialogueQueue.Enqueue(line);
+        }
+
+        ProgressDialogue();
+    }
+
+    private void ProgressDialogue() 
+    {
+        if (DialogueQueue.TryDequeue(out string firstLine))
+        {
+            SetText(firstLine);
+        }
+        else 
+        {
+            _showingText = false;
+        }
+    }
+
+    private void SetText(string text) 
+    {
+        _textIndex = 0;
+        _showingText = true;
+
+        _currentText = ParseMetadata(text);
+    }
+
+    private void DisplayText(string text) 
+    {
+        DialogueText.text = text;
+    }
+
+    private void SetSpeakerSprite(string speakerName) 
+    {
+        Sprite spriteToSet = null;
+
+        foreach (SpeakerSprite speaker in SpeakerSprites) 
+        {
+            if (speaker.Name == speakerName) spriteToSet = speaker.Sprite;
+        }
+
+        if (spriteToSet != null)
+        {
+            SpeakerImage.gameObject.SetActive(true);
+            SpeakerImage.sprite = spriteToSet;
+        }
+        else SpeakerImage.gameObject.SetActive(false);
+    }
+
+    private string ParseMetadata(string text) 
+    {
+        MatchCollection matches = MetaRegex.Matches(text);
+
+        string speakerName = null;
+        bool auto = false;
+
+        foreach (Match match in matches) 
+        {
+            string key = match.Groups[1].Value;
+            string value = "";
+            if (match.Groups[2].Success) value = match.Groups[2].Value;
+
+            if (key == "speaker" || key == "s")
+            {
+                speakerName = value;
+            }
+            else if (key == "auto") 
+            {
+                auto = true;
+
+                if (value != "") _autoWaitTime = int.Parse(value);
+                else _autoWaitTime = DefaultAutoWaitSeconds;
+            }
+        }
+
+        SetSpeakerSprite(speakerName);
+        _autoContinue = auto;
+
+        string cleanText = MetaRegex.Replace(text, "").Trim();
+
+        return cleanText;
+    }
+
+    public void AddAllTimedDialogue(List<TimedDialogue> timedDialogueList) 
+    {
+        if (timedDialogueList == null) return;
+
+        foreach (TimedDialogue timedDialogue in timedDialogueList)
+        {
+            TimedDialogueSections.Add(timedDialogue);
+        }
+    }
+
+    private void CheckIfTimedDialogueShouldStart() 
+    {
+        float songTime = GameManager.Instance.Music.SongTimeInSeconds();
+
+        if (TimedDialogueSections.Count > 0) 
+        {
+            int index = TimedDialogueSections.FindIndex(t => songTime >= t.Time);
+
+            if (index == -1) return;
+
+            InitiateDialogue(TimedDialogueSections[index].Dialogue);
+
+            TimedDialogueSections.RemoveAt(index);
+        }
+    }
+}
+
+

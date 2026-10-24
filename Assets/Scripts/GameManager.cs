@@ -12,6 +12,7 @@ public class GameManager : MonoBehaviour
     public LightingManager LightingManager;
     public UIManager UIManager;
     public IndicatorManager IndicatorManager;
+    public DialogueManager DialogueManager;
 
     public static event Action<bool> OnToggleMusic;
     public static event Action ResetGameState;
@@ -76,6 +77,7 @@ public class GameManager : MonoBehaviour
         Choreographer.ResetValues(track.GameplayStartBeat);
         Metronome.TimingWindowMargin = timingWindow;
         LightingManager.SetStartBattleBeat(track.GameplayStartBeat);
+        DialogueManager.AddAllTimedDialogue(track.Dialogue);
     }
 
     public void LoseGame() 

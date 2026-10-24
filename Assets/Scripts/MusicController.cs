@@ -41,6 +41,11 @@ public class MusicController : MonoBehaviour
         return audioSource.time * 1000;
     }
 
+    public float SongTimeInSeconds()
+    {
+        return audioSource.time;
+    }
+
     private void ToggleMusic(bool toggle) 
     {
         PlayingMusic = toggle;

@@ -18,3 +18,14 @@ MonoBehaviour:
   GameplayStartBeat: 8
   BeatsInBar: 4
   HalfBeatsEnabled: 0
+  Dialogue:
+  - Time: 1
+    Dialogue:
+    - '[auto="3"][s="gloria"]Let''s get this show on the road.'
+    - '[auto="2"][s="gloria"]Shall we?'
+  - Time: 15
+    Dialogue:
+    - '[auto="2"][s="gloria"]Great moves punk.'
+    - '[auto="4"][s="gloria"]Tbh I''m mainly just talking again to prove that I can
+      do it twice in one song. Lol.'
+    - '[auto="5"][s="you"]ok'
