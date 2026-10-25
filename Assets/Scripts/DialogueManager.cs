@@ -36,30 +36,50 @@ public class DialogueManager : MonoBehaviour
 
     [Header("Object References")]
     [SerializeField] private GameObject DialogueCanvas;
+    [SerializeField] private Image DialogueBox;
     [SerializeField] private Image SpeakerImage;
     [SerializeField] private TextMeshProUGUI DialogueText;
 
     [Header("Text Settings")]
     [SerializeField] private float DefaultCharPerSecond = 15;
     [SerializeField] private float DefaultAutoWaitSeconds = 5;
+    [SerializeField] private float DialogueBoxOpenSpeed = 5;
 
     [SerializeField] private List<SpeakerSprite> SpeakerSprites;
 
-    private string _currentText;
-    private float _textIndex;
+    private string _currentText = "";
+    private float _textIndex = 0;
     private bool _showingText = false;
     private bool _autoContinue = false;
     private float _autoWaitTime = 99;
     private float _charPerSecond = 5;
+    private float _dialogueStartTimer = 0;
+    private Vector2 _dialogueBoxSize;
+
+    private void Start()
+    {
+        DialogueText.text = "";
+    }
 
     private void Update()
     {
         CheckIfTimedDialogueShouldStart();
 
-        if (_showingText && !DialogueCanvas.activeInHierarchy) DialogueCanvas.SetActive(true);
-        else if (!_showingText && DialogueCanvas.activeInHierarchy) DialogueCanvas.SetActive(false);
+        if (!_showingText)
+        {
+            _dialogueStartTimer = Mathf.Max(_dialogueStartTimer - Time.deltaTime * DialogueBoxOpenSpeed, 0);
+        }
+        else
+        {
+            _dialogueStartTimer = Mathf.Min(_dialogueStartTimer + Time.deltaTime * DialogueBoxOpenSpeed, 1);
+        }
 
-        if (!_showingText) return;
+        if (_showingText && !DialogueCanvas.activeInHierarchy) DialogueCanvas.SetActive(true);
+        else if (!_showingText && DialogueCanvas.activeInHierarchy && _dialogueStartTimer <= 0) DialogueCanvas.SetActive(false);
+
+        DialogueBox.transform.localScale = new Vector3(_dialogueStartTimer, _dialogueStartTimer, 1f);
+
+        if (_dialogueStartTimer < 1) return;
 
         _textIndex = Math.Min(_currentText.Length, _textIndex + _charPerSecond * Time.deltaTime);
 

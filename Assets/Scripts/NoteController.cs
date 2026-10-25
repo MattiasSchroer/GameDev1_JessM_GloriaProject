@@ -31,8 +31,6 @@ public class NoteController : MonoBehaviour
 
         float progress = 1f - (timeRemaining / PreBeatsVisualTime);
 
-        Debug.Log("Time remaining: " + timeRemaining + " | Progress: " + progress);
-
         return Mathf.Clamp01(progress);
     }
 

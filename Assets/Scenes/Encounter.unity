@@ -637,10 +637,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   DialogueCanvas: {fileID: 1981910529}
+  DialogueBox: {fileID: 1631648087}
   SpeakerImage: {fileID: 2096355824}
   DialogueText: {fileID: 430309018}
   DefaultCharPerSecond: 45
   DefaultAutoWaitSeconds: 5
+  DialogueBoxOpenSpeed: 5
   SpeakerSprites:
   - Name: gloria
     Sprite: {fileID: 6115540579035450422, guid: 15c4e5dd0a89186408aa5a0f77907e2d, type: 3}

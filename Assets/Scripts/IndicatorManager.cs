@@ -10,13 +10,15 @@ public class IndicatorManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        ToggleIndicators(false);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void ToggleIndicators(bool toggle) 
     {
-        
+        LeftIndicator.SetActive(toggle);
+        RightIndicator.SetActive(toggle);
+        UpIndicator.SetActive(toggle);
+        DownIndicator.SetActive(toggle);
     }
 
     public Vector2 GetIndicatorPosition(Note note) 

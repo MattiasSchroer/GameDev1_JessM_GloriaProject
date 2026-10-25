@@ -51,6 +51,7 @@ public class GameManager : MonoBehaviour
         Metronome.ToggleGameplay(true);
         UIManager.ToggleGameplayUI(true);
         UIManager.ToggleMainMenu(false);
+        IndicatorManager.ToggleIndicators(true);
     }
 
     public void StartButEvil() 
@@ -120,6 +121,7 @@ public class GameManager : MonoBehaviour
         ResetGameState?.Invoke();
         UIManager.ToggleGameplayUI(false);
         UIManager.ToggleMainMenu(true);
+        IndicatorManager.ToggleIndicators(false);
     }
 
     public void QuitGame() 

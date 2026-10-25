@@ -16,7 +16,7 @@ MonoBehaviour:
   BPM: 140
   Offset: -270
   GameplayStartBeat: 8
-  BeatsInBar: 4
+  BeatsInBar: 8
   HalfBeatsEnabled: 0
   Dialogue:
   - Time: 1
