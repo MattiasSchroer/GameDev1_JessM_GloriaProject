@@ -22,6 +22,9 @@ public class MusicController : MonoBehaviour
         {
             audioSource.pitch = Mathf.Max(0f, audioSource.pitch - Time.deltaTime * pitchReduction);
         }
+
+        //This can be simplified to:
+        //audioSource.pitch = PlayingMusic ? audioSource.pitch = Mathf.Min(1f, audioSource.pitch + Time.deltaTime * pitchReduction) : audioSource.pitch = Mathf.Max(0f, audioSource.pitch - Time.deltaTime * pitchReduction);
     }
 
     public void PlaySong() 

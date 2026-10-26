@@ -3,7 +3,7 @@ using UnityEngine.Rendering.Universal;
 
 public class LightingManager : MonoBehaviour
 {
-    public Light2D GlobalLight;
+    public Light2D GlobalLight;//FEEDBACK variable names
     public GameObject EnemyLight;
     public GameObject PlayerLight;
 
@@ -35,6 +35,7 @@ public class LightingManager : MonoBehaviour
         int dimStart = StartBattleBeat - (BeatsToDim + BeatsToBeDimBeforeStart);
         int dimEnd = StartBattleBeat - BeatsToBeDimBeforeStart;
 
+        //FEEDBACK Delete commented out code
         //Debug.Log($"Current beat: {currentBeat} (Waiting to dim at beat {dimStart})");
         if (currentBeat < dimStart) 
         {
@@ -45,7 +46,8 @@ public class LightingManager : MonoBehaviour
             float progress = Mathf.InverseLerp(dimStart, dimEnd, currentBeat);
 
             GlobalLight.intensity = Mathf.Lerp(1f, BattleDimness, progress);
-
+        
+            //FEEDBACK Delete commented out code
             //Debug.Log($"Dimming lights to {GlobalLight.intensity}");
         }
         else if (currentBeat > dimEnd)

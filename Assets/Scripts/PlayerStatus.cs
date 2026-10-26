@@ -20,7 +20,7 @@ public class PlayerStatus : MonoBehaviour
         Health = new Health(maxHealth);
         Judge.OnValidateInput += TakeDamageOnFailedInput;
         spriteRenderer = GetComponent<SpriteRenderer>();
-        Choreographer.OnSwitchToListenState += ResetInvincibility;
+        Choreographer.OnSwitchToListenState += ResetInvincibility;//FEEDBACK This can be a lamda function like () => Invincibility = false;
         GameManager.ResetGameState += ResetState;
     }
 
@@ -39,7 +39,7 @@ public class PlayerStatus : MonoBehaviour
 
     private void TakeDamageOnFailedInput(bool success) 
     {
-        if (success) return;
+        if (success) return;//FEEDBACK These can be in the same if statement
         if (Invincibility) return;
 
         Invincibility = true;
@@ -61,6 +61,9 @@ public class PlayerStatus : MonoBehaviour
     {
         if (toggle) spriteRenderer.color = Color.red;
         else spriteRenderer.color = Color.white;
+
+        //FEEDBACK This can be simplified to 
+        // spriteRenderer.color = toggle ? Color.red : Color.white;
     }
 
     private void ResetInvincibility() 

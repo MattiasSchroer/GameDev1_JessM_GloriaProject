@@ -5,7 +5,7 @@ using UnityEngine;
 public class EnemyEncounter : MonoBehaviour
 {
     [Header("Animation Details")]
-    public Sprite DefaultSprite;
+    public Sprite DefaultSprite;//FEEDBACK All Variable Names should be lower case
     public List<NoteActionDetails> NoteActions;
     [SerializeField] private float spriteAnimationTime = 0.4f;
     [SerializeField] private bool matchAnimationTimerToTimingWindow = false;
@@ -17,7 +17,7 @@ public class EnemyEncounter : MonoBehaviour
 
     private SpriteRenderer spriteRenderer;
     private AudioSource audioSource;
-    private Vector2 baseScale;
+    private Vector2 baseScale;//FEEDBACK This variable is never used
     private Vector2 basePosition;
     private int beatToCue = -1;
     private float spriteTimer = 0f;
@@ -45,13 +45,14 @@ public class EnemyEncounter : MonoBehaviour
         Judge.OnSequenceEnd += LoseHealthOnSuccessfulPlayerSequence;
         GameManager.ResetGameState += ResetState;
 
+        //FEEDBACK Avoid one line if statements
         if (matchAnimationTimerToTimingWindow) spriteAnimationTime = (TimingWindow * 2) / 1000;
     }
 
     // Update is called once per frame
     void Update()
     {
-        float delta = Time.deltaTime;
+        float delta = Time.deltaTime;//FEEDBACK You can remove this like and just use: spriteTimer -= Time.deltaTime;
 
         spriteTimer -= delta;
 
@@ -60,7 +61,7 @@ public class EnemyEncounter : MonoBehaviour
             float distancePercentage = spriteTimer / spriteAnimationTime;
             transform.localPosition = basePosition + slideDirection * (Mathf.Sin(distancePercentage * Mathf.PI) * spriteAnimationSlideDistance);
         }
-        else if (spriteTimerActive && spriteTimer < -spriteAnimationTime) ResetSprite();
+        else if (spriteTimerActive && spriteTimer < -spriteAnimationTime) ResetSprite();//FEEDBACK REALLY avoid mixing multiline if statements and one line if statements
     }
 
     private void DemoBeat(int beat) 
@@ -68,7 +69,8 @@ public class EnemyEncounter : MonoBehaviour
         beatToCue = beat;
 
         foreach (NoteActionDetails noteAction in NoteActions) 
-        {
+        {        
+            //FEEDBACK Avoid one line if statements
             if (beatToCue != (int)noteAction.Note) continue;
 
             SetSlideDirection(noteAction.Note);
@@ -104,7 +106,7 @@ public class EnemyEncounter : MonoBehaviour
             case Note.Right: slideDirection = Vector2.right; break;
             case Note.Finish: slideDirection = Vector2.zero; break;
         }
-    }
+    }//FEEDBACK Missing whitespace
     private void ResetSprite() 
     {
         spriteRenderer.sprite = DefaultSprite;

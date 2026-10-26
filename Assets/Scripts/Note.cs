@@ -8,7 +8,7 @@ public enum Note
    Down, 
    Left, 
    Right,
-   Finish = 7
+   Finish = 7//FEEDBACK Why is this 7?
 }
 
 [Serializable]

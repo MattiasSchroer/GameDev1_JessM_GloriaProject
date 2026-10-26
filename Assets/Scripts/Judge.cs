@@ -51,7 +51,7 @@ public class Judge : MonoBehaviour
 
     private void ValidateLastInput() 
     {
-        if (RanValidation) return;
+        if (RanValidation) return;//FEEDBACK These can be in the same if statement
         if (NextCorrectInput == 0 || NextCorrectInput == 7) return;
 
         RanValidation = true;

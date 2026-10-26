@@ -7,14 +7,14 @@ public class PlayerController : MonoBehaviour
 {
     [Header("Animation Details")]
     public Sprite DefaultSprite;
-    public List<NoteActionDetails> NoteActions;
+    public List<NoteActionDetails> NoteActions;//FEEDBACK All Variable Names should be lower case
     [SerializeField] private float spriteAnimationTime = 0.4f;
     [SerializeField] private bool matchAnimationTimerToTimingWindow = false;
     [SerializeField] private float spriteAnimationSlideDistance;
 
     private SpriteRenderer spriteRenderer;
     private AudioSource audioSource;
-    private Vector2 baseScale;
+    private Vector2 baseScale;//FEEDBACK This variable is never used
     private Vector2 basePosition;
 
     private float spriteTimer = 0f;
@@ -60,13 +60,18 @@ public class PlayerController : MonoBehaviour
 
         if (Mathf.Abs(inputDir.x) > Mathf.Abs(inputDir.y))
         {
+            //FEEDBACK :(
             if (inputDir.x > 0) direction = Note.Right;
             else direction = Note.Left;
+            //FEEDBACK This can simplified to:
+            // direction = inputDir.x > 0 ? Note.Right : Note.Left;
         }
         else 
         {
             if (inputDir.y > 0) direction = Note.Up;
             else direction = Note.Down;
+            //FEEDBACK This can simplified to:
+            // direction = inputDir.y > 0 ? Note.Up : Note.Down;
         }
 
         foreach (NoteActionDetails noteAction in NoteActions)
@@ -98,7 +103,7 @@ public class PlayerController : MonoBehaviour
             case Note.Right: slideDirection = Vector2.right; break;
             case Note.Finish: slideDirection = Vector2.zero; break;
         }
-    }
+    }//FEEDBACK Whitespace
     private void ResetSprite()
     {
         spriteRenderer.sprite = DefaultSprite;
@@ -106,7 +111,7 @@ public class PlayerController : MonoBehaviour
         transform.localPosition = basePosition;
     }
 
-    private void GetSongDetails(Track track, float timingWindow) 
+    private void GetSongDetails(Track track, float timingWindow) //FEEDBACK Avoid using "Get" in method names for void methods
     {
         if (matchAnimationTimerToTimingWindow) spriteAnimationTime = (timingWindow * 2) / 1000;
     }

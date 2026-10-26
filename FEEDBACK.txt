@@ -1,0 +1,19 @@
+The Good:
+
+	-Good use of actions and callbacks
+	-Good use of scriptable objects
+	-Code is mostly clean
+	-The code looks efficient, there are no major examples of bad update loops or expensive calls
+
+The Bad:
+
+	-Variable capitalization is very inconsistent, many variable names are starting with upper case letters however this varies within the same file
+	-Many uses of single line if statements. 
+		This is generally not preferred in most workplaces, especially when there is no new line between the () and the action
+		and ESPECIALLY not when there is no new line following the action
+	-Many pieces of code could be spimplified
+	-Lots of local variables are declared within functions only to be used once, in this case it is more efficient to just use a reference 
+	-There are many if (x != null) checks, you should look into using #nullable enable
+	-Very few switch statements
+	-
+	

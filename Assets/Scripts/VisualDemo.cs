@@ -21,14 +21,15 @@ public class VisualDemo : MonoBehaviour
     [SerializeField] private int averageInputOffset = 0;
     private int proximity = 0;
     private Vector3 baseScale;
-    private int beatToCue = -1;
+    private int beatToCue = -1;//FEEDBACK Whitespace
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         audioSource = GetComponent<AudioSource>();
         baseScale = transform.localScale;
-        Choreographer.OnBeatDemo += CueBeat;
+        Choreographer.OnBeatDemo += CueBeat;//FEEDBACK This could be a lamda function like so:
+                                            //Choreographer.OnBeatDemo += (beat) => beatToCue = beat;
     }
 
     // Update is called once per frame
@@ -87,11 +88,11 @@ public class VisualDemo : MonoBehaviour
 
     public void DemoBeat() 
     {
-        if (beatToCue == 1 && tap != null) audioSource.PlayOneShot(tap);
+        if (beatToCue == 1 && tap != null) audioSource.PlayOneShot(tap);//FREEDBACK More one liners
         else if (beatToCue == 7 && go != null) audioSource.PlayOneShot(go);
     }
 
-    public void CueBeat(int beat) 
+    public void CueBeat(int beat) //FEEDBACK See above
     {
         beatToCue = beat;
     }

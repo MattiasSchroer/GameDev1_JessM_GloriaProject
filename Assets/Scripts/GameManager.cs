@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
+    //FEEDBACK All Variable Names should be lower case
     public static GameManager Instance { get; private set; }
 
     public MusicController Music;
@@ -27,7 +28,7 @@ public class GameManager : MonoBehaviour
 
         DontDestroyOnLoad(gameObject);
 
-        
+        //FEEDBACK Clean up whitespace
     }
 
     private void Start()
@@ -41,7 +42,7 @@ public class GameManager : MonoBehaviour
 
     public void StartGameplay() 
     {
-        EnemyEncounter enemy = GameObject.FindAnyObjectByType<EnemyEncounter>();
+        EnemyEncounter enemy = GameObject.FindAnyObjectByType<EnemyEncounter>();//FEEDBACK FindAnyObjectByType is ineficient and should be avoided whenever possible
         enemy.BeginEncounter();
 
         Music.PlaySong();
@@ -51,7 +52,7 @@ public class GameManager : MonoBehaviour
         UIManager.ToggleMainMenu(false);
     }
 
-    public void StartButEvil() 
+    public void StartButEvil() //FEEDBACK Vague method name
     {
         EnemyEncounter enemy = GameObject.FindAnyObjectByType<EnemyEncounter>();
         Track evilTrack = Instantiate(Resources.Load<Track>("Tracks/TitleSong"));
@@ -68,7 +69,7 @@ public class GameManager : MonoBehaviour
 
     public void GetEnemyDetails(Track track, float timingWindow) 
     {
-        Debug.Log("Ran get enemy details...");
+        Debug.Log("Ran get enemy details...");//FEEDBACK Clean up debug statements
 
         Music.audioSource.clip = track.Song;
         Metronome.ResetValues(track);
@@ -104,6 +105,21 @@ public class GameManager : MonoBehaviour
         OnToggleMusic?.Invoke(true);
         Metronome.ToggleGameplay(true);
     }
+
+    //FEEDBACK Avoid repetitive code, the following lines are repeated in each method above:
+    /*  
+        OnToggleMusic?.Invoke(false);
+        Metronome.ToggleGameplay(false);
+
+        They should go into their own method such as:
+
+        void ToggleValues(bool toggleMusic, bool toggleGameplay){
+            OnToggleMusic?.Invoke(toggleMusic);
+            Metronome.ToggleGameplay(toggleGameplay);
+        }
+
+        that way you are not repeating lines
+    */
 
     public void RestartGame() 
     {

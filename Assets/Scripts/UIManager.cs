@@ -14,7 +14,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] private GameObject WinPanel;
     [SerializeField] private GameObject MenuPanel;
 
-    [SerializeField] private bool DebugMessages = false;
+    [SerializeField] private bool DebugMessages = false;//FEEDBACK You were so close to using lower case variables :(
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -56,7 +56,10 @@ public class UIManager : MonoBehaviour
 
     private void SetProximityText(bool success) 
     {
-        string text = "ERROR";
+        //FEEDBACK I feel like the text and color variables can be made with a dictionary of scriptable objects, 
+        //that way the text values can be modified from the editor and don't need to be hard coded
+
+        string text = "ERROR";//FEEDBACK Instead of declairing text and color variabled you can just assign proximityText.text and proximityText.color directly
         Color color = Color.white;
 
         if (!success)

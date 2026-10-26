@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class Choreographer : MonoBehaviour
 {
+     //FEEDBACK All Variable Names should be lower case
     private int[] pattern;
     [SerializeField] private int NextDemoBeat;
     [SerializeField] private int NextListenBeat;
@@ -50,9 +51,10 @@ public class Choreographer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //FEEDBACK Avoid one line if statements
         if (GameManager.Instance.Metronome.GetActiveBeat() != -1) ActiveBeat = GameManager.Instance.Metronome.GetActiveBeat();
 
-        if (State == ChoreographerState.Waiting) 
+        if (State == ChoreographerState.Waiting) //FEEDBACK Use switch statements instead of else if blocks
         {
             if (ActiveBeat >= NextDemoBeat - BeatsBeforeSetting) State = ChoreographerState.Setting;
         }
@@ -125,6 +127,7 @@ public class Choreographer : MonoBehaviour
     }
 }
 
+//FEEDBACK Declare enums at the top of files
 public enum ChoreographerState 
 {
     Setting,
