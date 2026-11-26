@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class NoteController : MonoBehaviour//THIS class should be controlling if you take damage or not
+public class NoteController : MonoBehaviour
 {
     public float TargetHitTime { get; private set; }
     [SerializeField] private SpriteRenderer spriteRenderer;
