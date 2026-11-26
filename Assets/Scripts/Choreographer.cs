@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using UnityEngine;
 
-public enum ChoreographerState
+public enum ChoreographerState//FEEDBACK Yay :3
 {
     Setting,
     Waiting,

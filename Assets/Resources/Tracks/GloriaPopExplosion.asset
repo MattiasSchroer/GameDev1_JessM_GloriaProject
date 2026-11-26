@@ -12,9 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74dedcd54da02394a892896cb1029da0, type: 3}
   m_Name: GloriaPopExplosion
   m_EditorClassIdentifier: Assembly-CSharp::Track
+  Name: 
+  Difficulty: 0
   Song: {fileID: 8300000, guid: a7bf88cf4875c39439f7786e3fc9cef0, type: 3}
   BPM: 117
   Offset: -280
   GameplayStartBeat: 28
   BeatsInBar: 4
   HalfBeatsEnabled: 0
+  EnemyHealth: 10
+  PlayerHealth: 5
+  TimingWindow: 100
+  Tutorial: 0
+  RandomPatterns: 1
+  Patterns: []
+  Dialogue: []

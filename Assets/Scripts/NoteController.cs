@@ -1,12 +1,12 @@
 using UnityEngine;
 
-public class NoteController : MonoBehaviour
+public class NoteController : MonoBehaviour//THIS class should be controlling if you take damage or not
 {
     public float TargetHitTime { get; private set; }
     [SerializeField] private SpriteRenderer spriteRenderer;
 
     [Header("Timing Variables")]
-    [SerializeField] private float PreBeatsVisualTime = 500;
+    [SerializeField] private float PreBeatsVisualTime = 500;//FEEBACK I swear to god with the capitalization 
     [SerializeField] private float MsTilDestruction = 300;
 
     [Header("Scale Boundaries")]
@@ -31,7 +31,7 @@ public class NoteController : MonoBehaviour
         transform.position = GameManager.Instance.IndicatorManager.GetIndicatorPosition(note);
         targetScale = GameManager.Instance.IndicatorManager.GetIndicatorScale(note).x;
         startingScale = targetScale * startingScaleRatio;
-        Color color = spriteRenderer.color;
+        Color color = Color.black;//spriteRenderer.color;
         color.a = 0f;
         spriteRenderer.color = color;
     }
@@ -58,8 +58,10 @@ public class NoteController : MonoBehaviour
             float fadeProgress = currentProgress / fadeDurationProgress;
             currentColor.a = Mathf.Lerp(0f, maxOpacity, fadeProgress);
         }
-        else
+        else if (TargetHitTime - GameManager.Instance.Music.SongTimeInMilliseconds() < GameManager.Instance.Metronome.TimingWindowMargin)
         {
+            //FEEDBACK I added this to change the colour of the circle when the beat is in the timing window, both to help visualise where that window as a dev and player
+            currentColor = Color.white;
             currentColor.a = maxOpacity;
         }
 

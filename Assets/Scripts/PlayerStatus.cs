@@ -42,7 +42,9 @@ public class PlayerStatus : MonoBehaviour
 
     private void TakeDamageOnFailedInput(bool success) 
     {
-        if (success) return;
+        Debug.Log("AAAAAA TAKE DAMAGE");
+
+        if (success) return;//FEEDBACK These can be one statement with an ||
         if (Invincibility) return;
 
         Invincibility = true;

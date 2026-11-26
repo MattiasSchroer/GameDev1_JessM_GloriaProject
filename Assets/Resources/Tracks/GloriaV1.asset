@@ -12,9 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74dedcd54da02394a892896cb1029da0, type: 3}
   m_Name: GloriaV1
   m_EditorClassIdentifier: Assembly-CSharp::Track
+  Name: 
+  Difficulty: 0
   Song: {fileID: 8300000, guid: 9ab0a04cfcec1bf45b9a9935b2a80fc1, type: 3}
   BPM: 140
   Offset: -270
   GameplayStartBeat: 81
   BeatsInBar: 8
   HalfBeatsEnabled: 0
+  EnemyHealth: 10
+  PlayerHealth: 5
+  TimingWindow: 100
+  Tutorial: 0
+  RandomPatterns: 1
+  Patterns: []
+  Dialogue: []

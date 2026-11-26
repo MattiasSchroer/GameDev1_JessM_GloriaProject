@@ -10,15 +10,15 @@ public class Judge : MonoBehaviour
     private double lastInputProximity;
     private bool InputReceived = false;
     public bool RanValidation = false;
-    private bool SequenceEnded = false;
+    private bool SequenceEnded = false;//FEEDBACK This variable is never used
     private bool SuccessfulSequence = true;
 
     [SerializeField] private AudioClip hitSuccessSound;
     [SerializeField] private AudioClip hitFailureSound;
 
-    public static event Action OnInputReceived;
+    public static event Action OnInputReceived;//FEEDBACK This action is never set
     public static event Action<bool> OnValidateInput;
-    public static event Action<bool, double> OnValidateInputWithProximity;
+    public static event Action<bool, double> OnValidateInputWithProximity;//FEEDBACK I feel like these can be consolidated 
     public static event Action<bool> OnSequenceEnd;
 
     [SerializeField] private bool DebugMessages = false;
@@ -51,7 +51,7 @@ public class Judge : MonoBehaviour
             if (DebugMessages) Debug.Log($"Judge received player input: {(Note)input}");
 
             double songInputTime = GameManager.Instance.Music.RealtimeToSongMs(inputTime);
-            double inputProximity = songInputTime - (GameManager.Instance.Metronome.ActiveBeatTimeMs() + GameManager.Instance.GeneralOffset);
+            double inputProximity = songInputTime - (GameManager.Instance.Metronome.ActiveBeatTimeMs() + GameManager.Instance.GeneralOffset);//FEEBACK This line right here is probably the source of some trouble
 
             LastReceivedInput = input;
             lastInputProximity = inputProximity;
@@ -64,23 +64,40 @@ public class Judge : MonoBehaviour
 
     private void ValidateLastInput() 
     {
-        if (RanValidation) return;
-        if (NextCorrectInput == 0 || NextCorrectInput == 7) return;
+        if (RanValidation || NextCorrectInput == 0 || NextCorrectInput == 7)
+        {
+            return;
+        }
 
         RanValidation = true;
 
         bool valid = false;
 
-        if (LastReceivedInput == NextCorrectInput && Math.Abs(lastInputProximity) <= GameManager.Instance.Metronome.TimingWindowMargin) valid = true;
-        else SuccessfulSequence = false;
+        if (LastReceivedInput == NextCorrectInput && Math.Abs(lastInputProximity) <= GameManager.Instance.Metronome.TimingWindowMargin)
+        {
+            valid = true;
+        }
+        else 
+        { 
+            SuccessfulSequence = false; 
+        }
 
         OnValidateInput?.Invoke(valid);
         OnValidateInputWithProximity?.Invoke(valid, lastInputProximity);
 
-        if (valid) audioSource.PlayOneShot(hitSuccessSound);
-        else audioSource.PlayOneShot(hitFailureSound);
+        if (valid)
+        {
+            audioSource.PlayOneShot(hitSuccessSound);
+        }
+        else
+        {
+            audioSource.PlayOneShot(hitFailureSound);
+        }
 
-        if (NextCorrectInput != 0 && DebugMessages) Debug.Log($"Player succeeded note: {valid} (Expected {NextCorrectInput}, Received {LastReceivedInput})");
+        if (NextCorrectInput != 0 && DebugMessages)
+        {
+            Debug.Log($"Player succeeded note: {valid} (Expected {NextCorrectInput}, Received {LastReceivedInput})");
+        }
     }
 
     private void EndSequenceCheck() 

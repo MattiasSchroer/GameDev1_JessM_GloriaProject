@@ -36,6 +36,11 @@ public class IndicatorCircleColorChange : MonoBehaviour
 
     public void Highlight(float timerLength, Color color) 
     {
+        if( _renderer == null)//FEEDBACK I added this check because pressing wasd in the main menu throws a null reference exception
+        {
+            return;
+        }
+
         _highlightTimeLength = timerLength;
         _highlighted = true;
         _highlightColor = color;
