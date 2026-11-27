@@ -1,0 +1,19 @@
+{
+    "Name": "",
+    "Difficulty": 0,
+    "Song": {
+        "instanceID": 53646
+    },
+    "BPM": 140.0,
+    "Offset": -270.0,
+    "GameplayStartBeat": 81,
+    "BeatsInBar": 8,
+    "HalfBeatsEnabled": false,
+    "EnemyHealth": 10,
+    "PlayerHealth": 5,
+    "TimingWindow": 100,
+    "Tutorial": false,
+    "RandomPatterns": true,
+    "Patterns": [],
+    "Dialogue": []
+}

@@ -1,0 +1,200 @@
+{
+    "Name": "Places Darling! (the tutorial)",
+    "Difficulty": 0,
+    "Song": {
+        "instanceID": 52684
+    },
+    "BPM": 140.0,
+    "Offset": 0.0,
+    "GameplayStartBeat": 24,
+    "BeatsInBar": 8,
+    "HalfBeatsEnabled": false,
+    "EnemyHealth": 999,
+    "PlayerHealth": 999,
+    "TimingWindow": 100,
+    "Tutorial": true,
+    "RandomPatterns": false,
+    "Patterns": [
+        {
+            "HalfBeats": false,
+            "Notes": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                1
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                2
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                3
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                4
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                1,
+                2,
+                3,
+                7
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                2,
+                4,
+                1,
+                7
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                1,
+                1,
+                3,
+                4,
+                1,
+                2,
+                4,
+                7
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                1,
+                1,
+                3,
+                4,
+                1,
+                4,
+                2,
+                7
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                2,
+                3,
+                1,
+                0,
+                4,
+                2,
+                4,
+                7
+            ]
+        }
+    ],
+    "Dialogue": [
+        {
+            "Time": 0.0,
+            "Dialogue": [
+                {
+                    "Text": "[s=\"tutorial\"][patterns=\"0\"]Hi! Welcome to Prefora! Here we'll be teaching you the basics",
+                    "Audio": {
+                        "instanceID": 52686
+                    }
+                },
+                {
+                    "Text": "[s=\"tutorial\"]In this game, you'll follow the prompts of your opponent to defeat them by matching the rhythm",
+                    "Audio": {
+                        "instanceID": 52688
+                    }
+                },
+                {
+                    "Text": "[s=\"tutorial\"]Gloria will perform a sequence of moves, and then you'll try to repeat it back to her, so that you can dodge her attacks ",
+                    "Audio": {
+                        "instanceID": 52690
+                    }
+                },
+                {
+                    "Text": "[s=\"tutorial\"]First, let's start with just one note. When Gloria moves on the beat, you move on the next beat. For now, she'll just go up",
+                    "Audio": {
+                        "instanceID": 52692
+                    }
+                },
+                {
+                    "Text": "[s=\"tutorial\"][tutorial=\"Hit(5)\"][patterns=\"1\"]Okay, now you give it a try!",
+                    "Audio": {
+                        "instanceID": 52694
+                    }
+                },
+                {
+                    "Text": "[s=\"tutorial\"][patterns=\"0\"]Great job! ",
+                    "Audio": {
+                        "instanceID": 52696
+                    }
+                },
+                {
+                    "Text": "[s=\"tutorial\"][tutorial=\"Hit(5)\"][patterns=\"1,2,3,4\"]Now, let's try different directions",
+                    "Audio": {
+                        "instanceID": 52698
+                    }
+                },
+                {
+                    "Text": "[s=\"tutorial\"][patterns=\"0\"]Now you're getting it! ",
+                    "Audio": {
+                        "instanceID": 52700
+                    }
+                },
+                {
+                    "Text": "[s=\"tutorial\"][tutorial=\"Sequence(3)\"][patterns=\"5,6\"]Let's try to get all four directions in, can you get all the patterns?",
+                    "Audio": {
+                        "instanceID": 52702
+                    }
+                },
+                {
+                    "Text": "[s=\"tutorial\"][patterns=\"0\"]Fantastic! If you miss a note, you'll fail that sequence and lose your own health",
+                    "Audio": {
+                        "instanceID": 52704
+                    }
+                },
+                {
+                    "Text": "[s=\"tutorial\"]Now, try and beat a few harder sequences here to prove you've got what it takes to take on Gloria",
+                    "Audio": {
+                        "instanceID": 52706
+                    }
+                },
+                {
+                    "Text": "[s=\"tutorial\"][tutorial=\"Sequence(3)\"][patterns=\"7,8,9\"]Good luck!!",
+                    "Audio": {
+                        "instanceID": 52708
+                    }
+                },
+                {
+                    "Text": "[s=\"tutorial\"][patterns=\"0\"][auto]Great work! Looks like you're ready to take on the real thing. Good luck!",
+                    "Audio": {
+                        "instanceID": 52710
+                    }
+                },
+                {
+                    "Text": "[tutorial=\"End(1)\"]",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

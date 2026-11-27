@@ -1,0 +1,103 @@
+{
+    "Name": "Tick Tock, Darling!",
+    "Difficulty": 0,
+    "Song": {
+        "instanceID": 52436
+    },
+    "BPM": 140.0,
+    "Offset": 0.0,
+    "GameplayStartBeat": 8,
+    "BeatsInBar": 8,
+    "HalfBeatsEnabled": false,
+    "EnemyHealth": 15,
+    "PlayerHealth": 10,
+    "TimingWindow": 100,
+    "Tutorial": false,
+    "RandomPatterns": true,
+    "Patterns": [
+        {
+            "HalfBeats": false,
+            "Notes": [
+                1,
+                2,
+                3,
+                4,
+                1,
+                2,
+                1,
+                7
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                3,
+                4,
+                3,
+                0,
+                3,
+                4,
+                1,
+                7
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                2,
+                2,
+                3,
+                4,
+                1,
+                1,
+                3,
+                7
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                3,
+                1,
+                4,
+                7
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                2,
+                3,
+                1,
+                4
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                0,
+                0,
+                1,
+                2,
+                0,
+                0,
+                3,
+                4
+            ]
+        },
+        {
+            "HalfBeats": true,
+            "Notes": [
+                0,
+                1,
+                1,
+                1,
+                0,
+                2,
+                2,
+                2
+            ]
+        }
+    ],
+    "Dialogue": []
+}

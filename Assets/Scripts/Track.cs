@@ -1,6 +1,7 @@
+using System;
+using UnityEngine;
 using NUnit.Framework;
 using System.Collections.Generic;
-using UnityEngine;
 
 public enum SongDifficulty 
 {
@@ -10,6 +11,7 @@ public enum SongDifficulty
     Impossible
 }
 
+[Serializable]
 [CreateAssetMenu(fileName = "Track", menuName = "Scriptable Objects/Track")]
 public class Track : ScriptableObject
 {

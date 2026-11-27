@@ -1,0 +1,439 @@
+{
+    "Name": "9mm Tax",
+    "Difficulty": 1,
+    "Song": {
+        "instanceID": 53070
+    },
+    "BPM": 142.0,
+    "Offset": 55.0,
+    "GameplayStartBeat": 8,
+    "BeatsInBar": 8,
+    "HalfBeatsEnabled": false,
+    "EnemyHealth": 15,
+    "PlayerHealth": 5,
+    "TimingWindow": 100,
+    "Tutorial": false,
+    "RandomPatterns": false,
+    "Patterns": [
+        {
+            "HalfBeats": false,
+            "Notes": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                3,
+                3,
+                4,
+                4,
+                3,
+                1,
+                2,
+                2
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                3,
+                4,
+                3,
+                4,
+                1,
+                2,
+                1,
+                2
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                1,
+                2,
+                1,
+                2,
+                2,
+                1,
+                2,
+                2
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                1,
+                3,
+                2,
+                4,
+                4,
+                1,
+                3,
+                2
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                4,
+                4,
+                1,
+                2,
+                3,
+                3,
+                1,
+                2
+            ]
+        },
+        {
+            "HalfBeats": false,
+            "Notes": [
+                3,
+                1,
+                4,
+                2,
+                3,
+                2,
+                4,
+                2
+            ]
+        },
+        {
+            "HalfBeats": true,
+            "Notes": [
+                3,
+                4,
+                3,
+                3,
+                4,
+                3,
+                4,
+                4,
+                1,
+                2,
+                1,
+                1,
+                3,
+                4,
+                3,
+                1
+            ]
+        },
+        {
+            "HalfBeats": true,
+            "Notes": [
+                3,
+                3,
+                4,
+                4,
+                3,
+                1,
+                2,
+                2,
+                1,
+                1,
+                4,
+                3,
+                3,
+                2,
+                1,
+                2
+            ]
+        },
+        {
+            "HalfBeats": true,
+            "Notes": [
+                1,
+                2,
+                2,
+                1,
+                1,
+                2,
+                1,
+                3,
+                4,
+                1,
+                2,
+                2,
+                1,
+                2,
+                3,
+                1
+            ]
+        },
+        {
+            "HalfBeats": true,
+            "Notes": [
+                3,
+                4,
+                2,
+                3,
+                1,
+                2,
+                4,
+                1,
+                2,
+                3,
+                4,
+                2,
+                1,
+                4,
+                2,
+                3
+            ]
+        },
+        {
+            "HalfBeats": true,
+            "Notes": [
+                4,
+                3,
+                1,
+                1,
+                4,
+                4,
+                2,
+                2,
+                3,
+                4,
+                1,
+                2,
+                4,
+                2,
+                4,
+                2
+            ]
+        },
+        {
+            "HalfBeats": true,
+            "Notes": [
+                3,
+                4,
+                1,
+                1,
+                4,
+                3,
+                1,
+                4,
+                1,
+                3,
+                3,
+                1,
+                4,
+                1,
+                4,
+                4
+            ]
+        }
+    ],
+    "Dialogue": [
+        {
+            "Time": 0.0,
+            "Dialogue": [
+                {
+                    "Text": "[patterns=\"1,2,4,5,6\"][auto=\"0\"]",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Time": 129.0,
+            "Dialogue": [
+                {
+                    "Text": "[s=\"gloria\"][patterns=\"0\"]Oh look at that!",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]You are still managing to stand on your own two feet after the first act!",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]I have to admit I was expecting you to take your final bow of the performance by now",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]Not that I thought you were incapable or anything, I simply didn’t realize we had such a fighter amongst us!!",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]A true survivor…",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]A persistent little RISING STAR on our hands tonight!!!",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]Tell me DARLING…",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]Are you enjoying the show tonight?",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"you\"]…",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]OH!! Don’t be shy We have had such a lovely time together with all that jumping, dodging, and stumbling all about the stage",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]AND Isn’t it just PRECIOUS that you have started to get the hang of it?",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]but… PERSONALLY DARLING…",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]I must admit this is all a little too choreographed for my taste",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]I was hoping for a little more FLAIR; A little more PASSION; I was hoping for some real IMPROVISATION on stage here tonight!",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]and every great performer and every great performance of theirs comes with a little adversity and hardship, isn’t that right darling?",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]After all, how could I possibly be a star without someone to dance around on stage?",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"][patterns=\"1,2,4,5,6\"]PLACES AGAIN EVERYONE!",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                }
+            ]
+        },
+        {
+            "Time": 273.0,
+            "Dialogue": [
+                {
+                    "Text": "[s=\"gloria\"][patterns=\"0\"]A STAR IS BORN!",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]BRAVO!!! BRAVISSIMO!!! WHAT A PERFORMANCE!!! WHAT A SPECTACLE!!! SOMEBODY GET THIS STAR A BOQUET! SOME FLOWERS FOR THEIR PERFORMANCE!!",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]We have laughed! We have cried! We have danced and we have dodged! ",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]and you my rising star, have made it all the way to the end!",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"][patterns=\"0\"]Don’t let it all go to your head, Streisand",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]There’s only room for ONE HEADLINER around here!",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]OHHOHOHO HAHAHA",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]Maybe I should start mixing stand up comedy into my future performances",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]Do you think I have a knack for it, darling?",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"you\"]…",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]Well!! It seems like we have a tough crowd tonight folks!",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"]I suppose it’s time for our final bow now,",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                },
+                {
+                    "Text": "[s=\"gloria\"][patterns=\"1,2,4,5,6\"]Shall we?",
+                    "Audio": {
+                        "instanceID": 0
+                    }
+                }
+            ]
+        }
+    ]
+}
