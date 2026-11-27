@@ -25,14 +25,14 @@ public class EnemyEncounter : MonoBehaviour
 
     private SpriteRenderer spriteRenderer;
     private AudioSource audioSource;
-    private Vector2 baseScale;
+    private Vector2 baseScale;//FEEDBACK This is not used
     private Vector2 basePosition;
     private int beatToCue = -1;
     private float spriteTimer = 0f;
     private bool spriteTimerActive = false;
     private Vector2 slideDirection;
 
-    
+    //FEEDBACK Whitespace
 
     public Health Health;
     public bool Invincible = false;
@@ -96,7 +96,7 @@ public class EnemyEncounter : MonoBehaviour
         {
             if (beatToCue != (int)noteAction.Note) continue;
 
-            //if (noteAction.Sound != null) audioSource.PlayOneShot(noteAction.Sound);
+            if (noteAction.Sound != null) audioSource.PlayOneShot(noteAction.Sound);
         }
     }
 

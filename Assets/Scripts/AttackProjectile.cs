@@ -1,7 +1,7 @@
 using System;
-using TMPro;
+using TMPro;//FEEDBACK This is not used
 using UnityEngine;
-using static UnityEngine.GraphicsBuffer;
+using static UnityEngine.GraphicsBuffer;//FEEDBACK This is not used
 
 public class AttackProjectile : MonoBehaviour
 {
@@ -10,7 +10,7 @@ public class AttackProjectile : MonoBehaviour
     [SerializeField] private float _moveSpeed;
     [SerializeField] private float _spawnMoveSpeed;
     [SerializeField] private int _targetBeat;
-    private bool _spawning = true;
+    private bool _spawning = true;//FEEDBACK This variable is not used. I reccoment using a text editor that tells you when a variable is not used
     private bool _moving = false;
     private float stoppingDistance = 0.05f;
     private int _orderInQueue = 0;
@@ -85,7 +85,7 @@ public class AttackProjectile : MonoBehaviour
         Animator.SetBool("Moving", true);
 
         Metronome.OnBeatWindowOpenedWithBeat -= MoveOnBeat;
-        AttackProjectile.OnMove -= DecrementOrder;
+        AttackProjectile.OnMove -= DecrementOrder;//FEEDBACK You do not need to reference AttackProjectile
 
         OnMove?.Invoke();
     }

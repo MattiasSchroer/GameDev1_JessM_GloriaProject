@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using TMPro;
 using UnityEngine;
-using UnityEngine.Audio;
+using UnityEngine.Audio;//FEEDBACK Not used
 using UnityEngine.UI;
 
 [Serializable]
@@ -30,8 +30,10 @@ public struct VoicedDialogue
 
 public class DialogueManager : MonoBehaviour
 {
+    //FEEDBACK I am not sure if it is necessary to use regex. It might be but as a rule regex is so unreliable and it should be a last resort
+    //Considering that this is for dialogue, all your text should already be stings
     private static readonly Regex MetaRegex = new Regex(@"\[([a-zA-Z0-9]+)(?:=""(.*?)"")?\]");
-    private static event Action<string> PromptTutorial;
+    private static event Action<string> PromptTutorial;//FEEDBACK Not used
 
     private AudioSource audioSource;
 
@@ -58,7 +60,7 @@ public class DialogueManager : MonoBehaviour
     private float _autoWaitTime = 99;
     private float _charPerSecond = 30;
     private float _dialogueStartTimer = 0;
-    private Vector2 _dialogueBoxSize;
+    private Vector2 _dialogueBoxSize;//FEEDBACK Not used
     private bool _progressAfterAudio = false;
 
     private void Start()

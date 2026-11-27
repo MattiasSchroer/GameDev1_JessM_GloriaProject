@@ -51,7 +51,7 @@ public class Judge : MonoBehaviour
             if (DebugMessages) Debug.Log($"Judge received player input: {(Note)input}");
 
             double songInputTime = GameManager.Instance.Music.RealtimeToSongMs(inputTime);
-            double inputProximity = songInputTime - (GameManager.Instance.Metronome.ActiveBeatTimeMs() + GameManager.Instance.GeneralOffset);//FEEBACK This line right here is probably the source of some trouble
+            double inputProximity = songInputTime - (GameManager.Instance.Metronome.ActiveBeatTimeMs() + GameManager.Instance.GeneralOffset);
 
             LastReceivedInput = input;
             lastInputProximity = inputProximity;

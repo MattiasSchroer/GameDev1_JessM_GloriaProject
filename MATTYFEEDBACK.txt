@@ -1,0 +1,12 @@
+The Good:
+
+	-Some of my suggested changes have been implemented, such as more switch statemtents and moving enums to the top of files
+	-Code is still efficient
+	-New systems are being added will without interfering with old systems
+
+The Bad:
+
+	-Some of my previous suggestions, mainly regarding variable names and single line if statements, have not been addressed, even in new code
+	-The code has become noticably messier, this is normal during the end stages of a project when deadlines are approaching but should be avoided
+	-My main issue is that while new systems are successfully being added without breaking old systems, they seem too disjointed and do not always interact with each other as much as they should.
+		For example, the NoteConroller uses hard coded values to control the timing of the circle's colour and opacity when it could be using values from the Metronome

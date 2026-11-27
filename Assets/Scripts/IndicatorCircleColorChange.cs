@@ -1,5 +1,8 @@
 using UnityEngine;
 
+//FEEDBACK I think this class should be used to show the player if they hit or missed a beat, in addition to other elements
+//maybe the circles could turn white if you successfully hit the beat and red if they miss?
+
 public class IndicatorCircleColorChange : MonoBehaviour
 {
     [SerializeField] private float _highlightTimeLength = 0.5f;

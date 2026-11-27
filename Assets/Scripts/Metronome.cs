@@ -1,6 +1,10 @@
 using System;
 using UnityEngine;
 
+//FEEDBACK As this class is used to keep track of the beats,
+//it should have a public method that can be called from other classes to check if they are in the current timing window and then use that to display to the player that they are in the window
+
+
 public class Metronome : MonoBehaviour
 {
     public MusicController Music;

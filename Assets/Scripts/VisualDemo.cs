@@ -21,7 +21,7 @@ public class VisualDemo : MonoBehaviour
     [SerializeField] private int averageInputOffset = 0;
     private int proximity = 0;
     private Vector3 baseScale;
-    private int beatToCue = -1;
+    private int beatToCue = -1;//FEEDBACK Whitespace
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -76,7 +76,7 @@ public class VisualDemo : MonoBehaviour
         string read;
 
         if (proximity > 0) read = $"+{proximity}";
-        else read = $"{proximity}";
+        else read = $"{proximity}";//FEEDBACK read is declared and set but never used
 
         averageInputOffset = (int)Math.Round(proximityReads.Average());
 

@@ -1,5 +1,7 @@
 using UnityEngine;
 
+//FEEDBACK I made some changes in this class to demonstrate how you can communicate to the player that they are in the beat window
+
 public class NoteController : MonoBehaviour
 {
     public float TargetHitTime { get; private set; }
@@ -61,6 +63,7 @@ public class NoteController : MonoBehaviour
         else if (TargetHitTime - GameManager.Instance.Music.SongTimeInMilliseconds() < GameManager.Instance.Metronome.TimingWindowMargin)
         {
             //FEEDBACK I added this to change the colour of the circle when the beat is in the timing window, both to help visualise where that window as a dev and player
+            //FEEDBACK This is an example of how visual systems should be communicating with gameplay systems so that information is being accurately conveyed to the player
             currentColor = Color.white;
             currentColor.a = maxOpacity;
         }

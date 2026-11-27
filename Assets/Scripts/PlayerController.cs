@@ -14,7 +14,7 @@ public class PlayerController : MonoBehaviour
 
     private SpriteRenderer spriteRenderer;
     private AudioSource audioSource;
-    private Vector2 baseScale;
+    private Vector2 baseScale;//FEEDBACK Not used
     private Vector2 basePosition;
 
     private float spriteTimer = 0f;
@@ -37,7 +37,7 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float delta = Time.deltaTime;
+        float delta = Time.deltaTime;//FEEDBACK You don't need to declare a variable if you are only going to reference it once, especially in the update loop
 
         spriteTimer -= delta;
 
@@ -48,7 +48,7 @@ public class PlayerController : MonoBehaviour
             //FEEDBACK I would be very careful with long, mixed equations like this and possibly split it up more or add more brackets.
             //It works in this case because c# handles the order of operations properly but not every programming language will do that so it is good proctice to not mix + and * operations
         }
-        else if (spriteTimerActive && spriteTimer < 0) ResetSprite();
+        else if (spriteTimerActive && spriteTimer < 0) ResetSprite();//FEEDBACK Mixed if statement line length?
     }
 
     public void OnMove(Note direction, double time)
